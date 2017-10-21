@@ -1,6 +1,6 @@
 module.exports = function(grunt) {
 
-    // 1. All configuration goes here 
+    // 1. All configuration goes here
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
 
@@ -15,7 +15,7 @@ module.exports = function(grunt) {
                 }
             }
         },
-        concat: {   
+        concat: {
             dist: {
                 src: [
                     'bower_components/jquery/dist/jquery.min.js',
@@ -26,8 +26,8 @@ module.exports = function(grunt) {
                     'craft/plugins/charge/resources/js/stripe_v2.min.js',
                     'craft/plugins/charge/resources/js/jquery.charge.js',
                     'app/_scripts/main.js'
-                ], 
-                dest: 'html/master.js',
+                ],
+                dest: 'assets/master.js',
             }
         },
         watch: {
@@ -37,7 +37,7 @@ module.exports = function(grunt) {
                 options: {
                     spawn: false
                 },
-            } 
+            }
         },
         // browserSync: {
         //     dev: {
@@ -50,7 +50,7 @@ module.exports = function(grunt) {
         //         }
         //     }
         // }
-        
+
 
     });
 
