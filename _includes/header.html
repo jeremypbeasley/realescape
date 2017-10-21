@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+     <title>REST</title>
+
+  <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
+  <meta property="og:site_name" content="REST – Real Escape from the Sex Trade"/>
+  <meta property="og:type" content="website"/>
+  <link href="/master.css" rel="stylesheet">
+  <script src="/master.js"></script>
+</head>
+
+<body>
+  {% set message = craft.session.getFlash('notice') %}
+  {% if message %}
+    <aside class="flash">{{ message }}</aside>
+  {% endif %}
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-29157146-2', 'auto');
+ ga('send', 'pageview');
+
+</script>
+
+<div class="guides">
+<div class="aguide"></div>
+<div class="aguide"></div>
+<div class="aguide"></div>
+<div class="aguide"></div>
+<div class="aguide"></div>
+<div class="aguide"></div>
+</div>
+
+<header>
+  <div class="logo linked"><a href="/">...</a></div>
+  <div class="DonateButtonBigParent">
+    <a href="/donate" class="DonateButtonBig">Donate</a>
+  </div>
+    <div id="thing" class="menuHit">
+    <h3>MENU</h3>
+      <div class="menuBtn">
+        <div class="hamburger">
+          <svg x='0px' y='0px' viewBox='0 0 50 50' enable-background='new 0 0 50 50' xml:space='preserve'>
+            <rect class='outer' width='50' height='1'/>
+            <rect class='outer' y='40' width='50' height='1'/>
+            <rect class='middle' y='20.5' width='50' height='1'/>
+            <rect class='middle second' y='20.5' width='50' height='1'/>
+          </svg>
+        </div>
+      </div>
+    </div>
+</header>
+
+<nav class="miniMenu hidden scrollable">
+  <ul>
+    <li><a href="/" id="volunteer">Home</a></li>
+    <li><a href="/volunteer" id="volunteer">Volunteer</a></li>
+    <li><a href="/services" id="services">Services</a></li>
+    <li><a href="/about" id="team">About</a></li>
+    <li><a href="/events" id="events">Events</a></li>
+    <li><a href="/blog" id="blog">Blog</a></li>
+  </ul>
+</nav>
+
+<nav class="fullMenu">
+  <ul>
+    <li><a class="fullMenuItem" href="/volunteer" id="volunteer">Volunteer</a></li>
+    <li><a class="fullMenuItem" href="/services" id="services">Services</a></li>
+    <li><a class="fullMenuItem" href="/about" id="team">About</a></li>
+    <li><a class="fullMenuItem" href="/events" id="events">Events</a></li>
+    <li><a class="fullMenuItem" href="/blog" id="blog">Blog</a></li>
+    <li><a class="cta" href="/donate">Donate</a></li>
+  </ul>
+</nav>
