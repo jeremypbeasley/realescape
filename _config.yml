@@ -1,6 +1,10 @@
 ---
 title: REST Website
 timezone: UTC
+markdown: kramdown
+url: iwantrest.com
+twitter_username: canlis
+github_username: jeremypbeasley
 collections:
   blog:
     title: Blog
