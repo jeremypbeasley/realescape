@@ -1,0 +1,27 @@
+{% include header.html %}
+
+<section class="blog index">
+  <div class="row heading">
+    <div class="column col-xs-12 col-md-4">
+      <div class="line"></div>
+      <h1>Blog</h1>
+    </div>
+    <div class="column col-xs-12 col-md-8 BlogContainer">
+      <div class="row BlogItem" id="repeatme">
+        {% for blog in site.blog %}
+        <div class="column post col-xs-12 linked BlogIndexItem">
+          <h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
+          {{ blog.date | date: '%B %d, %Y' }}
+          <p>
+            {{ blog.content | strip_html | truncatewords: 50 }}
+          </p>
+          <p class="underlined"><a href="{{ blog.url }}">Read More</a></p>
+        </div>
+        <div class="BreakLine"></div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include footer.html %}
