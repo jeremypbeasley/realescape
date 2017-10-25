@@ -14,6 +14,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  authors:
+    title: Authors
+    output: true
 defaults:
 - scope:
     path: ''
