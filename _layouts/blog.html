@@ -12,7 +12,7 @@
 				<div class="BlogAuthorImage" style="background-image: url({{ entry.author.photoUrl() }})"></div>
 				<p class="small">Written by {{entry.author.name}} <Br class="mobile">on {{ entry.postDate|date('F d, Y') }} </p>
 			</div>
-			{{ content }}
+			{{ content | markdownify }}
 			<div class="social">
 				<br><br><p></p>
 				<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
