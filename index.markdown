@@ -1,7 +1,5 @@
 ---
 title: Home
-content: this is the home page
-layout: default
+headline: On any given night in Seattle, hundreds will be sold for sex.
+layout: home
 ---
-
-this is the home page 2222
