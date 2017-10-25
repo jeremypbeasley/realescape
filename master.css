@@ -1748,27 +1748,6 @@ h4 {
     margin-bottom: 2rem;
   }
 }
-.BlogContainer h3 {
-  font-size: 8vw;
-  font-family: CircularStdBook, CircularStdBold, sans-serif;
-  margin: 0em 0 1em 0;
-}
-@media (min-width: 62em) {
-  .BlogContainer h3 {
-    font-size: 4vw;
-    margin: 1.5rem 0px 2.5rem 0px;
-  }
-}
-h4 {
-  font-size: 2.3rem;
-}
-h5 {
-  font-size: 1.8rem;
-}
-h6 {
-  font-size: 1.25rem;
-  color: #00f;
-}
 .underlined a {
   padding-bottom: 3px;
   border-bottom: #000 solid 1px;
