@@ -1,10 +1,6 @@
 ---
 title: REST Website
 timezone: UTC
-markdown: kramdown
-url: iwantrest.com
-twitter_username: canlis
-github_username: jeremypbeasley
 collections:
   blog:
     title: Blog
@@ -30,4 +26,8 @@ defaults:
     type: pages
   values:
     layout: page
+markdown: kramdown
+url: iwantrest.com
+twitter_username: canlis
+github_username: jeremypbeasley
 permalink: pretty
