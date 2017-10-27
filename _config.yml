@@ -2,6 +2,9 @@
 title: REST Website
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: true
   blog:
     title: Blog
     output: true
@@ -13,9 +16,6 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-  authors:
-    title: Authors
     output: true
 defaults:
 - scope:
