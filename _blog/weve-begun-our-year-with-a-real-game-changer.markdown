@@ -1,0 +1,43 @@
+---
+title: We've Begun Our Year with a Real Game Changer
+author: bridget
+date: 2016-10-09
+layout: blog
+---
+
+At REST, it seems like we're always up to something big: a resident finishes school and gains a degree, a survivor joins our support group and finds a meaningful community or we celebrate another survivor who has successfully escaped the sex trade for 30 days, 6 months or a year. These last few months have been no different. There is a lot to catch up on, and so much to celebrate!
+
+#####Backpage.com CEO Charged with Pimping
+Late last week, several executives, including the CEO of perhaps what can be considered the largest American online brothel, of [backpage.com](https://oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-announces-criminal-charges-against-senior), were arrested on on felony charges of pimping a minor, pimping, and conspiracy to commit pimping. Thousands of man hours and likely millions of dollars have been spent in an effort to shut down backpage.com's ads for “escort services” which have made millions of dollars off the illegal sex trade. Although Backpage has continued to call themselves allies to anti-trafficking activists, internal business records obtained through a search warrant show that 99% of its revenue came from its adult services section between January 2013 and March 2015. Backpage.com is not an ally, but a trafficker who hides behind deceptive devices in order to make money off of someone else’s exploitation.
+
+Technology and the internet have fueled this underground marketplace. In fact, over the years, REST has seen the dramatic decline in our ability to reach victims and survivors on the street because sites like backpage.com have facilitated the isolation and anonymity of those who are seeking escape from the sex trade, or are otherwise in need of services. We, as direct-service providers, needed a way to reclaim our access.
+
+#####Our Response
+Last year, as part of our partnership with [Seattle Against Slavery](http://www.seattleagainstslavery.org/) (SAS), REST launched new outreach efforts in hopes to let those being sold online know help and hope were available to them, should they desire it. Our partnership provided a way for our advocates to connect with potential victims directly. Through the use of technology, REST was able to "scrape" and translate numbers posted in commercial sex ads, and send hundreds of texts each month. We were immediately encouraged by the early results. Victims self-identified and were given individualized support to remove the barriers they faced. We knew this was a powerful tool that we needed to scale, and we also knew that to do this successfully, we needed help.
+
+#####Tech-Industry Employees join REST and SAS to Hack for Good
+This summer, REST, along with SAS, was invited to pitch our project idea around text outreach to victims to a team at Microsoft as part of the company’s 2016 //oneweek Hackathon where employees take time off from their day jobs to create, innovate and hack on ideas that inspire them. After a successful pitch, dozens of Microsoft employees joined our Hack for Good team and begun helping us leverage our existing technology in order to improve our efficiency, accuracy, and scalability of our approach to outreach. Sponsored by Microsoft Philanthropies, Hack for Good is a community of Microsoft employees who are passionate about using their technical and business skills to help solve some of the world’s greatest societal problems. Throughout the event, thousands of Microsoft employees viewed our project which received enough votes to win the “Learned Something New” category. We were also awarded first place in the Hack for Good category. And beyond the //oneweek Hackathon effort, many of those employees have continued to dedicate volunteer time to continue to enhance our project. We are beyond grateful for the impact that text outreach has and will continue to have on our community, and are excited about the delivery system we created that will allow other anti-trafficking agencies to do the same. This project represents the best of collaborative efforts.
+
+![](http://iwantrest.com/uploads/Screen-Shot-2016-10-10-at-11.47.05-PM.png)
+
+And the timing of the enhanced text outreach couldn’t be more ideal with the launch of our long-awaited Emergency Receiving Center!
+
+#####Our Emergency Shelter Opens Next Month
+As you know, in just under seven years, REST has provided meaningful services and impacted hundreds and hundreds of lives. When REST opened our residential program for victims of sex trafficking, it was the first for adults in our region. For some of the residents, it has been the safety and stability they’ve needed to move forward and take steps toward a new future. But, for some, and the many who never make it there, the step from homelessness and or drug addiction is too great, and they need an intermediate step. Clients, law enforcement, therapists and other service agencies all agree. There are numerous existing shelters, many of which we have used, but are either inadequate to provide the setting needed to consider long-term stabilization, or are so overrun with the tremendous demand for emergency placement they simply do not have a bed to offer. We know first hand the hardship of this reality, and because of it, our team works for days, or sometimes weeks, finding placement.
+
+
+![](http://iwantrest.com/uploads/Screen-Shot-2016-10-11-at-12.09.24-AM.png)
+
+In fact, this year alone (July ’15-June ’16), there were no beds available in King County for nearly 40% of women who called the REST hotline looking for a safe place to stay. These brave women took an incredible risk and reached out for help only to be told, “There’s no place for you to go tonight.”
+
+For almost three years, REST has been championing such a place. We call it the Emergency Receiving Center (ERC). We’ve spent the better part of a year researching best trauma-informed practices, vetting properties, building financial support, writing job descriptions, hiring team members and more because we are convinced closing this gap will be a game-changer for victims of human trafficking.
+Starting this November, the ERC will serve identified/self-reported victims of sex trafficking and those seeking escape from the sex trade referred to REST by partnering local law enforcement, other referral agencies, and the REST 24-hour hotline. The ERC will provide 30-60 days of emergency housing, intensive case management, and daytime programming to help guests begin to stabilize and consider what life free from exploitation looks and feels like.
+
+The ERC will also serve young women who have already accessed long-term housing programs but have since become destabilized in their environment. Rather than returning to the streets, or back to a trafficker, they will have the option of utilizing the ERC as a safety net to rebuild stability and then re-engage with their long-term goals.
+
+The annual cost of the running the 7-bed ERC is a $550,000+ program which will provide more than 2,500 nights of shelter for victims of human trafficking. While the cost will be significant for this program, so will be the impact. Imagine when our 24-hour hotline rings with someone looking to escape a violent trafficker, having them hear, “There is a safe place for you to go tonight, and a team of people dedicated to helping you.” Imagine the impact of increased coordination between social service agencies and local police who have an immediate place to bring victims of human trafficking when rescued. Imagine a place where people who have escaped those same experiences are waiting to say, “If I did it, you can too.” We are elated to provide such a place, and we hope you will consider continued partnership with REST to make it possible. The ERC cost also includes expanded drop-in services including daily classes, support groups, and workshops.
+
+#####What’s Next
+We do hold on to the belief that one day WA State will become inhospitable to the trafficking of people, and our hope continues to be to work ourselves out of a job. Until then, there are thousands of people, locally, right now, who seek critical support to leave the sex trade behind and begin to heal from the violence and trauma they have endured. Our work: text outreach, the emergency shelter, the 24/7 crisis intervention line, the residential program, Thrive and more, depends on you. Thank you for joining our efforts and making this possible. You are the game-changer.
+
+[Embolden our efforts today by offering REST](www.iwantrest.com/give) to those in our community who have been trafficked for commercial sex.
