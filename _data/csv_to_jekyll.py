@@ -27,8 +27,9 @@ for row_index, row in enumerate(datareader):
 	else:
 		# Open a new file with filename based on the first column
 		filename = row[0].lower().replace(' ', '_') + '.markdown'
+		path = '../_blog/'
 		# new_yaml = open(filename, 'w')
-		new_yaml = open(filename, 'w')
+		new_yaml = open(path + filename, 'w')
 
 		# Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
 		yaml_text = ''
