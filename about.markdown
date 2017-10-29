@@ -1,6 +1,6 @@
 ---
 title: About
-position: 2
+position: 3
 headline: We exist to bring freedom, safety, & hope.
 layout: about
 ---
