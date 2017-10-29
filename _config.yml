@@ -31,18 +31,19 @@ defaults:
   values:
     permalink: "/events/:title/"
     layout: events
-    thumbnail:
+    image:
     location:
     location_maplink:
     excerpt:
     event_date:
     post_date:
     exp_date:
+    is_sticky:
 - scope:
     path: ''
     type: authors
   values:
-    name: 
+    name:
     photo:
     twitterhandle:
     facebookhandle:
