@@ -26,11 +26,11 @@ defaults:
     path: ''
     type: authors
   values:
-    permalink: "/blog/authors/:title/"
     twitter:
     bio:
     photo:
     fullname:
+    username:
 markdown: kramdown
 url: iwantrest.com
 twitter_username: canlis

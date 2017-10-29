@@ -13,9 +13,12 @@
           <h2><a href="{{ blog.url }}">{{ blog.title}}</a></h2>
           {% assign author = site.authors | where: 'username', blog.author | first %}
           {% if author %}
-            Written by {{ author.fullname }} on {{ blog.date | date: '%B %d, %Y' }}
-            {% else %}
-            {{ blog.date | date: '%B %d, %Y' }}
+            <div class="BlogMeta">
+            {% if author.photo %}
+              <div class="BlogAuthorImage" style="background-image: url({{ author.photo }})"></div>
+            {% endif %}
+            <p class="small">Written by {{ author.fullname }} <Br class="mobile">on {{ blog.date | date: '%B %d, %Y' }}</p>
+            </div>
           {% endif %}
           <p>
             {{ blog.content | strip_html | truncatewords: 50 }}
