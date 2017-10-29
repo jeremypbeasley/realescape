@@ -1,5 +1,7 @@
 ---
 title: Our Story
+is_in_topnav: false
+is_in_bottomnav: false
 layout: default
 ---
 
