@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Jobs
 layout: default
 ---
 
