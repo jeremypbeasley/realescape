@@ -18,15 +18,24 @@ We’re not going to ask you to pour ice water over your head. But we are going 
 
 We get asked often how people can get involved—so we thought we’d put together a list of ways you can do just that. Here are five ways to make an impact for the hundreds that will be sold for sex in our community tonight:
 
-#####Pray.
+### Pray.
+
 Stop reading this blog for a minute, and take a moment to pray for those in Seattle who are being exploited in the sex trade. Take a moment to pray for those purchasing sex in our community. Pray for REST. Pray for your reaction to the rest of this blog. Consider committing to being a prayer partner, and showing up at our [prayer events](https://iwantrest.com/events).
-#####Donate.
+
+### Donate.
+
 From operating our REST House, the Emergency Receiving Center Shelter, and Drop-In Center, to having people available to help women seeking to exit the sex trade—and having material resources for them—we need your support. Whether you’re able to make a one-time donation, or become a monthly supporter, or [provide directly for material needs](https://iwantrest.com/needs)—we need your help. [Make a financial donation here](https://iwantrest.com/donate).
-#####Get Trained & Volunteer.
+
+### Get Trained & Volunteer.
+
 There are many ways you can volunteer at REST—and it all starts with attending a [Training Day](https://iwantrest.com/events). We need frontline volunteers as well as people working in the background. [Learn more about volunteering here](https://iwantrest.com/volunteer). One upcoming volunteer need we have is for a volunteer photographer and a few volunteer models for a photoshoot. If you’re interested, email [communication@iwantrest.com](mailto:communication@iwantrest.com).
-#####Join us at [A Night of REST](https://iwantrest.com/event/a-night-of-rest-2).
+
+### Join us at [A Night of REST](https://iwantrest.com/event/a-night-of-rest-2).
+
 Attend our annual fundraising gala on November 11. Connect with other like-minded people in our community, enjoy dinner, and participate in live and silent auctions to raise funds to bring REST to exploited individuals. [Info & tickets are available here](https://iwantrest.com/event/a-night-of-rest-2).
-#####Use your platform.
+
+### Use your platform.
+
 We know we’re encouraging you to put slacktivism to death—but that doesn’t mean we don’t need [your voice](https://iwantrest.com/blog/3-essential-components-to-winning-the-war-on-human-trafficking-1). It means we need your voice <i>and</i>. We need your voice <i>and</i> your intentional commitment to bring freedom, safety, and hope to those exploited in the commercial sex trade in King County. One new way you can use your voice to very practically help us is by starting a [Facebook Fundraiser](https://www.facebook.com/fundraisers/). Through Facebook Fundraisers, we can collectively, as a community, put our money where our social media mouth is and make a real—visible—tangible—impact. Facebook fans have already raised over $3,200 for REST. $3,200 can keep our ERC Shelter & Drop-In Center open for two days, or provide life skills training for all of the women in the REST house for a year, or help ten survivors escape to a safe, out-of-state location.
 
 You can make a significant impact for those exploited in the commercial sex trade in our community right now—if you’re willing to put slacktivism to death and take action.

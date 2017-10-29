@@ -7,17 +7,22 @@
 			<p class="underlined BlogBack"><a href="{{ site.url }}">Back to Home</a></p>
 		</div>
 		<div class="column col-xs-12 col-md-8 BlogContainer">
-			<h2><a href="BLOGURL">{{ blog.title }}</a></h2>
-			<div class="BlogMeta">
-				<div class="BlogAuthorImage" style="background-image: url(AUTHORIMAGE)"></div>
-				<p class="small">Written by AUTHOR <Br class="mobile">on DATE </p>
-			</div>
+			<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+			{% assign author = site.authors | where: 'name', page.author | first %}
+			{% if author %}
+				<div class="BlogMeta">
+				{% if author.photo %}
+					<div class="BlogAuthorImage" style="background-image: url({{ author.photo }})"></div>
+				{% endif %}
+				<p class="small">Written by {{ author.title }} <Br class="mobile">on {{ page.date | date: '%B %d, %Y' }}</p>
+				</div>
+			{% endif %}
 			{{ content | markdownify }}
 			<div class="social">
 				<br><br><p></p>
 				<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-				<div class="fb-share-button" data-href="{{ blog.url }}" data-layout="button_count"></div>
+				<div class="fb-share-button" data-href="{{ page.url }}" data-layout="button_count"></div>
 			</div>
 		</div>
 	</div>
