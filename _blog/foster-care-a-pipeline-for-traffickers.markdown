@@ -1,5 +1,5 @@
 ---
-title: Foster Care: A Pipeline for Traffickers
+title: Foster Care&#x3a; A Pipeline for Traffickers
 author: bridget
 date: 2014-03-07
 layout: blog

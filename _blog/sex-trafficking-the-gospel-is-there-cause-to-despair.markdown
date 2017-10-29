@@ -1,5 +1,5 @@
 ---
-title: Sex Trafficking & The Gospel: Is There Cause to Despair?
+title: Sex Trafficking &amp; The Gospel&#x3a; Is There Cause to Despair&#x3f;
 author: bridget
 date: 2014-03-26
 layout: blog

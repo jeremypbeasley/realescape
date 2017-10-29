@@ -1,5 +1,5 @@
 ---
-title: A Penny for your Thoughts? Survivor Feedback is Gold.
+title: A Penny for your Thoughts&#x3f; Survivor Feedback is Gold.
 author: bridget
 date: 2017-06-07
 layout: blog

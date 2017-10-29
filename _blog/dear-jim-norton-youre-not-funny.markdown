@@ -1,5 +1,5 @@
 ---
-title: Dear Jim Norton, You’re Not Funny.
+title: Dear Jim Norton&#x2c; You&apos;re Not Funny.
 author: bridget
 date: 2014-08-17
 layout: blog

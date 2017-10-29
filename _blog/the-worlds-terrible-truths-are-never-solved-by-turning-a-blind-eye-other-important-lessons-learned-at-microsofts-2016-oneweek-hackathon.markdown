@@ -1,5 +1,5 @@
 ---
-title: “The World’s Terrible Truths are Never Solved by Turning a Blind Eye,” & Other Important Lesson’s Learned at Microsoft’s 2016 //oneweek Hackathon.
+title: “The World&apos;s Terrible Truths are Never Solved by Turning a Blind Eye&#x2c;” &amp; Other Important Lesson&apos;s Learned at Microsoft&apos;s 2016 //oneweek Hackathon.
 author: bridget
 date: 2016-10-17
 layout: blog

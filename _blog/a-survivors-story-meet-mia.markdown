@@ -1,5 +1,5 @@
 ---
-title: A Survivor’s Story:  Meet Mia
+title: A Survivor&apos;s Story&#x3a;  Meet Mia
 author: bridget
 date: 2015-03-26
 layout: blog

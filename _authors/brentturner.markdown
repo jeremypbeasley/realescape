@@ -1,10 +1,8 @@
 ---
-layout: county
 username: brentturner
 fullname: Brent Turner
 email: brentturner@gmail.com
-bio: 
-twitterhandle: 
+bio:
+twitterhandle:
 facebookhandle: brentturner
 ---
-

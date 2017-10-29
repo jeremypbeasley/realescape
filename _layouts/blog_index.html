@@ -12,6 +12,11 @@
         <div class="column post col-xs-12 linked BlogIndexItem">
           <h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
           {{ blog.date | date: '%B %d, %Y' }}
+
+
+
+
+
           <p>
             {{ blog.content | strip_html | truncatewords: 50 }}
           </p>

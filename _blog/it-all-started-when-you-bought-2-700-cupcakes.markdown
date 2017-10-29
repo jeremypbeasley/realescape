@@ -1,5 +1,5 @@
 ---
-title: It All Started When You Bought $2,700 Cupcakes
+title: It All Started When You Bought &#x24;2&#x2c;700 Cupcakes
 author: bridget
 date: 2015-11-16
 layout: blog

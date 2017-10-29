@@ -1,5 +1,5 @@
 ---
-title: Give for Goodness’ Sake…and for Yours
+title: Give for Goodness&apos; Sake…and for Yours
 author: bridget
 date: 2014-12-20
 layout: blog

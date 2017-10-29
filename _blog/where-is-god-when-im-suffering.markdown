@@ -1,5 +1,5 @@
 ---
-title: Where is God When I’m Suffering?
+title: Where is God When I&apos;m Suffering&#x3f;
 author: bridget
 date: 2014-11-24
 layout: blog

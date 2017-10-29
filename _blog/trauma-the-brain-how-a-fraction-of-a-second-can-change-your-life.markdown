@@ -1,5 +1,5 @@
 ---
-title: Trauma & the Brain: How a Fraction of a Second Can Change Your Life
+title: Trauma &amp; the Brain&#x3a; How a Fraction of a Second Can Change Your Life
 author: bridget
 date: 2015-01-06
 layout: blog

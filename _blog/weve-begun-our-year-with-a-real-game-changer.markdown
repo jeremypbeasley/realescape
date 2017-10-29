@@ -1,5 +1,5 @@
 ---
-title: We've Begun Our Year with a Real Game Changer
+title: We&apos;ve Begun Our Year with a Real Game Changer
 author: bridget
 date: 2016-10-09
 layout: blog

@@ -1,5 +1,5 @@
 ---
-title: 5 Incredible Years: What’s Next
+title: 5 Incredible Years&#x3a; What&apos;s Next
 author: bridget
 date: 2014-11-14
 layout: blog

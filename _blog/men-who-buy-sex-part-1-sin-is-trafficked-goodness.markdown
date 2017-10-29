@@ -1,5 +1,5 @@
 ---
-title: Men Who Buy Sex, Part 1: Sin is Trafficked Goodness
+title: Men Who Buy Sex&#x2c; Part 1&#x3a; Sin is Trafficked Goodness
 author: bridget
 date: 2014-06-16
 layout: blog

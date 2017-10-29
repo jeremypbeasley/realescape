@@ -1,5 +1,5 @@
 ---
-title: Two Things You Can Do Today To Support Human Trafficking Victims: HB 2668 & SB 5277
+title: Two Things You Can Do Today To Support Human Trafficking Victims&#x3a; HB 2668 &amp; SB 5277
 author: bridget
 date: 2016-02-22
 layout: blog
