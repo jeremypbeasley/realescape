@@ -21,4 +21,4 @@ Amanda Hightower
 
 Executive Director, REST
 
-!(Amanda's signature)[/uploads/signature.png]
+![Amanda's signature](/uploads/signature.png)
