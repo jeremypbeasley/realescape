@@ -24,16 +24,17 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: blog
-    author: 
+    author:
 - scope:
     path: ''
     type: authors
   values:
-    twitter: 
-    bio: 
-    photo: 
-    fullname: 
-    username: 
+    title:
+    name:
+    photo:
+    twitterhandle:
+    facebookhandle:
+    bio:
 markdown: kramdown
 url: iwantrest.com
 twitter_username: canlis
