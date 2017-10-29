@@ -1,6 +1,6 @@
 ---
-name: brentturner
 title: Brent Turner
+name: brentturner
 email: brentturner@gmail.com
 bio: 
 twitterhandle: 
