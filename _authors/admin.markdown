@@ -1,8 +1,10 @@
 ---
+title: Admin
 username: admin
 fullname: REST
 email: info@iwantrest.com
-bio:
+bio: 
 twitterhandle: iwantrest
 facebookhandle: wewantrest
 ---
+

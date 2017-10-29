@@ -1,8 +1,10 @@
 ---
+title: Justin
 username: justin
 fullname: Justin Holcomb
 email: info@iwantrest.com
-bio:
-twitterhandle:
-facebookhandle:
+bio: 
+twitterhandle: 
+facebookhandle: 
 ---
+

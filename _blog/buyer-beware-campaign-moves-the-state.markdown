@@ -1,7 +1,8 @@
 ---
-title: Buyer Beware Campaign Moves the State One Step Closer to Being Inhospitable to Traffickers
+title: Buyer Beware Campaign Moves the State One Step Closer to Being Inhospitable
+  to Traffickers
+date: 2014-10-20 00:00:00 Z
 author: admin
-date: 2014-10-20
 layout: blog
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: What Happens When 500 People Come Together and #GiveREST
+title: What Happens When 500 People Come Together and
+date: 2014-11-09 00:00:00 Z
 author: bridget
-date: 2014-11-09
 layout: blog
 ---
 
