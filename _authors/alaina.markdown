@@ -1,10 +1,10 @@
 ---
-title: Alaina
-username: alaina
-fullname: Alaina Stocker
+name: alaina
+title: Alaina Stocker
 email: info@iwantrest.com
 bio: 
 twitterhandle: 
 facebookhandle: 
+photo: 
 ---
 

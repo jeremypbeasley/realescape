@@ -1,10 +1,10 @@
 ---
-title: Amanda
-username: amanda
-fullname: Amanda Hightower
+name: amanda
+title: Amanda Hightower
 email: info@iwantrest.com
 bio: 
 twitterhandle: 
 facebookhandle: 
+photo: 
 ---
 

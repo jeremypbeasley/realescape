@@ -1,10 +1,10 @@
 ---
-title: Chariti
-username: chariti
-fullname: Chariti Saunders
+name: chariti
+title: Chariti Saunders
 email: info@iwantrest.com
 bio: 
 twitterhandle: 
 facebookhandle: 
+photo: 
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Maggie
-username: maggie
-fullname: Maggie Farag
+name: maggie
+title: Maggie Farag
 email: info@iwantrest.com
 bio: 
 twitterhandle: 
 facebookhandle: 
+photo: 
 ---
 

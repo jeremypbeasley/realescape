@@ -9,7 +9,7 @@ import html
 import cgi
 
 # Open our data file in read-mode.
-csvfile = open('data.csv', 'r')
+csvfile = open('blogs.csv', 'r')
 
 # Save a CSV Reader object.
 datareader = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -60,7 +60,7 @@ for row_index, row in enumerate(datareader):
 				def html_escape(text):
 				    return "".join(html_escape_table.get(c,c) for c in text)
 				cell_clean = cell.replace('\n', ', ').replace('"', '')
-				
+
 				# Add this line of text to the current YAML string.
 				yaml_text += cell_heading + ': ' + html_escape(cell_clean) + '\n'
 

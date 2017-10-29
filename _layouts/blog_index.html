@@ -11,13 +11,13 @@
         {% for blog in site.blog reversed %}
         <div class="column post col-xs-12 linked BlogIndexItem">
           <h2><a href="{{ blog.url }}">{{ blog.title}}</a></h2>
-          {% assign author = site.authors | where: 'username', blog.author | first %}
+          {% assign author = site.authors | where: 'name', blog.author | first %}
           {% if author %}
             <div class="BlogMeta">
             {% if author.photo %}
               <div class="BlogAuthorImage" style="background-image: url({{ author.photo }})"></div>
             {% endif %}
-            <p class="small">Written by {{ author.fullname }} <Br class="mobile">on {{ blog.date | date: '%B %d, %Y' }}</p>
+            <p class="small">Written by {{ author.title }} <Br class="mobile">on {{ blog.date | date: '%B %d, %Y' }}</p>
             </div>
           {% endif %}
           <p>
