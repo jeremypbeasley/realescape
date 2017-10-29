@@ -24,14 +24,13 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: blog
-    author: 
+    author:
 - scope:
     path: ''
     type: events
   values:
     permalink: "/events/:title/"
     layout: events
-<<<<<<< HEAD
     image:
     location:
     location_maplink:
@@ -40,32 +39,15 @@ defaults:
     post_date:
     exp_date:
     is_sticky:
-=======
-    thumbnail: 
-    location: 
-    location_maplink: 
-    excerpt: 
-    event_date: 
-    post_date: 
-    exp_date: 
->>>>>>> 37c36b8bf285c0ddb244db43c5719548431a6004
 - scope:
     path: ''
     type: authors
   values:
-<<<<<<< HEAD
     name:
     photo:
     twitterhandle:
     facebookhandle:
     bio:
-=======
-    name: 
-    photo: 
-    twitterhandle: 
-    facebookhandle: 
-    bio: 
->>>>>>> 37c36b8bf285c0ddb244db43c5719548431a6004
 markdown: kramdown
 url: iwantrest.com
 twitter_username: canlis
