@@ -4,26 +4,18 @@
 	<div class="row heading ">
 		<div class="column col-xs-12 col-md-4">
 			<div class="line"></div>
-			<p class="underlined BlogBack"><a href="{{ site.url }}">Back to Home</a></p>
+			<p class="underlined BlogBack"><a href="{{ site.url }}/events">Back to Events</a></p>
 		</div>
 		<div class="column col-xs-12 col-md-8 BlogContainer">
 			<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 			{{ content | markdownify }}
+			<p><a href="{{ page.location_maplink}}">Get directions</a></p>
 			<div class="social">
 				<br><br><p></p>
 				<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 				<div class="fb-share-button" data-href="{{ page.url }}" data-layout="button_count"></div>
 			</div>
-		</div>
-	</div>
-</section>
-<section class="DonationCTA">
-	<div class="row">
-		<div class="column col-xs-12 col-md-5 col-md-offset-5">
-			<h2>Would you give rest?</h2>
-			<p>REST was founded in 2009 to build pathways of freedom, safety and hope for those exploited by the sex trade in the Seattle region. A huge part of our annual funding comes from individuals like you, who make our work possible through generous giving. Please consider a donation today.</p>
-			<h3><a class="cta inverted" href="/donate">Donate Now</a></h3>
 		</div>
 	</div>
 </section>
