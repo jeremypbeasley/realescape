@@ -1,6 +1,7 @@
 ---
 title: A Night of REST 2017
 date: 2017-10-29 01:57:00 Z
+image: "/uploads/ANOR_basic-web-sq-bc68d2.jpg"
 location: Meydenbauer Center, Bellevue, WA
 location_maplink: https://www.google.com/maps/place/Meydenbauer+Center/@47.615916,-122.191856,15z/data=!4m2!3m1!1s0x0:0x36097b4fff1c20b9?sa=X&ved=0ahUKEwj3l5m93pTXAhXCKWMKHcV9ATYQ_BIIejAN
 excerpt: Join us for our 5th annual A Night of REST, silent & live auction benefitting
@@ -9,6 +10,7 @@ excerpt: Join us for our 5th annual A Night of REST, silent & live auction benef
 event_date: 2017-11-11 17:30:00 Z
 post_date: 2017-10-01 00:00:00 Z
 exp_date: 2017-11-12 20:17:00 Z
+is_sticky: true
 ---
 
 <img src="http://iwantrest.com/uploads/ANOR_basic-web_no-logo.png">
