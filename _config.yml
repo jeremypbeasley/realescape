@@ -24,6 +24,20 @@ defaults:
     author:
 - scope:
     path: ''
+    type: events
+  values:
+    permalink: "/events/:title/"
+    layout: events
+    title:
+    thumbnail:
+    location:
+    location_maplink:
+    excerpt:
+    event_date:
+    post_date:
+    exp_date:
+- scope:
+    path: ''
     type: authors
   values:
     title:
