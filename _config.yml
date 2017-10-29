@@ -24,14 +24,13 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: blog
-    author: 
+    author:
 - scope:
     path: ''
     type: events
   values:
     permalink: "/events/:title/"
     layout: events
-    title:
     thumbnail:
     location:
     location_maplink:
@@ -43,12 +42,11 @@ defaults:
     path: ''
     type: authors
   values:
-    title: 
     name: 
-    photo: 
-    twitterhandle: 
-    facebookhandle: 
-    bio: 
+    photo:
+    twitterhandle:
+    facebookhandle:
+    bio:
 markdown: kramdown
 url: iwantrest.com
 twitter_username: canlis
