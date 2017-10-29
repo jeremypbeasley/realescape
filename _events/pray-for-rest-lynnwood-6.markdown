@@ -11,14 +11,14 @@ excerpt: There is no prayer meeting at this location for November and December d
 event_date: 2018-01-25 19:00:00 Z
 post_date: 2017-10-01 00:00:00 Z
 exp_date: 2018-01-25 00:00:00 Z
-is_sticky: 
+is_featured: false
 ---
 
 Join us the 4th Thursday of each month as we pray for those experiencing the devastating effects of commercial sexual exploitation and trafficking and the work REST is doing to combat it.
 
 Where: REST Offices - 4215 Rainier Avenue S #B, Seattle, WA 98118
 
-When: 4th Thursday of each month, 7-8:30pm 
+When: 4th Thursday of each month, 7-8:30pm
 Next meeting: Thursday, January 25th, 2018
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)

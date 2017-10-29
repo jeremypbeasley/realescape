@@ -10,7 +10,7 @@ excerpt: Join us for our 5th annual A Night of REST, silent & live auction benef
 event_date: 2017-11-11 17:30:00 Z
 post_date: 2017-10-01 00:00:00 Z
 exp_date: 2017-11-12 20:17:00 Z
-is_sticky: true
+is_featured: true
 ---
 
 <img src="http://iwantrest.com/uploads/ANOR_basic-web_no-logo.png">

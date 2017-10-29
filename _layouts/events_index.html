@@ -7,20 +7,37 @@
 			<h1>{{ page.title }}</h1>
 		</div>
 	</div>
-	{% for event in site.events reversed %}
+	{% assign featured_events = site.events | where:"is_featured","true" %}
+	{% for event in featured_events reversed  %}
 		<div class="row linked stacked EventsItem">
-			<div class="column post col-xs-12 col-md-6">
+			<div class="column col-xs-12 col-md-6">
+				<h3>Featured Event</h3>
 				<h2 ><a href="{{ event.url }}">{{ event.title}}</a></h2>
 				<p>{{ event.event_date | date: '%B %d, %Y' }}<Br>{{ event.location }}</p>
 				<p>{{ event.excerpt | strip_html | truncatewords: 50 }}</p>
-				<p class="underlined"><a href="{{ event.url }}" >Learn More</a></p>
+				<p class="underlined"><a href="{{ event.url }}">Learn More</a></p>
 			</div>
 			<div class="column post col-xs-12 col-md-6">
 				<div class="EventsThumbnail" style="background-image: url({{ event.image }})"></div>
 			</div>
 			<div class="BreakLine"></div>
 		</div>
-		{% endfor %}
+	{% endfor %}
+	{% assign not_featured_events = site.events | where:"is_featured","false" %}
+	{% for event in not_featured_events reversed  %}
+		<div class="row linked stacked EventsItem">
+			<div class="column post col-xs-12 col-md-7">
+				<h2><a href="{{ event.url }}">{{ event.title}}</a></h2>
+				<p>{{ event.event_date | date: '%B %d, %Y' }}<Br>{{ event.location }}</p>
+				<p>{{ event.excerpt | strip_html | truncatewords: 50 }}</p>
+				<p class="underlined"><a href="{{ event.url }}">Learn More</a></p>
+			</div>
+			<div class="column post col-xs-12 col-md-4 col-md-offset-1">
+				<div class="EventsThumbnail" style="background-image: url({{ event.image }})"></div>
+			</div>
+			<div class="BreakLine"></div>
+		</div>
+	{% endfor %}
 </section>
 
 {% include footer.html %}

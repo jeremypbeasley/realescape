@@ -10,6 +10,7 @@ excerpt: Join us the 2nd Wednesday of each month as we pray for those experienci
 event_date: 2017-11-08 08:00:00 Z
 post_date: 2017-10-01 00:00:00 Z
 exp_date: 2017-11-09 00:00:00 Z
+is_featured: false
 ---
 
 Join us the 2nd Wednesday of each month as we pray for those experiencing the devastating effects of commercial sexual exploitation and trafficking and the work REST is doing to combat it.
