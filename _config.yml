@@ -11,6 +11,9 @@ collections:
   events:
     title: Events
     output: true
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -21,7 +24,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: blog
-    author:
+    author: 
 - scope:
     path: ''
     type: events
@@ -40,12 +43,12 @@ defaults:
     path: ''
     type: authors
   values:
-    title:
-    name:
-    photo:
-    twitterhandle:
-    facebookhandle:
-    bio:
+    title: 
+    name: 
+    photo: 
+    twitterhandle: 
+    facebookhandle: 
+    bio: 
 markdown: kramdown
 url: iwantrest.com
 twitter_username: canlis
