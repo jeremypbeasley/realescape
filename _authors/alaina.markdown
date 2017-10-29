@@ -1,6 +1,6 @@
 ---
-name: alaina
 title: Alaina Stocker
+name: alaina
 email: info@iwantrest.com
 bio: 
 twitterhandle: 

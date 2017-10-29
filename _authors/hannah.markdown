@@ -1,6 +1,6 @@
 ---
-name: hannah
 title: Hannah Lorence
+name: hannah
 email: info@iwantrest.com
 bio: 
 twitterhandle: 

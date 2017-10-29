@@ -1,9 +1,10 @@
 ---
-name: bridget
 title: Bridget Battistoni
+name: bridget
 email: bridget@iwantrest.com
-bio:
+bio: 
 twitterhandle: bridgetbatt
-facebookhandle:
-photo: /uploads/bridget.jpg
+facebookhandle: 
+photo: "/uploads/bridget.jpg"
 ---
+

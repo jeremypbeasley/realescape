@@ -1,6 +1,6 @@
 ---
-name: alexa
 title: Alexa Whiting
+name: alexa
 email: info@iwantrest.com
 bio: 
 twitterhandle: 
