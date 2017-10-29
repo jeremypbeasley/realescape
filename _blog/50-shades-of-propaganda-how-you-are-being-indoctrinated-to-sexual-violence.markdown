@@ -1,7 +1,7 @@
 ---
 title: 50 Shades of Propaganda&#x3a; How You Are Being Indoctrinated To Sexual Violence
+date: 2015-02-11 00:00:00 Z
 author: bridget
-date: 2015-02-11
 layout: blog
 ---
 

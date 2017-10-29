@@ -1,7 +1,7 @@
 ---
 title: A Penny for your Thoughts&#x3f; Survivor Feedback is Gold.
+date: 2017-06-07 00:00:00 Z
 author: bridget
-date: 2017-06-07
 layout: blog
 ---
 
