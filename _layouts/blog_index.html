@@ -8,15 +8,15 @@
     </div>
     <div class="column col-xs-12 col-md-8 BlogContainer">
       <div class="row BlogItem" id="repeatme">
-        {% for blog in site.blog %}
+        {% for blog in site.blog reversed %}
         <div class="column post col-xs-12 linked BlogIndexItem">
-          <h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
-          {{ blog.date | date: '%B %d, %Y' }}
-
-
-
-
-
+          <h2><a href="{{ blog.url }}">{{ blog.title}}</a></h2>
+          {% assign author = site.authors | where: 'username', blog.author | first %}
+          {% if author %}
+            Written by {{ author.fullname }} on {{ blog.date | date: '%B %d, %Y' }}
+            {% else %}
+            {{ blog.date | date: '%B %d, %Y' }}
+          {% endif %}
           <p>
             {{ blog.content | strip_html | truncatewords: 50 }}
           </p>
