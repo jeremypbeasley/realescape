@@ -1,7 +1,7 @@
 ---
 title: Pray for REST, Lynnwood!
 date: 2017-10-21 20:09:00 Z
-thumbnail: "/uploads/Stocksy_txpe50966b4pKy000_Small_527174-20ebe9.jpg"
+image: "/uploads/Stocksy_txpe50966b4pKy000_Small_527174-20ebe9.jpg"
 location: REST Offices, South Seattle
 location_maplink: https://www.google.com/maps/place/REST:+Real+Escape+from+the+Sex+Trade/@47.5651467,-122.2889162,15z/data=!4m2!3m1!1s0x0:0x127be80f909d13c5?sa=X&ved=0ahUKEwjNgMLT3JTXAhVW_WMKHZCaBBUQ_BII9QEwHA
 excerpt: There is no prayer meeting at this location for November and December due
