@@ -2,8 +2,8 @@
 title: Home
 position: 0
 headline: On any given night in Seattle, hundreds will be sold for sex.
-section1_headline: Our goal is simple — freedom, safety, and hope to women & girls
-  exploited by the sex trade.
+section1_headline: 'Our goal is simple: freedom, safety, and hope to women & girls
+  exploited by the sex trade.'
 section1_body: Each year, we provide direct services to hundreds of people exploited
   by the sex trade in Seattle and the greater King County area. Through our holistic
   continuum of care (prevention, intervention, and aftercare), we serve those who
