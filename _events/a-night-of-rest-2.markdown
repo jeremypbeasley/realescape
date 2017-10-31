@@ -13,7 +13,7 @@ exp_date: 2017-11-12 20:17:00 Z
 is_featured: true
 ---
 
-<img src="http://iwantrest.com/uploads/ANOR_basic-web_no-logo.png">
+![event banner](http://iwantrest.com/uploads/ANOR_basic-web_no-logo.png)
 
 Each year, REST creates a space where others are invited into our story—an opportunity to use our collective influence to make a difference in our community.
 
