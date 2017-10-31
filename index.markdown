@@ -10,8 +10,7 @@ section1_body: Each year, we provide direct services to hundreds of people explo
   are at-risk, actively in, and those taking steps towards exiting a life of sexual
   exploitation. Our desire is to see Washington become hostile to traffickers and
   to work ourselves out of a job.
-section_1_cta: See how we work
-section_1_cta_url: services
+section1_cta: See how we work
+section1_cta_url: services
 layout: home
 ---
-
