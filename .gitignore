@@ -10,3 +10,5 @@ _site
 .jekyll-metadata
 .asset-cache
 npm-debug.log
+
+.htaccess
