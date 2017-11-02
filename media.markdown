@@ -5,10 +5,18 @@ position: 7
 layout: default
 ---
 
-Sed ultricies dui quis est volutpat, eget porttitor mi finibus. Etiam laoreet eu orci sed tristique. Fusce auctor et nunc a tincidunt. Proin eleifend eget metus a iaculis. Nullam cursus dui turpis, maximus sodales est rhoncus in. Mauris ullamcorper at est sit amet viverra. Mauris feugiat nibh id rutrum laoreet. Aenean a pellentesque sapien. Vivamus sed libero eros. Nullam dignissim mattis fermentum. Etiam bibendum suscipit libero, ac blandit arcu mattis quis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris rhoncus condimentum nulla, sed fringilla enim aliquet non.
+Media Requests
 
-Aenean dapibus lectus id posuere semper. Nunc malesuada leo est, rhoncus volutpat ante eleifend vel. Nunc euismod est sit amet nibh rutrum suscipit. Vestibulum aliquet suscipit diam quis pulvinar. Sed id augue quis diam rhoncus congue. Donec elementum commodo nisi, sit amet molestie velit rutrum a. Vivamus id gravida augue. Etiam at porttitor dui. Vivamus ac placerat dolor, vel aliquet lorem. Vivamus quis dui congue, consequat massa sit amet, posuere metus. Donec finibus diam a arcu bibendum, at imperdiet neque laoreet. Pellentesque iaculis sapien sit amet leo viverra bibendum. Praesent turpis libero, consectetur vel feugiat eget, condimentum non tortor. Mauris sed dolor et urna congue interdum. Nullam non ex consectetur, consectetur metus quis, placerat lectus. Aliquam a ultricies orci.
+We are glad to talk to journalists, news organizations, bloggers, podcasters, and the like about the issue of sex trafficking. We aim to inform and educate, while inviting help to fight commercial sexual exploitation in our community, in our state, nationwide, and globally. 
 
-###Section Header
+We will provide information about the sex trade, what we’re doing to help exploited individuals find pathways of freedom, safety, and hope, and will gladly set up interviews with pertinent staff members. We do not provide interviews with survivors — as we want to respect our clients’ privacy, avoid re-exploiting them for their stories, and hope media organizations agree with us that survivors are more than the chapter of their life that involved commercial sexual exploitation. 
 
-Aliquam iaculis dictum egestas. Integer vitae velit nisl. Curabitur aliquet neque quis magna maximus, quis pellentesque urna faucibus. Morbi eleifend purus est, tempor varius ex dapibus vitae. Nam ullamcorper a nibh id tristique. Curabitur blandit dapibus elit at varius. Maecenas tempor semper ante et pretium. Nullam at bibendum magna, nec elementum arcu. Donec leo mauris, faucibus id vehicula at, consequat nec dolor. Integer at congue ipsum, ut molestie nisl.
+You can submit your media request to communication@iwantrest.com.
+
+If you’d like to download our Media Kit, please fill out this form. 
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/72536150620145"></script>
+
+REST in the News
+
+Microsoft Chatbot Trolls Shoppers for Online Sex via Wired
