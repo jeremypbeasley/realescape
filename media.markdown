@@ -16,4 +16,4 @@ If you’d like to download our Media Kit, please fill out [this form](http://bi
 
 REST in the News
 
-[Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via *Wired*
+[Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
