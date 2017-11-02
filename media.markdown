@@ -14,6 +14,6 @@ You can submit your media request to [communication@iwantrest.com](mailto:commun
 If you’d like to download our Media Kit, please fill out [this form](http://bit.ly/RESTmedia). 
 
 
-REST in the News
+##REST in the News
 
-Microsoft Chatbot Trolls Shoppers for Online Sex via Wired
+[Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via Wired
