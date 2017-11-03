@@ -1,5 +1,5 @@
 ---
-title: Welcome Basket
+title: Gift Bag
 layout: default
 ---
 
