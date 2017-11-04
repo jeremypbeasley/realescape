@@ -17,4 +17,5 @@ If you’d like to download our Media Kit, please fill out [this form](http://bi
 REST in the News
 
 [Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
+
 [Sex trafficking bill gets tech firms' backing](http://bbc.in/2j0SisI) via _BBC Click_
