@@ -6,11 +6,9 @@ layout: default
 ---
 
 *“I was able to find self-love, self-awareness, self-confidence, and self-empowerment. As well as the strength to leave a very abusive and violent relationship and situation. Also, with the support of everyone, I was able to get out of the life, realize what family meant, stop using drugs, and find myself again.” *
-- Stephanie, survivor
+Stephanie, survivor
 
-
-
-In Fiscal Year 2017, REST connected with over 480 victims and survivors of sexual exploitation. 
+## In Fiscal Year 2017, REST connected with over 480 victims and survivors of sexual exploitation. 
 
 
 
