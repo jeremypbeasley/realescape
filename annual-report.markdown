@@ -56,18 +56,19 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 
 
 
-We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
-
-The shelter has operated at 90% occupancy since its opening.
 
 
 
-REST Emergency Receiving Center
-152 individuals visited our drop-in center 1,266 times.
-71 drop-in guests participated in groups, classes, and workshops 368 times.
-46 women were guests at our shelter.
-1,457 nights of REST were provided at our shelter.
-Seven shelter guests connected to stable housing directly from the shelter.
+
+# REST Emergency Receiving Center
+### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
+
+### The shelter has operated at 90% occupancy since its opening.
+- 152 individuals visited our drop-in center 1,266 times.
+- 71 drop-in guests participated in groups, classes, and workshops 368 times.
+- 46 women were guests at our shelter.
+- 1,457 nights of REST were provided at our shelter.
+- Seven shelter guests connected to stable housing directly from the shelter.
 
 
 
