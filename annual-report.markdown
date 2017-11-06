@@ -10,9 +10,7 @@ Stephanie, survivor
 
 ### In Fiscal Year 2017, REST connected with over 480 victims and survivors of sexual exploitation.
 
-
-
-A Note from Amanda
+# A Note from Amanda
 Friends,
 The path to healing from trafficking and exploitation is like a steep, jagged, mountain climb. It’s the journey of someone who is fighting to believe they are worthy of love. There are countless barriers and obstacles, and few moments of reprieve. The journey often seems endless. We’ve learned this by walking with survivors as they fight their way up that mountain to build a new life. Every step forward is a victory. Every pause or step backward is a moment to remember what makes the climb worthwhile.
 When we considered the best way to give you a glimpse of REST and where we have been over the last year, one thing was clear—the voices of survivors and the advocates walking alongside them up the jagged mountain are the voices you should hear. So, this year, we asked them to share their words with you and invite you deeper into the heartbeat of REST—that everyone is worthy of love. Love that demonstrates unconditional care, creates a sense of belonging, and gives way to freedom, safety, and hope.
@@ -20,44 +18,34 @@ As you read these pages and get a feel for the impact that REST has in the lives
 
 
 
-REST Principles of Care 
-Everyone is Worthy of Love
+# REST Principles of Care 
+### Everyone is Worthy of Love
 We believe that every person is made in the image of a beautiful Creator, is bestowed with inherent dignity and worth, and is undeniably deserving of love. Yet, harm meets all of us in different ways and plants seeds of shame that tell us we are unworthy. For exploited individuals, this shame often becomes paralyzing. However, when met with a non-judgmental, fully accepting and unconditionally caring love, the shame gets unraveled, hopes are restored, and dreams are reactivated. Effective services are essential, but a community that offers an authentic, healing love makes an incredible difference.
-Individualized 
-We understand that each person is different, with unique needs, strengths, and culture. 
-We tailor our services and interactions to the individual, so that they are more invested in the relationships, the programs, and their goals. 
-Relationship-Based
+### Individualized 
+We understand that each person is different, with unique needs, strengths, and culture. We tailor our services and interactions to the individual, so that they are more invested in the relationships, the programs, and their goals. 
+### Relationship-Based
 It is often a harmful relationship that leads to exploitation. Therefore, it often takes a trustworthy and consistent relationship to give someone the courage to walk away from their trafficker. Building trust, safety, belonging, and a supportive community are essential components to the intervention and restoration programs within REST. 
-Strengths-Based 
-Survivors of sexual exploitation have consistently received the message that they have no value apart from selling their body. Yet, we see incredible strengths that have enabled survivors to endure the harshest of circumstances and navigate constant threats of danger. 
-So rather than focusing on deficits, we celebrate and build off of their strengths, skills, 
-hopes, and dreams.
-Trauma-Informed 
+### Strengths-Based 
+Survivors of sexual exploitation have consistently received the message that they have no value apart from selling their body. Yet, we see incredible strengths that have enabled survivors to endure the harshest of circumstances and navigate constant threats of danger. So rather than focusing on deficits, we celebrate and build off of their strengths, skills, hopes, and dreams.
+### Trauma-Informed 
 Survivors of trafficking have experienced many layers of trauma, so the way we interact and care for them must start with an understanding of the effects of trauma. We know that the brain holds trauma responses for a long time and, therefore we may see trauma responses even when someone is no longer in danger. Knowing this, we craft our services in a way that accommodates for trauma responses and provides an environment that is truly conducive to healing.
-Self-Determination & Empowerment
+### Self-Determination & Empowerment
 In the world of exploitation, choices are often taken away. We seek to restore choice and build self-efficacy. Rather than choosing for someone, we help uncover their goals and work together to develop a plan that matches their unique strengths and culture. We help survivors think through options, consider possible outcomes, and identify the choices most aligned with their goals. When they believe in their own ability to make positive changes in their lives, they are more equipped to face life’s challenges in the future. 
-Faith Integration
+### Faith Integration
 We are motivated by the love of Jesus, and we seek to love like Jesus did, offering of our own lives to come alongside and bring a message of freedom, safety, and hope to those in our care. At REST we do not proselytize—meaning that it is not our primary purpose to convert people to our faith. We also don’t require faith engagement. Instead, we meet each person where they are, and create an environment where it is safe to explore their personal faith journey at their own pace and in a way that is comfortable for them. 
 
+# King County, Washington
 
-
-
-The number of trafficked individuals in King County, WA is unknown. 
+###The number of trafficked individuals in King County, WA is unknown. 
 What we do know is that it happens, it happens here, and it is harmful and widespread.
 
+- Over half of exploited individuals are homeless or in unstable housing. 
+- There are 300–500 youth being prostituted locally.
+- There are 100+ websites where commercial sex is available in the Seattle area, with - over 6,000 unique phone numbers tied to potential victims.
+- A 2014 Arizona State University study concluded there were 6,800 buyers soliciting sex in the Seattle area on a single site in 24 hours. 
+- There are twenty beds in King County reserved for survivors of commercial sexual exploitation. Thirteen of them are at REST.
 
-
-King County, Washington
-Over half of exploited individuals are homeless or in unstable housing. 
-There are 300–500 youth being prostituted locally.
-There are 100+ websites where commercial sex is available in the Seattle area, with over 6,000 unique phone numbers tied to potential victims.
-A 2014 Arizona State University study concluded there were 6,800 buyers soliciting sex in the Seattle area on a single site in 24 hours. 
-There are twenty beds in King County reserved for survivors of commercial sexual exploitation. Thirteen of them are at REST.
-
-
-
-
-Stephanie
+# Stephanie
 When Stephanie confronted her trafficker in court, her REST Advocate, Audrey, was by her side. They both wore shirts that read “Don’t Buy Girls.” “I felt like I didn’t have the strength to do it. But with Audrey by my side, I spoke up in court with my victim impact statement with him in the courtroom.” 
 Stephanie met her trafficker when she was nineteen, and he controlled her for thirteen years through violence, forcing her to prostitute, restricting her finances and communication, drugs, and by using her two children to manipulate her. She was also forced to commit other crimes or face punishment, such as prescription forgery. “My life was not my life.” She explained. “I wasn’t who I am.”
 Before finding REST, Stephanie was in prostitution, addicted to meth, living out of hotels, and rarely got to see her children. The first step in her fight to leave her situation was Googling “prostitution services in Seattle, WA”—REST was among the search results. Through email and our hotline, she promptly connected with Audrey. 
