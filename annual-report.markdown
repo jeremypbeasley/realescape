@@ -114,8 +114,8 @@ In Fiscal Year 2017, we’ve provided this intentional level of case management 
 
 # Laura
 Laura has known she wanted to work with survivors of commercial sexual exploitation since she was fourteen years old. “Survivors are some of the strongest people I know,” she said, explaining why, ten years later, she’s still committed to this work; working as a Community Advocate with REST for the last three years. 
-“I think creating a way, a space for survivors to have a voice—when they haven’t been 
-heard for so long—is something really empowering. It’s not ‘I want to help and save you.’ but “I would love to come alongside you and fight with you because you’ve been fighting for so long.’”
+*“I think creating a way, a space for survivors to have a voice—when they haven’t been 
+heard for so long—is something really empowering. It’s not ‘I want to help and save you.’ but “I would love to come alongside you and fight with you because you’ve been fighting for so long.’”*
 REST has a phrase to describe our approach to coming alongside clients. “Do for. Do with. Cheer on.” It allows REST clients and advocates to work together in a progressive, encouraging way—eventually leading to self-sufficiency with a community of support. 
 Laura advocates for the choices of the clients she works with—whether that is finding housing, securing basic legal documents, going through legal battles, finding a job, or so many other life goals. It is a journey requiring presence and perseverance. 
 To be present through the journey means venturing into the hills and valleys of trauma with a survivor, being a lifeline, and consistently depositing messages to instill worth and belonging along the way. And ultimately, helping to restore a survivor’s belief that she can have a different life. Rather than forcing a particular path on her clients, Laura helps them find their way toward their dreams. “What do you want? This is your life, and no one is forcing you. This is your journey and your process.” 
@@ -149,15 +149,15 @@ It costs $2,280 to keep the REST House and Emergency Receiving Center, which inc
 # Our Partners
 We rely on partnerships within our community to connect with exploited individuals and provide the best trauma-informed care possible. 
 We are thankful for our partners.
-“Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.”
+*“Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.”*
 Jim Fitzgerald | Seattle Police Department
-“This supportive partnership provides seamless services for women previously underserved.”
+*“This supportive partnership provides seamless services for women previously underserved.”*
 Debra Boyer | Organization for Prostitution Survivors
-“REST is willing to experiment and try new models to engage the issue of trafficking, and we think that is great.”
+*“REST is willing to experiment and try new models to engage the issue of trafficking, and we think that is great.”*
 Robert Beiser | Seattle Against Slavery
-“Our partnership serves to further our goal of accountability for offenders, justice for victims, and opportunities for safety and exit.”
+*“Our partnership serves to further our goal of accountability for offenders, justice for victims, and opportunities for safety and exit.”*
 Valiant Richey | King County Prosecuting Attorney’s Office
-“People trust REST. There is no one I encounter in my work who doesn’t have the highest regard for what you all have accomplished. When we were considering who to ask to partner with us as we expand our Safe Jobs program, your organization was at the top of our list because of your reputation with survivors. They’re the experts on their own needs for recovery and when they say your services make a difference in their lives, there is no higher praise.”
+*“People trust REST. There is no one I encounter in my work who doesn’t have the highest regard for what you all have accomplished. When we were considering who to ask to partner with us as we expand our Safe Jobs program, your organization was at the top of our list because of your reputation with survivors. They’re the experts on their own needs for recovery and when they say your services make a difference in their lives, there is no higher praise.”*
 Mar Brettmann | Business Ending Slavery & Trafficking
 
 
@@ -187,9 +187,9 @@ Managing Director, Regent Advisors Investments
 “I am worth love.” Piper firmly declared. She is a resident at the REST House. “[REST] has been a God-send. I feel it’s kept me alive,” she said, explaining the hard work she’s put in on her path to leaving behind commercial sexual exploitation, toward sobriety and a different life.
 Prior to coming to REST, Piper was living out of a motel, using opiates heavily, and involved in prostitution. She grew up amidst abuse and chaos, and often felt abandoned by her family. “It gave me a low sense of self-worth. It’s what I knew. So I thought it was right.” Two days before taking her first date, Piper visited a man who would give her free heroin, and while she was passed out, he sexually assaulted her. “That was a key point in me going into the life—at that point I felt so broken. So undeserving of anything. So low. I blamed myself.” 
 She prostituted and used drugs with her sister. When her sister decided she wanted out of prostitution, she connected with REST advocate Sarah—and passed Sarah’s number along to Piper. “When I realized the type of person Sarah was, I fell in love with her. I didn’t even care what I had gotten myself into, but she did. She always held up hope.” 
-“I don’t deserve to be used for sex. I don’t deserve to be on drugs. I don’t have anything to prove to anyone but myself, and REST showed me that—that I am capable, that I am strong.”
+*“I don’t deserve to be used for sex. I don’t deserve to be on drugs. I don’t have anything to prove to anyone but myself, and REST showed me that—that I am capable, that I am strong.”*
 Through Sarah, she was connected with other REST Staff members and guests and began building relationships. “It’s a really good feeling to know that I’m cared about, and there’s so much support out there. I never knew that before. And it is a good, good feeling.”
-“I feel so loved by God. I feel loved by the staff. I feel loved by the roommates. I feel loved by my family again. I feel loved by the prayers that are said for me. I know God put Sarah in my life for a reason because I was supposed to meet all these people. I was supposed to be sitting here doing this to get better. I feel loved.”
+*“I feel so loved by God. I feel loved by the staff. I feel loved by the roommates. I feel loved by my family again. I feel loved by the prayers that are said for me. I know God put Sarah in my life for a reason because I was supposed to meet all these people. I was supposed to be sitting here doing this to get better. I feel loved.”*
 
 # Thank you.
 # You deserve to be loved.
