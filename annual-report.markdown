@@ -113,19 +113,16 @@ After two weeks at REST, Chelsea knew this was the place for her—and fought ha
 Chelsea says REST has helped her learn to “adult,” and has connected her with resources she never knew were available, especially for women with stories like hers. 
 “I feel loved in so many different ways, from so many different people, and I didn’t think that would be possible. I thought that I had to be loved by my family, or by my pimp, or by someone somewhere—boyfriends, tricks, whatever… but that’s not true anymore. There are so many different forms of love, and I’ve found that here, really. I find it from the people that support me. I find that from the people that I live with. I find it from the people that come to drop-in. And it’s exciting. It’s nice to know that it’s there. It’s nice to know that I don’t have to search for love in the wrong places, because I’m not getting it in the right places.”
 
-
-
-Community Advocacy
+# Community Advocacy
 The mission of our Community Advocate team is to empower survivors of commercial sexual exploitation to identify their goals and dreams for the future, and support them to achieve those goals. Advocates provide focused case management to assist REST clients with accessing housing, employment, chemical dependency services, mental health services, education, and other goals that are important to help our clients sustain a life out of the sex trade.
 In Fiscal Year 2017, we’ve provided this intentional level of case management to 149 women as they accomplished over 550 self-identified goals for their lives.
 
 
 
-Laura
+# Laura
 Laura has known she wanted to work with survivors of commercial sexual exploitation since she was fourteen years old. “Survivors are some of the strongest people I know,” she said, explaining why, ten years later, she’s still committed to this work; working as a Community Advocate with REST for the last three years. 
 “I think creating a way, a space for survivors to have a voice—when they haven’t been 
-heard for so long—is something really empowering. It’s not ‘I want to help and save you.’ but “I would love to come alongside you and fight with you because you’ve been fighting 
-for so long.’”
+heard for so long—is something really empowering. It’s not ‘I want to help and save you.’ but “I would love to come alongside you and fight with you because you’ve been fighting for so long.’”
 REST has a phrase to describe our approach to coming alongside clients. “Do for. Do with. Cheer on.” It allows REST clients and advocates to work together in a progressive, encouraging way—eventually leading to self-sufficiency with a community of support. 
 Laura advocates for the choices of the clients she works with—whether that is finding housing, securing basic legal documents, going through legal battles, finding a job, or so many other life goals. It is a journey requiring presence and perseverance. 
 To be present through the journey means venturing into the hills and valleys of trauma with a survivor, being a lifeline, and consistently depositing messages to instill worth and belonging along the way. And ultimately, helping to restore a survivor’s belief that she can have a different life. Rather than forcing a particular path on her clients, Laura helps them find their way toward their dreams. “What do you want? This is your life, and no one is forcing you. This is your journey and your process.” 
@@ -134,34 +131,29 @@ When REST clients connect with that message—that they are empowered because th
 
 
 
-Text Outreach
+# Text Outreach
 REST has always been committed to meeting sexually exploited individuals right where they’re at. As the sex trade shifted away from the streets and onto the internet, we saw a need to adapt our approach for outreach, and thanks to a partnership with Seattle Against Slavery and Microsoft’s Hackathon, we have. 
 Through this new technology, we’ve been able to reach more exploited individuals this year than in any previous year. The software scrapes phone numbers from sex advertisements online, and allows us to send bulk texts to the numbers through a system that enables us to connect immediately to any responders. 
-We sent over 8,100 texts and received over 440 positive responses.
-Over 60 responders requested a meeting with an advocate.
-We met face-to-face with 39 responders. 
-21 of them enrolled with our Community Advocacy team.
-Women we connected with through our text outreach program spent 120 nights at our Emergency Receiving Center shelter.
+- We sent over 8,100 texts and received over 440 positive responses.
+- Over 60 responders requested a meeting with an advocate.
+- We met face-to-face with 39 responders. 
+- 21 of them enrolled with our Community Advocacy team.
+- Women we connected with through our text outreach program spent 120 nights at our Emergency Receiving Center shelter.
 
-
-
-
-Prevention
+# Prevention
 Most exploited individuals are recruited as minors—usually between 13–15 years old. Our Prevention Team serves those under 18 who are at-risk for entering prostitution. Though many have already been sexually exploited, the goal is to prevent further harm and give them access to resources that will contribute to their success. 
-In FY 17, we facilitated 22 workshops, with 154 youth in attendance. 
-We connected with 114 new youth through chaplaincy and mentoring contacts, and met with those contacts 210 times, collectively. 
-We served 324 youth through our prevention programs. 
-68% of youth showed improvement in knowledge of gender-based violence, and how to advocate against it through pre and post-course testing. 
+- In FY 17, we facilitated 22 workshops, with 154 youth in attendance. 
+- We connected with 114 new youth through chaplaincy and mentoring contacts, and met with those contacts 210 times, collectively. 
+- We served 324 youth through our prevention programs. 
+- 68% of youth showed improvement in knowledge of gender-based violence, and how to advocate against it through pre and post-course testing. 
 
-
-
-Financial Breakdown
+# Financial Breakdown
 Every dollar entrusted to REST is crucial and enables us to provide freedom, safety, and hope to individuals exploited in the sex trade. 
 It costs $2,280 to keep the REST House and Emergency Receiving Center, which includes our shelter and drop-in center, open for 24 hours. 
 
 
 
-Our Partners
+# Our Partners
 We rely on partnerships within our community to connect with exploited individuals and provide the best trauma-informed care possible. 
 We are thankful for our partners.
 “Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.”
@@ -177,39 +169,38 @@ Mar Brettmann | Business Ending Slavery & Trafficking
 
 
 
-Leadership Team
+#Leadership Team
 
 
 
-Board of Directors
+#Board of Directors
 Each of our board members are devoted to ending exploitation. We are grateful for their continued passion and expertise as they help us achieve our mission. 
-Brent Turner | Board Chairman
+**Brent Turner** | Board Chairman
 Chief Operating Officer, Rover.com
-Karen Cobb | Board Secretary
+**Karen Cobb** | Board Secretary
 Attorney at Law, Frey Buck, P.S.
-Will Little | Board Member
+**Will Little** | Board Member
 Co-Founder & Chief Technology Officer, Code Fellows
-Renee Wallace | Board Member 
+**Renee Wallace** | Board Member 
 Health Care Access Advocate, YWCA, Survivor
-Jesse Bryan | Board Member
+**Jesse Bryan** | Board Member
 Founding Partner & Creative Director, Belief Agency
-Jonathan Lamb | Board Member
+**Jonathan Lamb** | Board Member
 Managing Director, Regent Advisors Investments
 
 
 
-Piper
+#Piper
 “I am worth love.” Piper firmly declared. She is a resident at the REST House. “[REST] has been a God-send. I feel it’s kept me alive,” she said, explaining the hard work she’s put in on her path to leaving behind commercial sexual exploitation, toward sobriety and a different life.
 Prior to coming to REST, Piper was living out of a motel, using opiates heavily, and involved in prostitution. She grew up amidst abuse and chaos, and often felt abandoned by her family. “It gave me a low sense of self-worth. It’s what I knew. So I thought it was right.” Two days before taking her first date, Piper visited a man who would give her free heroin, and while she was passed out, he sexually assaulted her. “That was a key point in me going into the life—at that point I felt so broken. So undeserving of anything. So low. I blamed myself.” 
 She prostituted and used drugs with her sister. When her sister decided she wanted out of prostitution, she connected with REST advocate Sarah—and passed Sarah’s number along to Piper. “When I realized the type of person Sarah was, I fell in love with her. I didn’t even care what I had gotten myself into, but she did. She always held up hope.” 
-“I don’t deserve to be used for sex. I don’t deserve to be on drugs. I don’t have anything 
-to prove to anyone but myself, and REST showed me that—that I am capable, that 
-I am strong.”
+“I don’t deserve to be used for sex. I don’t deserve to be on drugs. I don’t have anything to prove to anyone but myself, and REST showed me that—that I am capable, that I am strong.”
 Through Sarah, she was connected with other REST Staff members and guests and began building relationships. “It’s a really good feeling to know that I’m cared about, and there’s so much support out there. I never knew that before. And it is a good, good feeling.”
 “I feel so loved by God. I feel loved by the staff. I feel loved by the roommates. I feel loved by my family again. I feel loved by the prayers that are said for me. I know God put Sarah in my life for a reason because I was supposed to meet all these people. I was supposed to be sitting here doing this to get better. I feel loved.”
 
-Thank you.
-You deserve to be loved.
+# Thank you.
+# You deserve to be loved.
+
 REST Fiscal Year: July 1, 2016–June 30, 2017
 King County trafficking data can be found at endingexploitation.com.
 Photography information:
