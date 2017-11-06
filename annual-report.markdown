@@ -83,8 +83,7 @@ Exiting the sex trade often involves getting free from pimps and abusers, detoxi
 We are excited to let you know that in Fiscal Year 2017, we walked with over 140 individuals on that journey—stood by their side, and fought next to them, as they fought for freedom, safety, and hope. 19 of them have stayed out for over six months, and 14 of them have stayed out for over one year.
 
 
-
-Audrey
+#Audrey
 “You are not alone. You are not forgotten. I’m in this with you. I believe you. I see that you are strong. I see that you are smart. You have fought for your life, and your life is worthwhile.” These are some of the things Community Advocate Supervisor Audrey shares with the individuals she walks with at REST.
 Her passion for this work started when she was exposed to sex trafficking through her work with homeless youth prior to REST—and through seeing a close friend be recruited by a pimp. “I saw trafficking happen to someone that I loved closely. And knew it could’ve been me. I was one step away.” 
 Audrey has a front row seat to the tangible change in the lives of the women she works with. She also acknowledges that it is heart-wrenching, but inspiring work. “You don’t get the inspiration without the tears,” she said, “and while I’ve seen God come through in my life with some miraculous provisions, the way that He meets our ladies in the most desperate of times is exciting. I love being a part of that.”
@@ -94,22 +93,20 @@ Audrey knows how incredibly strong, intelligent, resilient, and beautiful the cl
 
 
 
-3,000
-In Fiscal Year 2017, we provided over 3,000 nights of REST through our house and emergency shelter. 
+# 3,000
+### In Fiscal Year 2017, we provided over 3,000 nights of REST through our house and emergency shelter. 
 
 
 
 
-What happened at the six-room REST House in Fiscal Year 2017? 
-15 residents stayed 1,544 nights.
-The house was at 70% occupancy.
-13 women moved out of the house.
-10 of the women who moved out have maintained stable housing.
-Six of them reached the milestone of being out of the sex trade for one year.
+# What happened at the six-room REST House in Fiscal Year 2017? 
+- 15 residents stayed 1,544 nights.
+- The house was at 70% occupancy.
+- 13 women moved out of the house.
+- 10 of the women who moved out have maintained stable housing.
+- Six of them reached the milestone of being out of the sex trade for one year.
 
-
-
-Chelsea
+# Chelsea
 Chelsea’s journey away from a life of prostitution started with incarceration. Through the court, she was put in a Human Trafficking Diversion Program. As part of that program, immediately before coming to REST, she was in an inpatient program for concurrent mental illness and drug addiction. Needing a place to stay for two weeks before the next part of her diversion program began, she came to the REST Emergency Receiving Center shelter. 
 After two weeks at REST, Chelsea knew this was the place for her—and fought hard, with many staff members’ help—to stay. She created a presentation to give to the court explaining why she believed REST was the best place for her recovery—and the court agreed with her request to move into the REST House.
 “Each person here has taught me something different.” She said, speaking about the diversity in experiences throughout REST. “Just seeing what women can go through, what these women, in specific, have gone through—definitely has impacted how I look at things, how I think about the world in general, and how I see myself. And in terms of staff, every single person—no matter if they’re support staff, counselor, or peer support—every single person is here for me.” 
