@@ -36,8 +36,8 @@ We are motivated by the love of Jesus, and we seek to love like Jesus did, offer
 
 # King County, Washington
 
-###The number of trafficked individuals in King County, WA is unknown. 
-What we do know is that it happens, it happens here, and it is harmful and widespread.
+### The number of trafficked individuals in King County, WA is unknown. 
+### What we do know is that it happens, it happens here, and it is harmful and widespread.
 
 - Over half of exploited individuals are homeless or in unstable housing. 
 - There are 300–500 youth being prostituted locally.
@@ -51,14 +51,7 @@ Stephanie met her trafficker when she was nineteen, and he controlled her for th
 Before finding REST, Stephanie was in prostitution, addicted to meth, living out of hotels, and rarely got to see her children. The first step in her fight to leave her situation was Googling “prostitution services in Seattle, WA”—REST was among the search results. Through email and our hotline, she promptly connected with Audrey. 
 “Everyone that I’ve met here genuinely wants nothing but the best for you, and they genuinely care about you… They let you be yourself. It’s warm and inviting.” She said of her first impressions of REST.
 Stephanie has been clean and out of a life of prostitution for nearly a year. It’s been an arduous journey—including the process of getting clean from meth, and separating from her abuser, despite significant trauma-bonding. 
-“I am no longer in prostitution. I am no longer on drugs. I no longer have any connections to my abuser, besides our son. He has no bearing over my life anymore. I learned how to love myself. I learned that I am truly a beautiful person. And intelligent. And I also learned that everything my abuser told me for years and years was so untrue and so far from the truth. And I learned from all of my strength and all the support that I’ve got here that I can do whatever I put my mind to and nothing can ever stop me.” 
-
-
-
-
-
-
-
+* “I am no longer in prostitution. I am no longer on drugs. I no longer have any connections to my abuser, besides our son. He has no bearing over my life anymore. I learned how to love myself. I learned that I am truly a beautiful person. And intelligent. And I also learned that everything my abuser told me for years and years was so untrue and so far from the truth. And I learned from all of my strength and all the support that I’ve got here that I can do whatever I put my mind to and nothing can ever stop me.” *
 
 # REST Emergency Receiving Center
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
@@ -87,7 +80,7 @@ We are excited to let you know that in Fiscal Year 2017, we walked with over 140
 “You are not alone. You are not forgotten. I’m in this with you. I believe you. I see that you are strong. I see that you are smart. You have fought for your life, and your life is worthwhile.” These are some of the things Community Advocate Supervisor Audrey shares with the individuals she walks with at REST.
 Her passion for this work started when she was exposed to sex trafficking through her work with homeless youth prior to REST—and through seeing a close friend be recruited by a pimp. “I saw trafficking happen to someone that I loved closely. And knew it could’ve been me. I was one step away.” 
 Audrey has a front row seat to the tangible change in the lives of the women she works with. She also acknowledges that it is heart-wrenching, but inspiring work. “You don’t get the inspiration without the tears,” she said, “and while I’ve seen God come through in my life with some miraculous provisions, the way that He meets our ladies in the most desperate of times is exciting. I love being a part of that.”
-“I think Stephanie is a phenomenal example. When I met her, she was a different woman. And in a lot of ways, a very challenging person—because she was in the midst of trafficking. To see her fight for her freedom, and just be able to encourage her along the way, and then to see her achieve that, and be able to solve it and let her guard down, and be the generous, giving, thoughtful woman that she is, is just incredible.”
+* “I think Stephanie is a phenomenal example. When I met her, she was a different woman. And in a lot of ways, a very challenging person—because she was in the midst of trafficking. To see her fight for her freedom, and just be able to encourage her along the way, and then to see her achieve that, and be able to solve it and let her guard down, and be the generous, giving, thoughtful woman that she is, is just incredible.” *
 When Audrey first met Stephanie, they met in a parking lot because Stephanie wasn’t stable enough to navigate to the REST office. While Audrey focused on building confidence, Stephanie was focused on survival. As trust was built, and REST met her basic needs, they problem solved together, figuring out what escape and freedom would look like for Stephanie. “It was agonizing, seeing how few options were available, and the depth of pain and situations of desperation she had to endure before she could leave ‘the life.’” 
 Audrey knows how incredibly strong, intelligent, resilient, and beautiful the clients REST serves are, and she knows REST cares for them deeply. She has seen it time and time again, and knows well that every woman we have the privilege of serving survived for a reason.
 
