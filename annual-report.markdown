@@ -70,19 +70,15 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 - 1,457 nights of REST were provided at our shelter.
 - Seven shelter guests connected to stable housing directly from the shelter.
 
-
-
-REST Hotline
+# REST Hotline
 The REST hotline is available twenty-four hours a day, seven days a week. Through it, we connect with individuals who have been exploited, or are currently being exploited in the sex trade. Callers and texters often reach out in crisis and receive emotional support, information, and referrals for resources. In most cases our advocates are able to respond in person to help meet a victim’s immediate needs. 
-This year through our hotline we:
-Received over 1,000 calls.
-Received over 100 texts.
-Communicated with 198 unique individuals.
-Connected with 133 first-time callers, 115 of whom are local to King County.
+### This year through our hotline we:
+- Received over 1,000 calls.
+- Received over 100 texts.
+- Communicated with 198 unique individuals.
+- Connected with 133 first-time callers, 115 of whom are local to King County.
 
-
-
-Exiting the sex trade is a journey. 
+# Exiting the sex trade is a journey. 
 Exiting the sex trade often involves getting free from pimps and abusers, detoxing and recovering from years-long substance abuse issues, confronting complex trauma and post-traumatic stress disorder, and a long list of other challenges. We find it can take 7–11 attempts for a survivor to exit the sex trade.
 We are excited to let you know that in Fiscal Year 2017, we walked with over 140 individuals on that journey—stood by their side, and fought next to them, as they fought for freedom, safety, and hope. 19 of them have stayed out for over six months, and 14 of them have stayed out for over one year.
 
