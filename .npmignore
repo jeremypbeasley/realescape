@@ -1,6 +1,6 @@
 node_modules
 _uploads
-_site
+_site/uploads
 
 .htaccess
 .sass-cache
@@ -16,8 +16,13 @@ _blog
 _authors
 _events
 _layouts
+_elements
 _needs
 _resources
+_includes
+_fonts
+_img
+_favicons
 bower_components
 data
 _config.yml
