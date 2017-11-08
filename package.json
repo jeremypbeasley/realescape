@@ -1,7 +1,7 @@
 {
   "name": "realescape",
   "description": "shared website components for a Seattle non-profit.",
-  "version": "3.0.0",
+  "version": "3.0.4",
   "repository": "https://github.com/jeremypbeasley/realescape.git",
   "license": "MIT",
   "devDependencies": {
