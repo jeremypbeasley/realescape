@@ -1,6 +1,9 @@
 {
-  "name": "REST: Real Escape from the Sex Trade",
+  "name": "realescape",
+  "description": "shared website components for a Seattle non-profit.",
   "version": "3.0.0",
+  "repository": "https://github.com/jeremypbeasley/realescape.git",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browser-sync": "^1.5.3",
