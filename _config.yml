@@ -35,32 +35,32 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: blog
-    author: 
+    author:
 - scope:
     path: ''
     type: events
   values:
     permalink: "/events/:title/"
     layout: events
-    image: 
-    location: 
-    location_maplink: 
-    excerpt: 
-    event_date: 
-    post_date: 
-    exp_date: 
+    image:
+    location:
+    location_maplink:
+    excerpt:
+    event_date:
+    post_date:
+    exp_date:
     is_featured: false
 - scope:
     path: ''
     type: authors
   values:
-    name: 
-    photo: 
-    twitterhandle: 
-    facebookhandle: 
-    bio: 
+    name:
+    photo:
+    twitterhandle:
+    facebookhandle:
+    bio:
 markdown: kramdown
-url: https://iwantrest.com
+url: http://iwantrest.com
 github_username: jeremypbeasley
 permalink: pretty
 newsletter_url: https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=bb52e12c-2e73-4ae6-a683-bd03e40285f2
