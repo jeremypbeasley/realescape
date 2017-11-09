@@ -12,3 +12,4 @@ _site
 npm-debug.log
 
 .htaccess
+package-lock.json
