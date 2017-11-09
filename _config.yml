@@ -35,30 +35,30 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: blog
-    author:
+    author: 
 - scope:
     path: ''
     type: events
   values:
     permalink: "/events/:title/"
     layout: events
-    image:
-    location:
-    location_maplink:
-    excerpt:
-    event_date:
-    post_date:
-    exp_date:
+    image: 
+    location: 
+    location_maplink: 
+    excerpt: 
+    event_date: 
+    post_date: 
+    exp_date: 
     is_featured: false
 - scope:
     path: ''
     type: authors
   values:
-    name:
-    photo:
-    twitterhandle:
-    facebookhandle:
-    bio:
+    name: 
+    photo: 
+    twitterhandle: 
+    facebookhandle: 
+    bio: 
 markdown: kramdown
 url: http://iwantrest.com
 github_username: jeremypbeasley
