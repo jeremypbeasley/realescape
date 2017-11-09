@@ -28,7 +28,7 @@ Saturday, November 11
 7:00 p.m. dinner & live auction   
 Meydenbauer Center, Bellevue, WA)
 
-[Click here to purchase your tickets.](https://iwantrest.ejoinme.org/MyEvents/ANightofREST2017/PurchaseTickets/tabid/871603/Default.aspx)    
+Advanced ticket sales & registration is now closed. There will be a limited amount of tickets available at the door, and we can complete your registration during the check-in process, if you already have your ticket.  
 
 [Click here to view our Auction Catalog.](http://iwantrest.com/uploads/A-Night-of-REST-2017_Auction-Catalog.pdf?platform=hootsuite)
 
