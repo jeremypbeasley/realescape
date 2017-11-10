@@ -32,4 +32,4 @@ Advanced ticket sales & registration is now closed. There will be a limited amou
 
 [Click here to view our Auction Catalog.](http://iwantrest.com/uploads/A-Night-of-REST-2017_Auction-Catalog.pdf?platform=hootsuite)
 
-Questions? Email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com)
+Questions? Ask on our [Facebook Event Page](https://www.facebook.com/events/148078289121139/)
