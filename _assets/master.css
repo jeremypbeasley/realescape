@@ -1775,24 +1775,20 @@ h4 {
   position: absolute;
   left: -0.4em;
 }
-.post h3,
-.post h4 {
-  font-family: CircularStdBook, CircularStdBold, sans-serif;
-  font-size: 2vw;
-  margin-top: 2rem;
+.postContent h1 {
+  font-size: 2.3rem;
+  line-height: 200%;
+  margin: 1rem 0;
 }
-.post strong,
-.post em {
-  font-family: CircularStdBook, CircularStdBold, sans-serif;
-  margin: 2em 0;
-  display: block;
+.postContent h2 {
+  font-size: 2rem;
 }
-.post sup {
-  font-size: 50%;
-  top: -1em;
+.postContent h3 {
+  font-size: 1rem;
+  font-weight: bold;
 }
-.post ol {
-  opacity: 0.5;
+.postContent em {
+  font-style: italic;
 }
 .col-md-1,
 .col-md-2,
