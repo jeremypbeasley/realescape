@@ -6,7 +6,7 @@
 			<div class="line"></div>
 			<p class="underlined BlogBack"><a href="{{ site.url }}/blog">Back to Blog</a></p>
 		</div>
-		<div class="postContent column col-xs-12 col-md-8 BlogContainer">
+		<div class="column col-xs-12 col-md-8 BlogContainer PostContent">
 			<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 			{% assign author = site.authors | where: 'name', page.author | first %}
 			{% if author %}
