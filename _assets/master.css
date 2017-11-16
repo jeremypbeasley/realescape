@@ -1763,11 +1763,14 @@ h2 {
   z-index: 15;
 }
 p {
-  color: #999;
+  color: #000;
 }
 span {
   position: absolute;
   left: -0.4em;
+}
+.PostContent p {
+  opacity: 1;
 }
 .PostContent h1 {
   font-size: 1.5rem;
@@ -1781,13 +1784,15 @@ span {
 }
 .PostContent h2 {
   font-size: 1.7rem;
+  font-family: CircularStdBook, CircularStdBold, sans-serif;
 }
 @media (min-width: 62em) {
   .PostContent h2 {
     font-size: 2rem;
   }
 }
-.PostContent h3 {
+.PostContent h3,
+h4 {
   font-size: 1rem;
 }
 .PostContent em {
@@ -1807,6 +1812,9 @@ span {
     width: 50vw;
     margin: 2em;
   }
+}
+.PostContent ul {
+  font-size: 1rem;
 }
 .col-md-1,
 .col-md-2,
