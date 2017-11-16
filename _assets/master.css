@@ -1776,19 +1776,37 @@ h4 {
   left: -0.4em;
 }
 .postContent h1 {
-  font-size: 2.3rem;
+  font-size: 1.5rem;
   line-height: 200%;
   margin: 1rem 0;
 }
+@media (min-width: 62em) {
+  .postContent h1 {
+    font-size: 2rem;
+  }
+}
 .postContent h2 {
-  font-size: 2rem;
+  font-size: 1.7rem;
+}
+@media (min-width: 62em) {
+  .postContent h2 {
+    font-size: 2rem;
+  }
 }
 .postContent h3 {
   font-size: 1rem;
-  font-weight: bold;
 }
 .postContent em {
-  font-style: italic;
+  font-family: CircularStdBook, CircularStdBold, sans-serif;
+  margin: 2em 0;
+  display: block;
+}
+sup {
+  font-size: 50%;
+  top: -1em;
+}
+ol {
+  opacity: 0.5;
 }
 .col-md-1,
 .col-md-2,
