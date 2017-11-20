@@ -5,6 +5,7 @@ tags:
 - ANOR17
 - A Night of REST
 author: Kim Merrikin
+image: "/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png"
 layout: blog
 ---
 
