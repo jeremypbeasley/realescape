@@ -12,7 +12,7 @@ layout: blog
 
 Every single person is worthy of love. 
 
-That is the belief that drives our work at REST, and that was the theme of the evening at our fifth annual A Night of REST fundraising gala last Saturday.
+That is the belief that drives our work at REST, and that was the theme of the evening at our fifth annual A Night of REST fundraising gala on Saturday, November 11.
 
 And we heard all 600+ attendees boldly declare with us that they, too, believe that survivors of commercial sexual exploitation are worthy of love. We heard them through their presence, through the conversations we had throughout the evening, and through their immensely generous giving. Together, A Night of REST guests gave over $532,000 to offer pathways of freedom, safety, and hope to the women and men that REST serves. That is huge.
 
