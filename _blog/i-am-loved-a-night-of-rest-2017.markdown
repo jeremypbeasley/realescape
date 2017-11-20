@@ -1,5 +1,5 @@
 ---
-title: "“I am loved.” // A Night of REST 2017"
+title: "“I am loved.” / A Night of REST 2017"
 date: 2017-11-20 21:30:00 Z
 tags:
 - ANOR17
