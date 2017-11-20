@@ -4,7 +4,7 @@ date: 2017-11-20 21:30:00 Z
 tags:
 - ANOR17
 - A Night of REST
-author: Kim Merrikin
+author: kim
 image: "/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png"
 description: Every single person is worthy of love. That is the belief that drives
   our work at REST, and that was the theme of the evening at our fifth annual A Night
