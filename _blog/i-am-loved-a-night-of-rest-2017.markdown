@@ -5,11 +5,10 @@ tags:
 - ANOR17
 - A Night of REST
 author: Kim Merrikin
-og:image: "/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png"
-og:title: '"I am loved." / A Night of REST 2017'
-og:description: Every single person is worthy of love. That is the belief that drives
+image: "/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png"
+description: Every single person is worthy of love. That is the belief that drives
   our work at REST, and that was the theme of the evening at our fifth annual A Night
-  of REST fundraising gala on Saturday, November 11.
+  of REST fundraising gala.
 layout: blog
 ---
 
