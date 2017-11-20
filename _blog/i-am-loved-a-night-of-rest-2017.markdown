@@ -1,7 +1,6 @@
 ---
 title: "“I am loved.” // A Night of REST 2017"
 date: 2017-11-20 21:30:00 Z
-published: false
 tags:
 - ANOR17
 - A Night of REST
