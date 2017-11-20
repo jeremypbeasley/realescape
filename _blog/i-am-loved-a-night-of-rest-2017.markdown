@@ -6,6 +6,7 @@ tags:
 - A Night of REST
 author: Kim Merrikin
 image: "/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png"
+Title: '"I am loved." // A Night of REST 2017'
 layout: blog
 ---
 
