@@ -16,8 +16,6 @@ And we heard all 600+ attendees boldly declare with us that they, too, believe t
 
 It was incredible to see 79 guests give $1,000 each during the fund-a-need portion of the evening—which meant also being given a $50,000 matching gift. In about five minutes on Saturday night, A Night of REST guests gave $128,000. In just the fund-a-need segment alone, guests gave over $267,000. This kind of generosity is absolutely astounding. We are so encouraged, and grateful. 
 
-[photo of auction paddle raised]
-
 The highlight for many at A Night of REST, however, was the story told throughout the night. It started with experiential art installations that depicted different common themes that we’ve heard over the years from survivors. Artist Reformation created three installations that featured different “at the edge of my bed” scenes—from childhood, to hotel rooms, to jail cell rooms—and ultimately to their bed at the REST house. The vignettes took attendees through things many victims of trafficking feel: unseen, unheard, and unloved.
 
 ![A Night of REST - Artist Reformation Installation](/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png)
