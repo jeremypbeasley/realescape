@@ -1,0 +1,29 @@
+---
+title: "“I am loved.” // A Night of REST 2017"
+date: 2017-11-20 21:30:00 Z
+published: false
+tags:
+- ANOR17
+- A Night of REST
+layout: blog
+---
+
+Every single person is worthy of love. 
+
+That is the belief that drives our work at REST, and that was the theme of the evening at our fifth annual A Night of REST fundraising gala last Saturday.
+
+And we heard all 600+ attendees boldly declare with us that they, too, believe that survivors of commercial sexual exploitation are worthy of love. We heard them through their presence, through the conversations we had throughout the evening, and through their immensely generous giving. Together, A Night of REST guests gave over $532,000 to offer pathways of freedom, safety, and hope to the women and men that REST serves. That is huge.
+
+It was incredible to see 79 guests give $1,000 each during the fund-a-need portion of the evening—which meant also being given a $50,000 matching gift. In about five minutes on Saturday night, A Night of REST guests gave $128,000. In just the fund-a-need segment alone, guests gave over $267,000. This kind of generosity is absolutely astounding. We are so encouraged, and grateful. 
+
+[photo of auction paddle raised]
+
+The highlight for many at A Night of REST, however, was the story told throughout the night. It started with experiential art installations that depicted different common themes that we’ve heard over the years from survivors. Artist Reformation created three installations that featured different “at the edge of my bed” scenes—from childhood, to hotel rooms, to jail cell rooms—and ultimately to their bed at the REST house. The vignettes took attendees through things many victims of trafficking feel: unseen, unheard, and unloved.
+
+[photos of the vignettes]
+
+But that was just the beginning.
+
+For the first time, survivors from the REST Restorative Housing Program took the stage and presented. We’ve long been cautious of doing this, because we want to honor our clients’ privacy, and avoid re-traumatizing or re-exploitive experiences. But, over the last few months several survivors asked to share their stories, to use their voices to reclaim their experiences and highlight their strengths in a healing and empowering way.  
+
+A Night of REST 2017 was a beautiful example of their bravery, as they shared in pre-recorded spoken word poetry about their past—and stepped to the podium to share with attendees how their life has changed since coming to REST. The room was still and silent as each survivor talked about her life now—at the edge of her REST bed.
