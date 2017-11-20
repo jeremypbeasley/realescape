@@ -20,7 +20,7 @@ It was incredible to see 79 guests give $1,000 each during the fund-a-need porti
 
 The highlight for many at A Night of REST, however, was the story told throughout the night. It started with experiential art installations that depicted different common themes that we’ve heard over the years from survivors. Artist Reformation created three installations that featured different “at the edge of my bed” scenes—from childhood, to hotel rooms, to jail cell rooms—and ultimately to their bed at the REST house. The vignettes took attendees through things many victims of trafficking feel: unseen, unheard, and unloved.
 
-[photos of the vignettes]
+![A Night of REST - Artist Reformation Installation](/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png)
 
 But that was just the beginning.
 
