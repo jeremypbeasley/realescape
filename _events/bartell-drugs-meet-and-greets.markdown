@@ -9,13 +9,13 @@ tags:
 - Bartell
 - Seahawks
 image: "/uploads/REST_Pacific-Classics_Lady-12.jpg"
-location: Four Different Locations
+location: Four Different Dates & Locations
 excerpt: 'Join us, Lady 12, Pacific Classics, and former Seahawk Joe Tafoya, at Bartell
   Drugs this holiday season! We’ll be hanging out at four different Bartell Drugs
   locations on four different dates to raise awareness about the work REST does in
   our community—and helping Pacific Classics and Lady 12 giveaway a custom 1967 Chevelle
   GoHawks! '
-event_date: 0001-01-01 00:00:00 Z
+event_date: 2017-12-01 15:00:00 Z
 post_date: 2017-11-22 00:00:00 Z
 exp_date: 2017-12-23 00:00:00 Z
 ---
