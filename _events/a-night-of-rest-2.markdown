@@ -13,23 +13,13 @@ exp_date: 2017-11-12 20:17:00 Z
 is_featured: true
 ---
 
-![event banner](http://iwantrest.com/uploads/ANOR_basic-web_no-logo.png)
+![event banner](/uploads/ANOR_post-event-social.jpg)
 
-Each year, REST creates a space where others are invited into our story—an opportunity to use our collective influence to make a difference in our community.
 
-We know that REST is moving the needle in the fight against sex trafficking, as an increasing number of women experience recovery and restoration with our help. But, on any given night in King County there are still hundreds of individuals being sold for sex and it is critical that we press on.
+We are blown away by the generosity of this year’s A Night of REST 600+ attendees. Thank you, to each and every person, who came out in support of the work that REST does. 
 
-This year, we’re hosting our 5th annual A Night of REST to raise funds that will help trafficking victims find a path to freedom, safety, and hope. This is an opportunity to make a significant difference in the lives of girls and women that need to know there is a way out of the sex trade. It’s a night where we come together and remember that we are part of something bigger. Join us in our goal of raising $400,000 to bring REST to exploited individuals in our community.
+Together you raised over $532,000 to offer pathways of freedom, safety, and hope to individuals who have experienced commercial sexual exploitation—through your generosity, you declared that survivors deserve to be loved. 
 
-—
+See a full recap of the event on our blog [here](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/), and check out some photos from the event below!
 
-Saturday, November 11
-5:30 p.m. cocktails & silent auction
-7:00 p.m. dinner & live auction   
-Meydenbauer Center, Bellevue, WA)
-
-Advanced ticket sales & registration is now closed. There will be a limited amount of tickets available at the door, and we can complete your registration during the check-in process, if you already have your ticket.  
-
-[Click here to view our Auction Catalog.](http://iwantrest.com/uploads/A-Night-of-REST-2017_Auction-Catalog.pdf?platform=hootsuite)
-
-Questions? Ask on our [Facebook Event Page](https://www.facebook.com/events/148078289121139/)
+We can’t wait to see you at A Night of REST 2018. To stay in touch with us in the meantime, please join us for [another event](https://iwantrest.com/events/), and [subscribe to our monthly newsletter](https://visitor.r20.constantcontact.com/manage/optin?v=001_5zlyb4bc8LXiAXbJDO6MwMf3S-JG9MRwVDG338L9gRbJq2WVZlIZ9gRpf-jYBw4Fp4JTIOPUAPNpDyGZI-wR86D0YAuTQL9wwT36SfM1QxPDLjb9_QeUaLx_c3bO7HLj6dNbTgfHXxw8qz7VqPa6NV6hPHFWbsAEZzJXlQ-uyQ%3D). 
