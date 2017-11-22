@@ -42,4 +42,4 @@ Saturday, December 16 | 12:00 p.m. – 3:00 p.m.
 Friday, December 22 | 12:00 p.m. – 3:00 p.m. 
 [Bartell Drugs: Sammamish](https://www.bartelldrugs.com/store/sammamish/)
 
-Have questions? Ask us on our Facebook Event Page. 
+Have questions? Ask us on our [Facebook Event Page](https://www.facebook.com/events/2000525376862602/). 
