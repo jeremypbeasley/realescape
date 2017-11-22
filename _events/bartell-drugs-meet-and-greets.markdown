@@ -21,6 +21,7 @@ exp_date: 2017-12-23 00:00:00 Z
 ---
 
 ![Bartell Drugs Meet & Greet: REST, Lady 12, Pacific Classics](/uploads/REST-event_Lady-12_Pacific-Classics.jpg)
+
 Join us, [Lady 12](https://lady12s.com/pages/about-us-1), [Pacific Classics](http://www.pacificclassics.com/), and former Seahawk Joe Tafoya, at [Bartell Drugs](https://www.bartelldrugs.com/) this holiday season! We’ll be hanging out at four different Bartell Drugs locations on four different dates to raise awareness about the work REST does in our community—and helping Pacific Classics and Lady 12 giveaway a custom 1967 Chevelle GoHawks! 
 
 As an organization founded by women, we are excited to support other woman-owned and women-lead companies and organizations. Lady 12 is owned and operated by former Seahawks wife Brandelyn Tafoya, and Pacific Classics is one of very few woman-run car dealerships. Together, as we support one another, we can make a business community that honors and respects the women across our region. 
