@@ -1,6 +1,16 @@
 ---
 title: 'Bartell Drugs Meet & Greets: REST, Lady 12, & Pacific Classics'
 date: 2017-11-22 00:16:00 Z
+image: "/uploads/REST_Pacific-Classics_Lady-12.jpg"
+location: Varies
+excerpt: 'Join us, Lady 12, Pacific Classics, and former Seahawk Joe Tafoya, at Bartell
+  Drugs this holiday season! We’ll be hanging out at four different Bartell Drugs
+  locations on four different dates to raise awareness about the work REST does in
+  our community—and helping Pacific Classics and Lady 12 giveaway a custom 1967 Chevelle
+  GoHawks! '
+event_date: Multiple Dates
+post_date: 2017-11-22 00:00:00 Z
+exp_date: 2017-12-23 00:00:00 Z
 ---
 
 Join us, [Lady 12](https://lady12s.com/pages/about-us-1), [Pacific Classics](http://www.pacificclassics.com/), and former Seahawk Joe Tafoya, at [Bartell Drugs](https://www.bartelldrugs.com/) this holiday season! We’ll be hanging out at four different Bartell Drugs locations on four different dates to raise awareness about the work REST does in our community—and helping Pacific Classics and Lady 12 giveaway a custom 1967 Chevelle GoHawks! 
@@ -12,15 +22,15 @@ At these events, you’ll have opportunities to learn more about REST, Lady 12, 
 Here’s the list of dates and locations of our Meet & Greets:
 
 Friday, December 1 | 3:00 p.m. – 6:00 p.m
-Bartell Drugs: Snoqualmie Ridge
+[Bartell Drugs: Snoqualmie Ridge](https://www.bartelldrugs.com/store/snoqualmie-ridge/)
 
 Friday, December 15 | 12:00 p.m. – 3:00 p.m.
-Bartell Drugs: Fairwood
+[Bartell Drugs: Fairwood](https://www.bartelldrugs.com/store/fairwood/)
 
 Saturday, December 16 | 12:00 p.m. – 3:00 p.m. 
-Bartell Drugs: University Village
+[Bartell Drugs: University Village](https://www.bartelldrugs.com/store/university-village/)
 
 Friday, December 22 | 12:00 p.m. – 3:00 p.m. 
-Bartell Drugs: Sammamish
+[Bartell Drugs: Sammamish](https://www.bartelldrugs.com/store/sammamish/)
 
 Have questions? Ask us on our Facebook Event Page. 
