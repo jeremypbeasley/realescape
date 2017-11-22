@@ -1,7 +1,6 @@
 ---
 title: Eat, Drink, REST
 date: 2017-12-09 18:00:00 Z
-published: false
 tags:
 - chocolate
 - dinner
@@ -22,5 +21,7 @@ exp_date: 2017-12-10 00:00:00 Z
 Join [Maritime Brewing](https://www.maritimebrewery.com/) and [Soulever Chocolates](http://souleverchocolates.com/), as they support REST, for an evening of dinner, beer, and chocolate pairings. Tickets are $48 each, and $5 from every ticket sold goes to directly to REST programs, offering pathways to freedom, safety, and hope to those who have been sexually exploited in our community. In addition to that, Maritime Pacific Brewing Co.  will donate $1 from every pint sold all day on December 9 to REST! So if you can’t attend the dinner, swing by for a pint!
 
 The dinner will take place at Maritime’s Jolly Roger Taproom, start with amuse bouche, and feature a four-course Jolly dinner. Each course will be prepared with different chocolate, and paired with a special Jolly Roger beer.
+
+To make a reservation, call (206) 782-5181 from 10:00 a.m. – 6:00 p.m. starting Monday, November 27—we'll share more reservation details on that date!
 
 We can’t wait to see you there!
