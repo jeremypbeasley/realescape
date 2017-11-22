@@ -1,6 +1,7 @@
 ---
 title: Eat, Drink, REST
 date: 2017-12-09 18:00:00 Z
+published: false
 tags:
 - chocolate
 - dinner
@@ -12,7 +13,7 @@ location_maplink: https://www.google.com/maps/place/Jolly+Roger+Taproom/@47.6627
 excerpt: Join Maritime Brewing and Soulever Chocolates, as they support REST, for
   an evening of dinner, beer, and chocolate pairings.
 event_date: 2017-12-09 18:00:00 Z
-post_date: 2017-11-21 00:00:00 Z
+post_date: 2017-11-20 00:00:00 Z
 exp_date: 2017-12-10 00:00:00 Z
 ---
 
