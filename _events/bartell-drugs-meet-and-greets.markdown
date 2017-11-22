@@ -1,6 +1,13 @@
 ---
 title: 'Bartell Drugs Meet & Greets: REST, Lady 12, & Pacific Classics'
 date: 2017-11-22 00:16:00 Z
+tags:
+- REST
+- Lady 12
+- Pacific Classics
+- Chevelle
+- Bartell
+- Seahawks
 image: "/uploads/REST_Pacific-Classics_Lady-12.jpg"
 location: 4 Different Locations
 excerpt: 'Join us, Lady 12, Pacific Classics, and former Seahawk Joe Tafoya, at Bartell
