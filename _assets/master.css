@@ -2989,15 +2989,15 @@ footer {
     margin-top: 5.5vw;
   }
 }
-footer a {
+a {
   border-bottom: 0px;
   text-decoration: none;
 }
-footer .social {
+.social {
   margin-top: 0.5em;
   display: block;
 }
-footer .social a {
+a {
   width: 25px;
   height: 25px;
   display: block;
@@ -3009,19 +3009,19 @@ footer .social a {
   background-repeat: no-repeat;
   background-position: top left;
 }
-footer .social a:hover {
+a:hover {
   opacity: 0.4;
 }
-footer .social a.facebook {
+a.facebook {
   background-image: url("_img/icon_facebook.svg");
 }
-footer .social a.twitter {
+a.twitter {
   background-image: url("_img/icon_twitter.svg");
 }
-footer .social a.linkedin {
+a.linkedin {
   background-image: url("_img/icon_linkedin.svg");
 }
-footer .bottomLine {
+.bottomLine {
   width: 100%;
   height: 1px;
   background: #000;
@@ -3029,17 +3029,17 @@ footer .bottomLine {
   opacity: 1;
 }
 @media (min-width: 62em) {
-  footer .bottomLine {
+  .bottomLine {
     height: 1px;
     margin-bottom: 11vw;
   }
 }
 @media (min-width: 30em) {
-  footer .bottomLine .row:nth-child(1) {
+  .row:nth-child(1) {
     padding-top: 0px !important;
   }
 }
-footer .bottomLine p a {
+p a {
   border: none;
 }
 .BackToTop {
