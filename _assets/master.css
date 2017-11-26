@@ -1753,6 +1753,7 @@ span {
   position: absolute;
 }
 a.cta {
+  font-family: CircularStdBook, CircularStdBold, sans-serif;
   font-size: 0.9rem;
   padding: 0.5rem 0.8rem;
   border: 1px solid #000;
@@ -2453,6 +2454,9 @@ nav.miniMenu li a:hover {
   color: #fff;
   background: #000;
 }
+a:hover.fullMenuItem {
+  color: #000;
+}
 .featphoto {
   position: absolute;
   position: absolute;
@@ -3063,6 +3067,9 @@ a.linkedin {
   .BackToTop {
     display: none;
   }
+}
+footer a.cta {
+  margin: 1rem 0 0 0;
 }
 .aguide {
   position: fixed;
