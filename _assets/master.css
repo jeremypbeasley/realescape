@@ -1752,7 +1752,7 @@ p {
 span {
   position: absolute;
 }
-.cta {
+a.cta {
   font-size: 0.9rem;
   padding: 0.5rem 0.8rem;
   border: 1px solid #000;
@@ -1762,7 +1762,7 @@ span {
   color: #000;
   cursor: pointer;
 }
-.cta a:hover {
+a:hover.cta {
   background: #000;
   color: #fff;
 }
