@@ -1661,7 +1661,7 @@ a {
   border-color: #000;
   cursor: pointer;
 }
-a:hover {
+.cta a:hover {
   background: #000;
   color: #fff;
   border-color: #000;
@@ -1673,8 +1673,8 @@ a:hover {
 }
 .inverted a:hover {
   border-color: #fff;
-  background: #fff;
-  color: #000;
+  background: #000;
+  color: #fff;
 }
 ul {
   list-style: circle;
@@ -2997,19 +2997,24 @@ a {
   margin-top: 0.5em;
   display: block;
 }
-a {
+footer a {
+  display: block;
+  float: left;
+  color: #000;
+  margin-right: 10px;
+}
+footer .social a {
   width: 25px;
   height: 25px;
-  display: block;
   text-indent: -9999px;
-  float: left;
-  color: #999;
-  margin-right: 10px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top left;
+  text-indent: -9999px;
+  display: block;
+  color: #999;
 }
-a:hover {
+footer .social a:hover {
   opacity: 0.4;
 }
 a.facebook {
