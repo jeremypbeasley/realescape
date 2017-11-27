@@ -87,3 +87,21 @@ a.linkedin {
 footer a.cta {
 	margin: 1rem 0 0 0;
 }
+.copyright {
+	display: flex;
+	flex-direction: column;
+}
+@media laptop {
+	.copyright {
+		flex-direction: row;
+	}
+}
+.copyright:nth-child(1) {
+	order: 1;
+}
+.copyright:nth-child(2) {
+	order: 2;
+}
+.LittleSpace {
+	margin: 0 1rem;
+}

@@ -3071,6 +3071,24 @@ a.linkedin {
 footer a.cta {
   margin: 1rem 0 0 0;
 }
+.copyright {
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 62em) {
+  .copyright {
+    flex-direction: row;
+  }
+}
+.copyright:nth-child(1) {
+  order: 1;
+}
+.copyright:nth-child(2) {
+  order: 2;
+}
+.LittleSpace {
+  margin: 0 1rem;
+}
 .aguide {
   position: fixed;
   background: #00f;
