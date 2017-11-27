@@ -3000,8 +3000,6 @@ a {
   display: block;
 }
 footer a {
-  display: block;
-  float: left;
   color: #000;
   margin-right: 10px;
 }
@@ -3018,6 +3016,8 @@ footer .social a {
   text-indent: -9999px;
   display: block;
   color: #999;
+  display: block;
+  float: left;
 }
 footer .social a:hover {
   opacity: 0.4;
@@ -3070,6 +3070,7 @@ a.linkedin {
 }
 footer a.cta {
   margin: 1rem 0 0 0;
+  display: inline-block;
 }
 .copyright {
   display: flex;
@@ -3087,7 +3088,7 @@ footer a.cta {
   order: 2;
 }
 .LittleSpace {
-  margin: 0 1rem;
+  margin: 0 0.5rem;
 }
 .aguide {
   position: fixed;
