@@ -1738,12 +1738,14 @@ h4 {
     margin-bottom: 2rem;
   }
 }
+h2.BlogContainer {
+  font-family: CircularStdBook, CircularStdBold, sans-serif;
+}
 .quote {
   position: relative;
   z-index: 15 !important;
 }
 h2 {
-  font-family: GaramondNo4TLig_Italic, serif;
   z-index: 15;
 }
 p {
@@ -1767,10 +1769,10 @@ a:hover.cta {
   background: #000;
   color: #fff;
 }
-.PostContent p {
+p.PostContent {
   opacity: 1;
 }
-.PostContent h1 {
+h1.PostContent {
   font-size: 1.5rem;
   line-height: 200%;
   margin: 1rem 0;
@@ -1780,38 +1782,38 @@ a:hover.cta {
     font-size: 2rem;
   }
 }
-.PostContent h2 {
+h2.PostContent {
   font-size: 1.7rem;
   font-family: CircularStdBook, CircularStdBold, sans-serif;
 }
 @media (min-width: 62em) {
-  .PostContent h2 {
+  h2.PostContent {
     font-size: 2rem;
   }
 }
-.PostContent h3,
-h4 {
+h3.PostContent,
+h4.PostContent {
   font-size: 1rem;
 }
-.PostContent em {
+em.PostContent {
   margin: 2em 0;
   display: block;
 }
-.PostContent sup {
+sup.PostContent {
   font-size: 50%;
   top: -1em;
 }
-.PostContent img {
+img.PostContent {
   width: 100vw;
   margin: 2rem 0;
 }
 @media (min-width: 62em) {
-  .PostContent img {
+  img.PostContent {
     width: 50vw;
     margin: 2em;
   }
 }
-.PostContent ul {
+ul.PostContent {
   font-size: 1rem;
 }
 .col-md-1,
@@ -3042,11 +3044,6 @@ a.linkedin {
   .bottomLine {
     height: 1px;
     margin-bottom: 11vw;
-  }
-}
-@media (min-width: 30em) {
-  .row:nth-child(1) {
-    padding-top: 0px !important;
   }
 }
 .BackToTop {
