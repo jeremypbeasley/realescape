@@ -205,7 +205,7 @@ When REST clients connect with that message—that they are empowered because th
 
 ## Text Outreach
 
-REST has always been committed to meeting sexually exploited individuals right where they’re at. As the sex trade shifted away from the streets and onto the internet, we saw a need to adapt our approach for outreach, and thanks to a partnership with Seattle Against Slavery and Microsoft’s Hackathon, we have. 
+!(Sample Outreach Text)[/uploads/REST_Annual-Report-2017_Text-Outreach.png]REST has always been committed to meeting sexually exploited individuals right where they’re at. As the sex trade shifted away from the streets and onto the internet, we saw a need to adapt our approach for outreach, and thanks to a partnership with Seattle Against Slavery and Microsoft’s Hackathon, we have. 
 
 Through this new technology, we’ve been able to reach more exploited individuals this year than in any previous year. The software scrapes phone numbers from sex advertisements online, and allows us to send bulk texts to the numbers through a system that enables us to connect immediately to any responders. 
 
