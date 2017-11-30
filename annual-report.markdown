@@ -187,7 +187,7 @@ In Fiscal Year 2017, we’ve provided this intentional level of case management 
 
 ***
 
-<img src="/uploads/REST_Annual-Report-2017_Laura.jpg" alt="REST Advocate Laura" style="float:right;width:400px;height:400px;margin:0px 0px 10px 10px;">## Laura
+<img src="/uploads/REST_Annual-Report-2017_Laura.jpg" alt="REST Advocate Laura" style="float:right;width:400px;height:400px;margin:0px 0px 10px 10px;"> ## Laura
 
 Laura has known she wanted to work with survivors of commercial sexual exploitation since she was fourteen years old. “Survivors are some of the strongest people I know,” she said, explaining why, ten years later, she’s still committed to this work; working as a Community Advocate with REST for the last three years. 
 
