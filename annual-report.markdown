@@ -59,6 +59,8 @@ We are a Christian organization that desires to offer respectful services to ind
 
 **The number of trafficked individuals in King County, WA is unknown. What we do know is that it happens, it happens here, and it is harmful and widespread.**
 
+![Seattle, Washington](/uploads/REST_Annual-Report-2017_King-Co.jpg)
+
 - Over half of exploited individuals are homeless or in unstable housing. 
 - There are 300–500 youth being prostituted locally.
 - There are 100+ websites where commercial sex is available in the Seattle area, with - over 6,000 unique phone numbers tied to potential victims.
@@ -66,6 +68,8 @@ We are a Christian organization that desires to offer respectful services to ind
 - There are twenty beds in King County reserved for survivors of commercial sexual exploitation. Thirteen of them are at REST.
 
 ***
+
+!(Stephanie)[/uploads/REST_Annual-Report-2017_Stephanie.jpg]
 
 ## Stephanie
 
@@ -87,6 +91,8 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
 
 **The shelter has operated at 90% occupancy since its opening.**
+
+![REST Emergency Receiving Center](/uploads/REST_Annual-Report-2017_ERC.jpg)
 
 - 152 individuals visited our drop-in center 1,266 times.
 - 71 drop-in guests participated in groups, classes, and workshops 368 times.
