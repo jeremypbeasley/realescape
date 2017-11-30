@@ -17,6 +17,9 @@ collections:
   needs:
     title: Needs
     output: true
+  jobs:
+    title: Jobs
+    output: true
   posts:
     title: Posts
     output: true
@@ -29,6 +32,12 @@ defaults:
     type: pages
   values:
     layout: default
+- scope:
+    path: ''
+    type: jobs
+  values:
+    layout: jobs
+    jobdesc_file:
 - scope:
     path: ''
     type: blogs

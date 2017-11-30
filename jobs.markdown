@@ -1,8 +1,7 @@
 ---
 title: Jobs
-layout: default
+layout: jobs_index
 ---
 
-We currently have one position available. To apply, send your resume to [apply@iwantrest.com](mailto:apply@iwantrest.com). 
+If you're interested in working with REST, but don't see what you're looking for, please email us at [info@iwantrest.com](mailto:info@iwantrest.com).
 
-_Community Advocate - Full Time - [Job Description](/uploads/REST-jobs_Community-Advocate_males.pdf)_
