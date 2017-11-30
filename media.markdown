@@ -18,4 +18,6 @@ REST in the News
 
 [Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
 
-[Sex trafficking bill gets tech firms' backing](http://bbc.in/2j0SisI) via _BBC Click_
+[Sex trafficking bill gets tech firms' backing](http://bbc.in/2j0SisI) via _BBC News_
+
+[The chatbot taking on Seattle's sex trade](http://bbc.in/2znsMBh) via _BBC News_

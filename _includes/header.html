@@ -16,10 +16,10 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@iwantrest">
   <meta name="twitter:title" content="REST – Real Escape from the Sex Trade">
-  <meta name="twitter:description" content="SOur goal is simple — freedom, safety, and hope to women & girls exploited by the sex trade.">
+  <meta name="twitter:description" content="Our goal is simple — freedom, safety, and hope to women & girls exploited by the sex trade.">
   <meta name="twitter:image" content="https://iwantrest.com/assets/_img/featphoto_team.jpg">
-  <link href="{{ site.url }}/assets/master.css" rel="stylesheet">
-  <script src="{{ site.url }}/assets/master.js"></script>
+  <link href="/assets/master.css" rel="stylesheet">
+  <script src="/assets/master.js"></script>
 </head>
 
 <body>
@@ -46,7 +46,7 @@
 <header>
   <div class="logo linked"><a href="{{ site.url }}">...</a></div>
   <div class="DonateButtonBigParent">
-    <a href="{{ site.url }}/donate" class="DonateButtonBig">Donate</a>
+    <a href="/donate" class="DonateButtonBig">Donate</a>
   </div>
     <div id="thing" class="menuHit">
     <h3>Menu</h3>
@@ -69,7 +69,7 @@
     {% assign header = site.elements | where: 'title','Header' | first %}
     {% if header %}
       {% for nav_item in header.navigation %}
-        <li><a class="fullMenuItem" href="{{ site.url }}/{{ nav_item.url }}" id="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+        <li><a class="fullMenuItem" href="/{{ nav_item.url }}" id="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
       {% endfor %}
     {% endif %}
   </ul>
@@ -79,7 +79,7 @@
   <ul>
     {% if header %}
       {% for nav_item in header.navigation %}
-        <li><a class="fullMenuItem" href="{{ site.url }}/{{ nav_item.url }}" id="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+        <li><a class="fullMenuItem" href="/{{ nav_item.url }}" id="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
       {% endfor %}
     {% endif %}
     <li><a href="{{ site.url }}/donate">Donate</a></li>
