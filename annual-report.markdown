@@ -13,6 +13,8 @@ layout: default
 
 ## A Note from Amanda
 
+<p><img src="/uploads/REST_Annual-Report-2017_Amanda.jpg" alt="REST Executive Director Amanda Hightower" style="float:right;width:200px;height:200px;margin:0px0px10px10px;">
+
 ![Executive Director Amanda Hightower](/uploads/REST_Annual-Report-2017_Amanda.jpg)
 
 Friends,
