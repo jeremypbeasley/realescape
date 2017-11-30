@@ -257,6 +257,7 @@ We are thankful for our partners.
 ***
 
 ## Leadership Team
+![REST Leadership Team](/uploads/REST_Annual-Report-2017_Leadership.png)
 
 **Board of Directors**
 
