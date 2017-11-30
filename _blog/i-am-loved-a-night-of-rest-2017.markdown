@@ -32,11 +32,11 @@ For the first time, survivors from the REST Restorative Housing Program took the
 
 A Night of REST 2017 was a beautiful example of their bravery, as they shared in pre-recorded spoken word poetry about their past—and stepped to the podium to share with attendees how their life has changed since coming to REST. The room was still and silent as each survivor talked about her life now—at the edge of her REST bed.
 
-“At REST I have been able to paint a new picture of what I want my life to be. I am discovering a new perspective—full of choices I never knew were available to me. I feel unconditional love and acceptance. I have reconnected with my faith and spirituality. For the first time in eleven years I have stable housing, food, and a supportive staff that helps motivate me to meet my needs. I have found my voice, and I am now establishing who I am.” - REST House Resident
+>“At REST I have been able to paint a new picture of what I want my life to be. I am discovering a new perspective—full of choices I never knew were available to me. I feel unconditional love and acceptance. I have reconnected with my faith and spirituality. For the first time in eleven years I have stable housing, food, and a supportive staff that helps motivate me to meet my needs. I have found my voice, and I am now establishing who I am.” **—REST House Resident**
 
-“I feel safe at REST. I don’t have an organization behind me, I have a family. I don’t stay at the rest house, for my daughter and I, that’s home.”  - REST House Resident
+>“I feel safe at REST. I don’t have an organization behind me, I have a family. I don’t stay at the rest house, for my daughter and I, that’s home.”  **—REST House Resident**
 
-“Since I came to REST I learned to maintain sobriety, a job, a healthy relationship, and a car. I take pride in everything I have earned, I can’t believe I’ve come so far. I am proud of who I am, and now know the woman in the mirror. I am worthy of love, honor, trust, dignity, and respect. I have never seen anything clearer.” - REST House Resident
+>“Since I came to REST I learned to maintain sobriety, a job, a healthy relationship, and a car. I take pride in everything I have earned, I can’t believe I’ve come so far. I am proud of who I am, and now know the woman in the mirror. I am worthy of love, honor, trust, dignity, and respect. I have never seen anything clearer.” **—REST House Resident**
 
 Each of their speeches concluded with the same refrain—that same belief that drives all of the work we do at REST—and each of their speeches was met with a standing ovation and the support of the over 600 people who gathered to support them—and others with similar stories. 
 
