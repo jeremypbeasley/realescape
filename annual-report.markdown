@@ -144,11 +144,12 @@ Audrey knows how incredibly strong, intelligent, resilient, and beautiful the cl
 
 ***
 
+
+![REST House](/uploads/REST_Annual-Report-2017_House.jpg)
+
 ## 3,000
 
 **In Fiscal Year 2017, we provided over 3,000 nights of REST through our house and emergency shelter.**
-
-![REST House](/uploads/REST_Annual-Report-2017_House.jpg)
 
 **What happened at the six-room REST House in Fiscal Year 2017?**
 
