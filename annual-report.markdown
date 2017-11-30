@@ -231,6 +231,9 @@ Most exploited individuals are recruited as minors—usually between 13–15 yea
 ## Financial Breakdown
 
 Every dollar entrusted to REST is crucial and enables us to provide freedom, safety, and hope to individuals exploited in the sex trade. 
+![REST Expenses](/uploads/REST_Annual-Report-2017_Finances-Expenses.png)
+![REST Funding](/uploads/REST_Annual-Report-2017_Financials-Funding.png)
+![REST Cost Per Day](/uploads/REST_Annual-Report-2017_Finances-Daily.png)
 It costs $2,280 to keep the REST House and Emergency Receiving Center, which includes our shelter and drop-in center, open for 24 hours. 
 
 ***
@@ -241,15 +244,15 @@ We rely on partnerships within our community to connect with exploited individua
 
 We are thankful for our partners.
 
-> “Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.” **—Jim Fitzgerald, Seattle Police Department**
+“Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.” **—Jim Fitzgerald, Seattle Police Department**
 
-> “This supportive partnership provides seamless services for women previously underserved.” **—Debra Boyer, Organization for Prostitution Survivors**
+“This supportive partnership provides seamless services for women previously underserved.” **—Debra Boyer, Organization for Prostitution Survivors**
 
-> “REST is willing to experiment and try new models to engage the issue of trafficking, and we think that is great.” **—Robert Beiser, Seattle Against Slavery**
+“REST is willing to experiment and try new models to engage the issue of trafficking, and we think that is great.” **—Robert Beiser, Seattle Against Slavery**
 
-> “Our partnership serves to further our goal of accountability for offenders, justice for victims, and opportunities for safety and exit.” **—Valiant Richey, King County Prosecuting Attorney’s Office**
+“Our partnership serves to further our goal of accountability for offenders, justice for victims, and opportunities for safety and exit.” **—Valiant Richey, King County Prosecuting Attorney’s Office**
 
-> “People trust REST. There is no one I encounter in my work who doesn’t have the highest regard for what you all have accomplished. When we were considering who to ask to partner with us as we expand our Safe Jobs program, your organization was at the top of our list because of your reputation with survivors. They’re the experts on their own needs for recovery and when they say your services make a difference in their lives, there is no higher praise.” **—Mar Brettmann, Business Ending Slavery & Trafficking**
+“People trust REST. There is no one I encounter in my work who doesn’t have the highest regard for what you all have accomplished. When we were considering who to ask to partner with us as we expand our Safe Jobs program, your organization was at the top of our list because of your reputation with survivors. They’re the experts on their own needs for recovery and when they say your services make a difference in their lives, there is no higher praise.” **—Mar Brettmann, Business Ending Slavery & Trafficking**
 
 ***
 
