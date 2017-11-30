@@ -13,13 +13,11 @@ layout: default
 
 ## A Note from Amanda
 
-<p><img src="/uploads/REST_Annual-Report-2017_Amanda.jpg" alt="REST Executive Director Amanda Hightower" style="float:right;width:200px;height:200px;margin:0px0px10px10px;">
 
-![Executive Director Amanda Hightower](/uploads/REST_Annual-Report-2017_Amanda.jpg)
 
 Friends,
 
-The path to healing from trafficking and exploitation is like a steep, jagged, mountain climb. It’s the journey of someone who is fighting to believe they are worthy of love. There are countless barriers and obstacles, and few moments of reprieve. The journey often seems endless. We’ve learned this by walking with survivors as they fight their way up that mountain to build a new life. Every step forward is a victory. Every pause or step backward is a moment to remember what makes the climb worthwhile.
+<img src="/uploads/REST_Annual-Report-2017_Amanda.jpg" alt="REST Executive Director Amanda Hightower" style="float:right;width:200px;height:200px;margin:0px0px10px10px;">The path to healing from trafficking and exploitation is like a steep, jagged, mountain climb. It’s the journey of someone who is fighting to believe they are worthy of love. There are countless barriers and obstacles, and few moments of reprieve. The journey often seems endless. We’ve learned this by walking with survivors as they fight their way up that mountain to build a new life. Every step forward is a victory. Every pause or step backward is a moment to remember what makes the climb worthwhile.
 When we considered the best way to give you a glimpse of REST and where we have been over the last year, one thing was clear—the voices of survivors and the advocates walking alongside them up the jagged mountain are the voices you should hear. So, this year, we asked them to share their words with you and invite you deeper into the heartbeat of REST—that everyone is worthy of love. Love that demonstrates unconditional care, creates a sense of belonging, and gives way to freedom, safety, and hope.
 As you read these pages and get a feel for the impact that REST has in the lives of trafficking survivors, I hope you are encouraged, and feel joy knowing that you help make the climb possible.
 
