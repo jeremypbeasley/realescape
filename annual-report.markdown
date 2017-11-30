@@ -180,15 +180,15 @@ Chelsea says REST has helped her learn to “adult,” and has connected her wit
 ## Community Advocacy
 
 ![Community Advocates Team](/uploads/REST_Annual-Report-2017_Advocacy-Team.png)
-
 The mission of our Community Advocate team is to empower survivors of commercial sexual exploitation to identify their goals and dreams for the future, and support them to achieve those goals. Advocates provide focused case management to assist REST clients with accessing housing, employment, chemical dependency services, mental health services, education, and other goals that are important to help our clients sustain a life out of the sex trade.
 
 In Fiscal Year 2017, we’ve provided this intentional level of case management to 149 women as they accomplished over 550 self-identified goals for their lives.
+![Advocacy Goals](/uploads/REST_Annual-Report-2017_Advocacy-Goals.png)
 
 ***
 
 ## Laura
-
+<img src="/uploads/REST_Annual-Report-2017_Laura.jpg" alt="REST Advocate Laura" style="float:right;width:300px;height:300px;margin:0px 0px 10px 10px;">
 Laura has known she wanted to work with survivors of commercial sexual exploitation since she was fourteen years old. “Survivors are some of the strongest people I know,” she said, explaining why, ten years later, she’s still committed to this work; working as a Community Advocate with REST for the last three years. 
 
 > “I think creating a way, a space for survivors to have a voice—when they haven’t been heard for so long—is something really empowering. It’s not ‘I want to help and save you.’ but “I would love to come alongside you and fight with you because you’ve been fighting for so long.” 
