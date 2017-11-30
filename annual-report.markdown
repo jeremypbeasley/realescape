@@ -21,7 +21,9 @@ The path to healing from trafficking and exploitation is like a steep, jagged, m
 When we considered the best way to give you a glimpse of REST and where we have been over the last year, one thing was clear—the voices of survivors and the advocates walking alongside them up the jagged mountain are the voices you should hear. So, this year, we asked them to share their words with you and invite you deeper into the heartbeat of REST—that everyone is worthy of love. Love that demonstrates unconditional care, creates a sense of belonging, and gives way to freedom, safety, and hope.
 As you read these pages and get a feel for the impact that REST has in the lives of trafficking survivors, I hope you are encouraged, and feel joy knowing that you help make the climb possible.
 
-<img src="/uploads/REST_Annual-Report-2017_Amanda-Sig.png" alt="Amanda Signature" style="float:left;width:278px;height:136px;margin:10px 0px 10px 30px;"> Amanda Hightower
+<img src="/uploads/REST_Annual-Report-2017_Amanda-Sig.png" alt="Amanda Signature" style="float:left;width:278px;height:136px;margin:10px 0px 10px 30px;"> 
+
+Amanda Hightower
 Executive Director 
 
 ***
