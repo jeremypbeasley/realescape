@@ -147,6 +147,8 @@ Audrey knows how incredibly strong, intelligent, resilient, and beautiful the cl
 
 **In Fiscal Year 2017, we provided over 3,000 nights of REST through our house and emergency shelter.**
 
+![REST House](/uploads/REST_Annual-Report-2017_House.jpg)
+
 **What happened at the six-room REST House in Fiscal Year 2017?**
 
 - 15 residents stayed 1,544 nights.
@@ -165,6 +167,8 @@ After two weeks at REST, Chelsea knew this was the place for her—and fought ha
 
 > “Each person here has taught me something different.” She said, speaking about the diversity in experiences throughout REST. “Just seeing what women can go through, what these women, in specific, have gone through—definitely has impacted how I look at things, how I think about the world in general, and how I see myself. And in terms of staff, every single person—no matter if they’re support staff, counselor, or peer support—every single person is here for me.” 
 
+![Chelsea](/uploads/REST_Annual-Report-2017_Chelsea.jpg)
+
 Chelsea says REST has helped her learn to “adult,” and has connected her with resources she never knew were available, especially for women with stories like hers.
  
 > “I feel loved in so many different ways, from so many different people, and I didn’t think that would be possible. I thought that I had to be loved by my family, or by my pimp, or by someone somewhere—boyfriends, tricks, whatever… but that’s not true anymore. There are so many different forms of love, and I’ve found that here, really. I find it from the people that support me. I find that from the people that I live with. I find it from the people that come to drop-in. And it’s exciting. It’s nice to know that it’s there. It’s nice to know that I don’t have to search for love in the wrong places, because I’m not getting it in the right places.” 
@@ -172,6 +176,8 @@ Chelsea says REST has helped her learn to “adult,” and has connected her wit
 ***
 
 ## Community Advocacy
+
+![Community Advocates Team](/uploads/REST_Annual-Report-2017_Advocacy-Team.png)
 
 The mission of our Community Advocate team is to empower survivors of commercial sexual exploitation to identify their goals and dreams for the future, and support them to achieve those goals. Advocates provide focused case management to assist REST clients with accessing housing, employment, chemical dependency services, mental health services, education, and other goals that are important to help our clients sustain a life out of the sex trade.
 
