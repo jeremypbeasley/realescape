@@ -74,7 +74,7 @@ We are a Christian organization that desires to offer respectful services to ind
 
 ***
 
-!(Stephanie)[/uploads/REST_Annual-Report-2017_Stephanie.jpg]
+![Stephanie](/uploads/REST_Annual-Report-2017_Stephanie.jpg)
 
 ## Stephanie
 
@@ -112,8 +112,7 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 The REST hotline is available twenty-four hours a day, seven days a week. Through it, we connect with individuals who have been exploited, or are currently being exploited in the sex trade. Callers and texters often reach out in crisis and receive emotional support, information, and referrals for resources. In most cases, our advocates are able to respond in person to help meet a victim’s immediate needs. 
 
 **This year through our hotline we:**
-<img src="/uploads/REST_Annual-Report-2017_Hotline.png" alt="REST Hotline" style="float:right;width:400px;height:400px;margin:0px 0px 10px 10px;">
-- Received over 1,000 calls.
+<img src="/uploads/REST_Annual-Report-2017_Hotline.png" alt="REST Hotline" style="float:right;width:300px;height:300px;margin:0px 0px 10px 10px;">- Received over 1,000 calls.
 - Received over 100 texts.
 - Communicated with 198 unique individuals.
 - Connected with 133 first-time callers, 115 of whom are local to King County.
@@ -124,9 +123,11 @@ Exiting the sex trade often involves getting free from pimps and abusers, detoxi
 
 We are excited to let you know that in Fiscal Year 2017, we walked with over 140 individuals on that journey—stood by their side, and fought next to them, as they fought for freedom, safety, and hope. 19 of them have stayed out for over six months, and 14 of them have stayed out for over one year.
 
+
 ***
 
 ## Audrey
+![Audrey, Community Advocate Supervisor](/uploads/REST_Annual-Report-2017_Audrey.jpg)
 
 “You are not alone. You are not forgotten. I’m in this with you. I believe you. I see that you are strong. I see that you are smart. You have fought for your life, and your life is worthwhile.” These are some of the things Community Advocate Supervisor Audrey shares with the individuals she walks with at REST.
 
