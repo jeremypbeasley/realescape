@@ -69,8 +69,9 @@ We are a Christian organization that desires to offer respectful services to ind
 - Over half of exploited individuals are homeless or in unstable housing. 
 - There are 300–500 youth being prostituted locally.
 - There are 100+ websites where commercial sex is available in the Seattle area, with - over 6,000 unique phone numbers tied to potential victims.
-- A 2014 Arizona State University study concluded there were 6,800 buyers soliciting sex in the Seattle area on a single site in 24 hours. 
-- There are twenty beds in King County reserved for survivors of commercial sexual exploitation. Thirteen of them are at REST.
+- A 2014 Arizona State University study concluded there were 6,800 buyers soliciting sex in the Seattle area on a single site in 24 hours.
+
+**There are twenty beds in King County reserved for survivors of commercial sexual exploitation. Thirteen of them are at REST.**
 
 ***
 
