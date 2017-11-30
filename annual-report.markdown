@@ -76,7 +76,6 @@ We are a Christian organization that desires to offer respectful services to ind
 ***
 
 ![Stephanie](/uploads/REST_Annual-Report-2017_Stephanie.jpg)
-
 ## Stephanie
 
 When Stephanie confronted her trafficker in court, her REST Advocate, Audrey, was by her side. They both wore shirts that read “Don’t Buy Girls.” “I felt like I didn’t have the strength to do it. But with Audrey by my side, I spoke up in court with my victim impact statement with him in the courtroom.” 
