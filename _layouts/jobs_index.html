@@ -1,0 +1,66 @@
+{% include header.html %}
+
+<section class="blog index">
+  <div class="row heading">
+    <div class="column col-xs-12 col-md-4">
+      <div class="line"></div>
+      <h1>{{ page.title }}</h1>
+    </div>
+    <div class="column col-xs-12 col-md-8 BlogContainer">
+      <div class="row BlogItem" id="repeatme">
+        {% for job in site.jobs %}
+          <div class="column col-xs-12 linked BlogIndexItem">
+            <h2 class="BlogTitle">{{ job.title}}</h2>
+            {{ job.content | markdownify }}
+            {% if job.jobdesc_file %}
+              <p>
+                <a target="_blank" href="{{ job.jobdesc_file }}">More info</a>
+              </p>
+            {% endif %}
+            <hr>
+          </div>
+        {% else %}
+          <p>We don't currently have any positions available.</p>
+        {% endfor %}
+      </div>
+      {{ content | markdownify }}
+    </div>
+  </div>
+</section>
+
+{% include footer.html %}
+
+
+
+<!-- 
+<div class="row BlogItem" id="repeatme">
+  {% for job in site.jobs reversed %}
+  <div class="column col-xs-12 linked BlogIndexItem">
+    <h2 class="BlogTitle">{{ job.title}}</h2>
+    {{ job.content | markdownify }}
+    {% if job.jobdesc_file %}
+      <p>
+        <a href="jobdesc_file">More info</a>
+      </p>
+    {% endif %}
+    <hr>
+  </div>
+  {% endfor %}
+  <div class="column col-xs-12 BlogIndexItem">
+    <p>If you're interested in working with REST, but don't see the listing you're looking for, please email us at <a href="mailto:info@iwantrest.com">info@iwantrest.com</a>.</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+{% if site.jobs %}
+
+{% else %}
+  <div class="column col-xs-12 linked BlogIndexItem">
+    {{ content | markdownify }}
+  </div>
+{% endif %} -->
