@@ -1,0 +1,250 @@
+.BlogBack {
+  margin-bottom: 2rem;
+}
+
+.BlogIndexItem {
+  margin-bottom: 5vw;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.BlogIndexItem hr {
+  height: 1px;
+  background: color-text;
+  width: 100%;
+  border: none;
+  margin-bottom: 10vw;
+  margin-top: 0vw;
+}
+
+@media (min-width: 48em) {
+  .BlogIndexItem hr {
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+  }
+}
+
+.BlogAuthorImage {
+  float: left;
+  margin-top: 14px;
+  margin-right: 1rem;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 1000px;
+  background-size: cover;
+  background-color: #ccc;
+}
+
+.BlogMeta {
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  display: block;
+  overflow: visible;
+}
+
+@media (min-width: 48em) {
+  .BlogMeta {
+    margin-bottom: 2.5rem;
+  }
+}
+
+.BlogMeta p {
+  float: left;
+  padding: 0 0;
+  opacity: 0.4;
+  margin-top: 0.8rem;
+  line-height: 125%;
+}
+
+@media (min-width: 48em) {
+  .BlogMeta p {
+    margin-top: 1.3rem;
+  }
+}
+
+.post p a {
+  border-bottom: 1px solid #000;
+  transition: all 200ms ease;
+}
+
+.post p a:hover {
+  border-color: #ccc;
+}
+
+.post p a:hover.cta {
+  border-color: #000;
+}
+
+.BlogLine {
+  margin-bottom: 0rem;
+  margin-top: 4rem;
+  height: 0.22rem;
+  width: 100%;
+  height: 1px;
+  background: #000;
+}
+
+@media (min-width: 62em) {
+  .BlogLine {
+    margin-bottom: -2rem;
+    margin-top: 6rem;
+  }
+}
+
+.fb-share-button {
+  margin-left: 20px;
+}
+
+@media (min-width: 48em) {
+  .fb-share-button span {
+    top: -4px;
+  }
+}
+
+// Blog Posts & Default Layout Pages
+
+@media tablet {
+  .BlogContainer {
+    margin-top 5vw;
+  }
+}
+
+.BlogContainer .BlogTitle {
+  margin-top: -.3em;
+  font-size: 1.5rem;
+}
+
+@media laptop {
+  .BlogContainer .BlogTitle {
+    font-size: 4vw;
+  }
+}
+
+// Prevents underline on linked titles on /blog
+
+.BlogContainer hr {
+  width: 100%;
+  background: black;
+  height: 1px;
+  border: none;
+  margin: 2rem 0;
+}
+
+.BlogContainer img {
+	width: 100%;
+	margin: 2rem 0;
+}
+
+.BlogContainer p em {
+  font-family: typeface-primary-italic;
+}
+
+.BlogContainer strong,
+.BlogContainer b {
+  font-family: typeface-secondary;
+  font-weight: normal;
+}
+
+.BlogContainer sup {
+	font-size: 50%;
+	top: -1em;
+}
+
+.BlogContainer blockquote {
+  margin: 1em 1.5rem 2.5rem 0em;
+  padding-left: 2em;
+  border-left: 1px solid black;
+}
+
+.BlogContainer blockquote p {
+  font-size: 1rem;
+  margin: -.5em 0 0 0;
+}
+
+@media laptop {
+  .BlogContainer blockquote p {
+    font-size: 1.5rem;
+  }
+}
+
+.BlogContainer blockquote p strong {
+  font-family: typeface-secondary
+  // ensures the name below the quote falls on new line
+  display: block;
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: -.8rem;
+}
+
+.BlogContainer blockquote p:last-child {
+  // makes sure the border on left doesn't extend past visible bottom of text
+  margin-bottom: -.5rem;
+}
+
+.BlogContainer h1,
+.BlogContainer h2,
+.BlogContainer h3,
+.BlogContainer h4 {
+  font-family: typeface-secondary;
+	line-height: 130%;
+	margin: 2rem 0;
+}
+
+.BlogContainer h1  {
+	font-size: 3rem;
+}
+
+@media laptop {
+  .BlogContainer h1 {
+    font-size: 5rem;
+  }
+}
+
+.BlogContainer h2 {
+  font-size: 1.5rem;
+}
+
+@media laptop {
+  .BlogContainer h2 {
+    font-size: 3rem;
+  }
+}
+
+.BlogContainer h3, 
+.BlogContainer h4 {
+	font-size: 1rem;
+}
+
+.BlogContainer ul {
+	list-style: circle;
+}
+
+.BlogContainer ul, 
+.BlogContainer ol {
+  padding: 0px;
+  margin: 0 0 1rem 0;
+}
+
+.BlogContainer ul li,
+.BlogContainer ol li {
+  margin: -0.5rem 0 1.5rem 0;
+  line-height 150%;
+}
+
+// Blog Donate Section
+
+.inverted a {
+	border: 1px solid #000;
+	padding: .5rem .8rem;
+	position: relative;
+	top: 1.2rem;
+	color: white;
+	background: transparent;
+	transition: all 200ms ease-out;
+}
+
+.inverted a:hover {
+	background: #000;
+	color: #fff;
+}

@@ -25,6 +25,7 @@ Reichert said, “We owe it to these children to ensure our nation’s foster ca
 
 It’s the least we can do.
 
+***
 
 Sources:
 

@@ -1,10 +1,10 @@
-// CSS STUFF & FONTS
+// Resets & fonts
 
 @import "../../node_modules/normalize.css/normalize.css"
 @import "../../node_modules/flexboxgrid/css/flexboxgrid.css"
 @import "fonts.css"
 
-// STYLUS FILES
+// Sections
 
 @import "vars.styl"
 @import "type.styl"
@@ -12,18 +12,24 @@
 @import "base.styl"
 @import "nav.styl"
 @import "photos.styl"
-@import "donate.styl"
 @import "footer.styl"
-@import "guides.styl"
+@import "blog.styl"
 
-// FIXES
+// TODO: Bad practice. Refactor when possible. Better ways to do this.
 
-.mobile
-	display block
-	@media tablet
-		display none
-
-.desktop
-	display none
-	@media laptop
-		display block
+.mobile {
+  display: block;
+}
+@media (min-width: 48em) {
+  .mobile {
+    display: none;
+  }
+}
+.desktop {
+  display: none;
+}
+@media (min-width: 62em) {
+  .desktop {
+    display: block;
+  }
+}

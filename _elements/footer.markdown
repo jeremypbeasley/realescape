@@ -1,6 +1,5 @@
 ---
 title: Footer
-layout: element_footer
 navigation:
 - title: Jobs
   url: jobs
@@ -9,4 +8,3 @@ navigation:
 - title: Media
   url: media
 ---
-

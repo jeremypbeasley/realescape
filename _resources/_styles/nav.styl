@@ -1,215 +1,286 @@
-header
-  width 79%
-  margin 11vw
-  position absolute
-  z-index 222
-  font-size 16px
-  @media laptop
-    font-size 18px
-  .logo
-    width: 5rem
-    height: 2.5rem
-    background: url(_img/rest_logo_outline.svg) no-repeat
-    display: block
-    background-size: 100%
-    z-index: 9996
-    transition: none
-    float: left
-    text-indent: -9999rem
-    cursor pointer
+header {
+  width: 79%;
+  margin: 11vw;
+  position: absolute;
+  z-index: 222;
+  font-size: 16px;
+}
 
-.hidden
-  display none
+@media (min-width: 62em) {
+  header {
+    font-size: 18px;
+  }
 
-.visuallyhidden
-  opacity 0
-  
-.menuHit
-  background transparent
-  width 2em
-  height 2em
-  float right 
-  padding 1em
-  margin -.6rem -1em 0 0 
-  cursor pointer
-  z-index 999
-  position relative 
-  display block
-  @media laptop
-    display none
-  h3
-    position relative
-    left -6em
-    top .4em
-    float left
-    opacity 1
-    color black
+}
 
-.menuBtn
-  float right
-  height 2em
-  width 7em
-  background:;
-  top 1em
-  right 1em
-  text-indent -9999em
-  position absolute
-  z-index 888
+header .logo {
+  width: 5rem;
+  height: 2.5rem;
+  background: url("_img/rest_logo_outline.svg") no-repeat;
+  display: block;
+  background-size: 100%;
+  z-index: 9996;
+  transition: none;
+  float: left;
+  text-indent: -9999rem;
+  cursor: pointer;
+}
 
-.hamburger
-  overflow visible
-  user-select none
-  transition 0.2s ease-in-out
-  -webkit-tap-highlight-color transparent
-  position relative
-  float right
-  height 1em
-  display block
-  width 1em
-  margin .5em;
-  svg
-    position absolute 
-    width 1em
-    height 1em;
-    rect
-      fill black
-      opacity 1
-      height 2px
-      transform-origin 50% 50%
-      -webkit-transform-origin 50% 50%
-      transform rotate(0deg) scale(1)
-      -webkit-transform rotate(0deg) scale(1)
-      transition all 100ms ease-out
-      -webkit-transition all 100ms ease-out
-.hamburger.open
-  .middle
-    transform rotate(45deg) scaleX(1.2)
-    -webkit-transform rotate(45deg) scaleX(1.2);
-  .second
-    transform rotate(-45deg) scaleX(1.2)
-    -webkit-transform rotate(-45deg) scaleX(1.2);
-  .outer
-    opacity 0
-    transform scaleX(0)
-    -webkit-transform scaleX(0)
+.hidden {
+  display: none;
+}
+
+.visuallyhidden {
+  opacity: 0;
+}
+
+.menuHit {
+  background: transparent;
+  width: 2em;
+  height: 2em;
+  float: right;
+  padding: 1em;
+  margin: -0.6rem -1em 0 0;
+  cursor: pointer;
+  z-index: 999;
+  position: relative;
+  display: block;
+}
+
+@media (min-width: 62em) {
+  .menuHit {
+    display: none;
+  }
+
+}
+
+.menuHit h3 {
+  position: relative;
+  left: -6em;
+  top: 0.4em;
+  float: left;
+  opacity: 1;
+  color: #000;
+}
+
+.menuBtn {
+  float: right;
+  height: 2em;
+  width: 7em;
+  top: 1em;
+  right: 1em;
+  text-indent: -9999em;
+  position: absolute;
+  z-index: 888;
+}
+
+.hamburger {
+  overflow: visible;
+  user-select: none;
+  transition: 0.2s ease-in-out;
+  -webkit-tap-highlight-color: transparent;
+  position: relative;
+  float: right;
+  height: 1em;
+  display: block;
+  width: 1em;
+  margin: 0.5em;
+}
+
+.hamburger svg {
+  position: absolute;
+  width: 1em;
+  height: 1em;
+}
+
+.hamburger svg rect {
+  fill: #000;
+  opacity: 1;
+  height: 2px;
+  transform-origin: 50% 50%;
+  -webkit-transform-origin: 50% 50%;
+  transform: rotate(0deg) scale(1);
+  -webkit-transform: rotate(0deg) scale(1);
+  transition: all 100ms ease-out;
+  -webkit-transition: all 100ms ease-out;
+}
+
+.hamburger.open .middle {
+  transform: rotate(45deg) scaleX(1.2);
+  -webkit-transform: rotate(45deg) scaleX(1.2);
+}
+
+.hamburger.open .second {
+  transform: rotate(-45deg) scaleX(1.2);
+  -webkit-transform: rotate(-45deg) scaleX(1.2);
+}
+
+.hamburger.open .outer {
+  opacity: 0;
+  transform: scaleX(0);
+  -webkit-transform: scaleX(0);
+}
+
+nav a {
+  border: none;
+}
+
+nav.fullMenu {
+  margin-bottom: 10vw;
+  position: absolute;
+  top: 11.5vw;
+  right: 11vw;
+  z-index: 999999;
+  display: none;
+}
+
+@media (min-width: 62em) {
+  nav.fullMenu {
+    display: block;
+  }
+
+}
+
+nav.fullMenu ul {
+  list-style: none;
+}
+
+nav.fullMenu ul li {
+  list-style: none;
+  float: left;
+  margin: 0 0 0 1.5rem;
+  font-family: CircularStdBook, sans-serif;
+  font-size: 0.9rem;
+}
+
+nav.fullMenu ul li a {
+  transition: all 200ms ease-out;
+}
 
 
-// NAV
+nav.fullMenu ul li a.fullMenuItem {
+  padding-bottom: 0.2rem;
+  transition: all 200ms ease-out;
+  border-bottom: 1px solid transparent;
+}
 
-nav.fullMenu
-    // font-size 0.9rem
-    // font-family CircularStdBold, sans-serif
-    // text-transform uppercase
-    margin-bottom 10vw
-    // letter-spacing 0.05rem
-    position absolute
-    top 11.5vw
-    right 11vw
-    z-index 999999
-    display none
-    @media laptop
-        display block
-    ul
-        list-style none
-        li
-            list-style none
-            float left
-            margin 0 0 0 1.5rem
-            font-family typeface-h3
-            font-size .9rem
-            a
-              transition all 200ms ease-out
-              &.cta
-                top -3px
-                right -2px
-              &.fullMenuItem
-                padding-bottom .2rem
-                transition all 200ms ease-out
-                border-bottom 1px solid transparent
-                &:hover
-                  border-color black
+nav.fullMenu ul li a.fullMenuItem:hover {
+  border-color: #000;
+}
 
-nav.miniMenu
-  position fixed
-  // background rgba(23,235,134,.4)
-  background white
-  width 100%
-  padding 11vw
-  height 100%
-  -webkit-overflow-scrolling touch
-  -webkit-transition opacity .2s ease-in-out
-  visible hidden
-  transition all .2s linear
-  display block
-  -webkit-overflow-scrolling touch
-  overflow-y scroll
-  top 0
-  z-index 111
-  padding-bottom 100px
-  display block
-  @media laptop 
-    display none
-  &.hidden
-    opacity 0
-    visible hidden
-    display none
-  &.show
-    opacity 1
-    visible visible
-    display block
-  ul
-    list-style none
-    margin 0px
-    padding 0px
-    margin-top 0
-  li
-    list-style none
-    margin 1em 0
-    padding 0px
-    &:nth-child(1)
-      margin-top 18vw
-    a
-      color black
-      text-decoration none
-      padding 2vw 0vw
-      display block
-      font-size 11vw
-      -webkit-transition color .1s ease-in-out
-      font-family typeface-h1
-      &:hover
-        opacity .4
-      @media laptop
-        font-size 4vw
-        padding 0 0 4vw 0vw
-  
+nav.miniMenu {
+  position: fixed;
+  background: #fff;
+  width: 100%;
+  padding: 11vw;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+  -webkit-transition: opacity 0.2s ease-in-out;
+  visible: hidden;
+  transition: all 0.2s linear;
+  display: block;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+  top: 0;
+  z-index: 111;
+  padding-bottom: 100px;
+  display: block;
+}
 
-.DonateButtonBigParent
-  width 0px
-  transition all 200ms ease-out
-  overflow hidden
-  height 2.45rem
-  margin-left -5rem
-  background green
-  float left
-  &.open
-    width 5rem
-  
-.DonateButtonBig
-  width: 5rem
-  height: 2.45rem
-  display: block
-  background-size: 100%
-  z-index: 9996
-  transition: none
-  float: left
-  cursor pointer
-  background white
-  text-align center
-  font-family typeface-h3
-  font-size .9rem
-  padding .6rem .8rem
-  border 1px solid
-  //alt style 
-  color white
-  background black
+@media (min-width: 62em) {
+  nav.miniMenu {
+    display: none;
+  }
+
+}
+
+nav.miniMenu.hidden {
+  opacity: 0;
+  visible: hidden;
+  display: none;
+}
+
+nav.miniMenu.show {
+  opacity: 1;
+  visible: visible;
+  display: block;
+}
+
+nav.miniMenu ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 0;
+}
+
+nav.miniMenu li {
+  list-style: none;
+  margin: 1em 0;
+  padding: 0px;
+}
+
+nav.miniMenu li:nth-child(1) {
+  margin-top: 18vw;
+}
+
+nav.miniMenu li a {
+  color: #000;
+  text-decoration: none;
+  padding: 2vw 0vw;
+  display: block;
+  font-size: 11vw;
+  -webkit-transition: color 0.1s ease-in-out;
+  font-family: GaramondNo4TLig, serif;
+}
+
+nav.miniMenu li a:hover {
+  opacity: 0.4;
+}
+
+@media (min-width: 62em) {
+  nav.miniMenu li a {
+    font-size: 4vw;
+    padding: 0 0 4vw 0vw;
+  }
+
+}
+
+.DonateButtonBigParent {
+  width: 0px;
+  transition: all 200ms ease-out;
+  overflow: hidden;
+  height: 2.45rem;
+  margin-left: -5rem;
+  background: #008000;
+  float: left;
+}
+
+.DonateButtonBigParent.open {
+  width: 5rem;
+}
+
+.DonateButtonBig {
+  width: 5rem;
+  height: 2.45rem;
+  display: block;
+  background-size: 100%;
+  z-index: 9996;
+  transition: none;
+  float: left;
+  cursor: pointer;
+  background: #fff;
+  text-align: center;
+  font-family: CircularStdBook, sans-serif;
+  font-size: 0.9rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid;
+  color: #fff;
+  background: #000;
+}
+
+
+
+a:hover.fullMenuItem {
+  color: #000;
+}
 

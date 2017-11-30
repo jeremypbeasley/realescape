@@ -10,7 +10,7 @@
       <div class="row BlogItem" id="repeatme">
         {% for blog in site.blog reversed %}
         <div class="column post col-xs-12 linked BlogIndexItem">
-          <h2><a href="{{ blog.url }}">{{ blog.title}}</a></h2>
+          <h2 class="BlogTitle"><a class="NoUnderlined" href="{{ blog.url }}">{{ blog.title}}</a></h2>
           {% assign author = site.authors | where: 'name', blog.author | first %}
           {% if author %}
             <div class="BlogMeta">
@@ -24,8 +24,8 @@
             {{ blog.content | strip_html | truncatewords: 50 }}
           </p>
           <p class="underlined"><a href="{{ blog.url }}">Read More</a></p>
+          <hr/>
         </div>
-        <div class="BreakLine"></div>
         {% endfor %}
       </div>
     </div>

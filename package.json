@@ -15,7 +15,6 @@
     "jquery": "latest",
     "normalize.css": "latest",
     "flexboxgrid": "5.0.0",
-    "jquery": "latest",
     "velocity": "latest"
   }
 }

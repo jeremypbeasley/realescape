@@ -1,6 +1,5 @@
 ---
 title: Header
-layout: element_header
 navigation:
 - title: Volunteer
   url: volunteer
@@ -13,4 +12,3 @@ navigation:
 - title: Blog
   url: blog
 ---
-
