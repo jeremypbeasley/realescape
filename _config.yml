@@ -14,11 +14,11 @@ collections:
   events:
     title: Events
     output: true
-  needs:
-    title: Needs
-    output: true
   jobs:
     title: Jobs
+    output: true
+  needs:
+    title: Needs
     output: true
   posts:
     title: Posts
@@ -37,7 +37,7 @@ defaults:
     type: jobs
   values:
     layout: jobs
-    jobdesc_file:
+    jobdesc_file: 
 - scope:
     path: ''
     type: blogs
