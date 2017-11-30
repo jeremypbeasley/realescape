@@ -1,222 +1,151 @@
 html {
   font-size: 16px;
-  font-family: typeface-body, serif;
+  font-family: typeface-primary, serif;
 }
+
 @media laptop {
 	html {
 		font-size: 16px;
 	}
 }
+
 body, p {
 	font-size: 1rem;
 }
+
+p {
+	line-height: 180%;
+	margin: -.5em 0 1.5em 0;
+	text-align: left;
+  color: #000;
+}
+
 .unselectable {
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
 }
-p {
-	line-height: 180%;
-	margin: -.5em 0 1.5em 0;
-	text-align: left;
-}
-.lead p {
-	font-size: 1.25rem;
-	font-weight: lighter;
-}
-.noTop p {
-	padding-top: 0px;
-	margin-top: -.5em;
-}
+
 i, em {
-	font-family: typeface-body-italic;
 	font-style: normal;
 }
-.small i, em {
-	font-family: CircularStdBook;
-	font-size: .85rem;
+
+i {
+  font-family: typeface-primary-italic;
 }
+
 em {
 	font-family: CircularStdBook;
 	font-size: .9rem;
 	margin-bottom: 2rem;
 	margin-top: 2rem;
 }
-a { 
-	border-bottom: 1px solid black;
+
+.small i, em {
+	font-family: CircularStdBook;
+	font-size: .85rem;
 }
-.col-md-4 p {
-	text-align: left;
-}
-a {
-	text-decoration: none;
+
+a, a:focus, *:focus {
+	outline: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	color: text-color;
+	border-bottom: 1px solid black;
+	text-decoration: none;
+	color: color-text;
 }
+
+// TODO: Make the class to style this on the <a> itself, not it's parent
 
 .underlined a {
 	padding-bottom: 3px;
 	border-bottom: #000 solid 1px;
 	color: #000;
-	font-family: typeface-h3;
+	font-family: typeface-secondary;
 	font-size: .9rem;
 	transition: all 200ms ease-out;
 }
-a:hover {
-	border-color: brand-red-color;
-	color: brand-red-color;
+
+a.NoUnderlined {
+  border: none;
 }
-.inverted a {
-	border: 1px solid #000;
-	padding: .5rem .8rem;
-	position: relative;
-	top: 1.2rem;
-	color: white;
-	background: transparent;
-	transition: all 200ms ease-out;
-}
-.inverted a:hover {
-	background: #000;
-	color: #fff;
-}
+
 ul {
 	list-style: circle;
 }
+
 ul, ol {
   padding: 0px;
   margin: 0 0 1rem 0;
 }
+
 li {
   margin: -0.5rem 0 .5rem 3rem;
   line-height 180%;
 }
-strong {
-	font-weight: normal;
-}
+
+// Headings
+
 h1,h2,h3,h4,h5,h6 {
 	margin: 0 0;
 	padding: 0 0;
-	font-family: typeface-h1;
+	font-family: typeface-secondary;
 	font-weight: normal;
 	line-height: 130%;
 	position: relative;
 	z-index: 9999;
 }
-i {
-	font-style: normal;
-}
+
 h1 {
 	font-size: 9vw;
 	margin-top: -1vw;
-	font-family: typeface-h1;
+	font-family: typeface-primary;
 }
+
 @media laptop {
 	h1 {
 		font-size: 7.5vw;
 	}
 }
+
 h2 {
 	font-size: 8vw;
-	font-family: typeface-h3;
+	font-family: typeface-secondary;
 	margin: 0em 0 1em 0;
+  z-index: 15;
 }
+
 @media laptop {
 	h2 {
 		font-size: 4vw;
+    // Offsets empty space from font
 		margin: -.53rem 0px 2.5rem 0px;
 	}
 }
+
+// TODO: Why are these the same style?
+
 h3, h4 {
 	font-size: .9rem;
-	font-family: typeface-h3;
+	font-family: typeface-secondary;
 	margin-bottom: 10vw;
 }
+
 @media laptop {
 	h3, h4 {
 		margin-bottom: 2rem;
 	}
 }
-h2.BlogContainer {
-	font-family: typeface-h3;
-}
 
-// BUTTONS
+// TODO: Why is this here?
 
 .quote {
 	position: relative;
 	z-index: 15 !important;
 }
-h2 {
-	// font-family: typeface-body-italic;
-	z-index: 15;
-}
-p {
-	color: #000;
-}
+
+// TODO: Why is this here? Dangerously generic!
+
 span {
 	position: absolute;
-	// left: -.4em;
-}
-a.cta {
-	font-family: typeface-h3;
-	font-size: .9rem;
-	padding: .5rem .8rem;
-	border: 1px solid #000;
-	transition: all 200ms ease-out;
-	top: 1.2rem;
-	background: transparent;
-	color: #000;
-	cursor: pointer;
-}
-a:hover.cta {
-	background: #000;
-	color: #fff;
-}
-		
-// POSTS
-
-p.PostContent {
-	opacity: 1;
-}
-h1.PostContent {
-	font-size: 1.5rem;
-	line-height: 200%;
-	margin: 1rem 0;
-}
-@media laptop {
-	.PostContent {
-		font-size: 2rem;
-	}
-}
-h2.PostContent{
-	font-size: 1.7rem;
-	font-family: typeface-h3;
-}
-@media laptop {
-	h2.PostContent {
-		font-size: 2rem;
-	}
-}
-h3.PostContent, h4.PostContent {
-	font-size: 1rem;
-}
-em.PostContent {
-	margin: 2em 0;
-	display: block;
-}
-sup.PostContent{
-	font-size: 50%;
-	top: -1em;
-}
-img.PostContent {
-	width: 100vw;
-	margin: 2rem 0;
-}
-@media laptop {
-	img.PostContent {
-		width: 50vw;
-		margin: 2em;
-	}
-}
-ul.PostContent {
-	font-size: 1rem;
 }

@@ -1,3 +1,5 @@
+// TODO: Refactor with clean, valid CSS, not stylus 
+
 html
     min-height 100%
 
@@ -74,116 +76,6 @@ img
         @media tablet
             padding-top 6rem
             border-top 1px solid black
-
-
-// BLOG
-
-// .BlogRow
-//     border-bottom 1px solid black
-
-.BlogContainer 
-  @media tablet {
-      padding-top 5vw;
-  }
-.BreakLine {
-  width 100%;
-  margin-bottom 10vw;
-  margin-top 0vw;
-}
-@media tablet {
-  .BreakLine {
-    margin-bottom 5vw;
-    margin-top -2vw;
-  }
-}
-
-.BlogIndexItem
-    margin-bottom 5vw
-    padding-right 0px
-    padding-left 0px
-    // @media tablet
-    //     margin-bottom 0px
-
-.BlogBack
-    margin-bottom 2rem
-
-.BlogAuthorImage
-    float left
-    margin-top 14px
-    margin-right 1rem
-    height 2rem
-    width 2rem
-    border-radius 1000px
-    background-size cover
-    background-color brand-red-color
-
-
-        // @media laptop
-        //     height 2rem
-        //     width 2rem
-
-// .BlogAuthorInfo
-//     .BlogAuthorImage
-//         width 25%
-//         float left
-//         @media tablet
-//             width 15%
-//         img
-//             width 100%
-//             border-radius 1000px
-//         &.large
-//             width 15%
-//     .details
-//         width 80%
-//         float right
-
-
-.BlogMeta
-    margin-top -1rem
-    margin-bottom 1rem
-    width 100%
-    display block
-    overflow visible
-    @media tablet
-        margin-bottom 2.5rem
-    p
-        float left
-        padding 0 0
-        opacity .4
-        margin-top .8rem
-        line-height 125%
-        @media tablet
-            margin-top 1.3rem
-
-.post
-    p
-        a
-            border-bottom 1px solid black
-            transition all 200ms ease
-            &:hover
-                border-color #ccc
-                &.cta
-                    border-color black
-
-
-
-.BlogLine
-    margin-bottom 0rem
-    margin-top 4rem
-    height .22rem
-    width 100%
-    height 1px
-    background black
-    @media laptop
-        margin-bottom -2rem
-        margin-top 6rem
-
-.fb-share-button
-    margin-left 20px
-    span
-        @media tablet
-            top -4px
-
 
 //DONATIONCTA
 
@@ -272,17 +164,3 @@ img
 .linked
     transition color 100ms ease-out
     cursor pointer
-    // a, h2, h3, h4, h1, .small
-    //     transition color 100ms ease-out
-    //     transition opacity 100ms ease-out
-    // &:hover
-    //     color brand-red-color
-    //     a, h2, h3, h4, h1, .small
-    //         color brand-red-color
-    //         opacity 1
-    //         border-color brand-red-color
-    //     .EventsThumbnail, .BlogAuthorImage
-    //         background-color brand-red-color
-    //         background-image: linear-gradient(0deg, red, red)
-    //         background-blend-mode: screen, luminosity;
-    //

@@ -2,26 +2,27 @@ footer {
 	margin-bottom: 5.5vw;
 	margin-top: -15vw;
 }
+
 @media laptop {
 	footer { 
 		margin-top 5.5vw;
 	}
 }
-a {
-	border-bottom: 0px;
-	text-decoration: none;
-}
-.social {
-	margin-top: .5em;
-	display: block;
-}
+
 footer a {
-	color: #000;
 	margin-right: 10px;
+	border: none;
 }
+
 footer a:hover {
 	color: #000;
 }
+
+footer .social {
+	margin-top: .5em;
+	display: block;
+}
+
 footer .social a {
 	width: 25px;
 	height: 25px;
@@ -35,18 +36,23 @@ footer .social a {
 	display: block;
 	float: left;
 }
+
 footer .social a:hover {
 	opacity: .4;
 }
-a.facebook {
+
+footer a.facebook {
 	background-image: url(_img/icon_facebook.svg);
 }
-a.twitter {
+
+footer a.twitter {
 	background-image: url(_img/icon_twitter.svg);
 }
-a.linkedin {
+
+footer a.linkedin {
 	background-image: url(_img/icon_linkedin.svg);
 }
+
 .bottomLine {
 	width: 100%;
 	height: 1px;
@@ -54,20 +60,17 @@ a.linkedin {
 	margin-bottom: 11vw;
 	opacity: 1;
 }
+
 @media laptop {
 	.bottomLine {	
 		height: 1px;
 		margin-bottom: 11vw;
 	}
 }
-// @media phone {
-// 	.row:nth-child(1) {
-// 		padding-top: 0px !important;
-// 	}
-// }
+
 .BackToTop {
 	width: 100%;
-	font-family: typeface-h3;
+	font-family: typeface-secondary;
 	font-size: .9rem;
 	padding: 1rem .8rem;
 	border: 1px solid;
@@ -79,33 +82,21 @@ a.linkedin {
 	text-align: center;
 	margin-bottom: 11vw;
 }
+
 @media tablet {
 	.BackToTop {
 		display: none;
 	}
 }
-footer a.cta {
-	margin: 1rem 0 0 0;
-	display: inline-block;
-}
+
 .copyright {
 	display: flex;
 	flex-direction: column;
 }
+
 @media laptop {
 	.copyright {
 		flex-direction: row;
 	}
 }
 
-// I realize this ordering seems redundant, but for some reason I couldn't get it to render in the order in which the markup is actually and had to force it
-
-.copyright:nth-child(1) {
-	order: 1;
-}
-.copyright:nth-child(2) {
-	order: 2;
-}
-.LittleSpace {
-	margin: 0 .5rem;
-}
