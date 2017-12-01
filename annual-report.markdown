@@ -94,6 +94,7 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 ***
 
 ## REST Emergency Receiving Center
+
 ![Emergency Receiving Center](/uploads/REST_Annual-Report-2017_ERC.jpg)
 
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
@@ -126,7 +127,6 @@ Exiting the sex trade often involves getting free from pimps and abusers, detoxi
 
 We are excited to let you know that in Fiscal Year 2017, we walked with over 140 individuals on that journey—stood by their side, and fought next to them, as they fought for freedom, safety, and hope. 19 of them have stayed out for over six months, and 14 of them have stayed out for over one year.
 
-
 ***
 
 ![Audrey Community Advocate Supervisor](/uploads/REST_Annual-Report-2017_Audrey.jpg)
@@ -144,7 +144,6 @@ When Audrey first met Stephanie, they met in a parking lot because Stephanie was
 Audrey knows how incredibly strong, intelligent, resilient, and beautiful the clients REST serves are, and she knows REST cares for them deeply. She has seen it time and time again, and knows well that every woman we have the privilege of serving survived for a reason.
 
 ***
-
 
 ![REST House](/uploads/REST_Annual-Report-2017_House.jpg)
 
@@ -208,7 +207,6 @@ When REST clients connect with that message—that they are empowered because th
 ## Text Outreach
 REST has always been committed to meeting sexually exploited individuals right where they’re at. As the sex trade shifted away from the streets and onto the internet, we saw a need to adapt our approach for outreach, and thanks to a partnership with Seattle Against Slavery and Microsoft’s Hackathon, we have. 
 
-
 <img src="/uploads/REST_Annual-Report-2017_Text-Outreach.png" alt="Sample Outreach Text" style="float:right;width:313px;height:458px;margin:0px 0px 10px 10px;"> Through this new technology, we’ve been able to reach more exploited individuals this year than in any previous year. The software scrapes phone numbers from sex advertisements online, and allows us to send bulk texts to the numbers through a system that enables us to connect immediately to any responders. 
 
 - We sent over 8,100 texts and received over 440 positive responses.
@@ -241,7 +239,6 @@ It costs $2,280 to keep the REST House and Emergency Receiving Center, which inc
 
 ![REST Funding](/uploads/REST_Annual-Report-2017_Financials-Funding.png)
 REST's primary funding source is individual & matching donors, providing 42% of our FY17 funding. The remainder of our funding was 30% private grants, 19% events, 7.5% businesses and churches, and 1.5% government grants. 
-
 
 ***
 
