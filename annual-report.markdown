@@ -130,7 +130,7 @@ We are excited to let you know that in Fiscal Year 2017, we walked with over 140
 
 ***
 
-
+![Audrey](/uploads/REST_Annual-Report-2017_Audrey.jpg)
 
 “You are not alone. You are not forgotten. I’m in this with you. I believe you. I see that you are strong. I see that you are smart. You have fought for your life, and your life is worthwhile.” These are some of the things Community Advocate Supervisor Audrey shares with the individuals she walks with at REST.
 
