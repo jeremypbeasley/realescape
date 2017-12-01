@@ -5,6 +5,8 @@ position: 6
 layout: default
 ---
 
+***
+
 ## In Fiscal Year 2017, REST connected with over 480 victims and survivors of sexual exploitation.
 
 > “I was able to find self-love, self-awareness, self-confidence, and self-empowerment. As well as the strength to leave a very abusive and violent relationship and situation. Also, with the support of everyone, I was able to get out of the life, realize what family meant, stop using drugs, and find myself again.” **— Stephanie, Survivor**
@@ -24,6 +26,7 @@ As you read these pages and get a feel for the impact that REST has in the lives
 <img src="/uploads/REST_Annual-Report-2017_Amanda-Sig.png" alt="Amanda Signature" style="float:left;width:278px;height:136px;margin:10px 0px 10px 30px;"> 
 
 Amanda Hightower
+
 Executive Director 
 
 ***
