@@ -284,7 +284,6 @@ Each of our board members are devoted to ending exploitation. We are grateful fo
 
 ***
 
-## Piper
 ![Piper](/uploads/REST_Annual-Report-2017_Piper.jpg)
 
 “I am worth love.” Piper firmly declared. She is a resident at the REST House. “[REST] has been a God-send. I feel it’s kept me alive,” she said, explaining the hard work she’s put in on her path to leaving behind commercial sexual exploitation, toward sobriety and a different life.
