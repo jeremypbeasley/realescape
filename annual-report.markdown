@@ -208,6 +208,8 @@ REST has always been committed to meeting sexually exploited individuals right w
 
 Through this new technology, we’ve been able to reach more exploited individuals this year than in any previous year. The software scrapes phone numbers from sex advertisements online, and allows us to send bulk texts to the numbers through a system that enables us to connect immediately to any responders. 
 
+<img src="/uploads/REST_Annual-Report-2017_Text-Outreach.png" alt="Sample Outreach Text" style="float:right;width:313px;height:458px;margin:0px 0px 10px 10px;">
+
 - We sent over 8,100 texts and received over 440 positive responses.
 - Over 60 responders requested a meeting with an advocate.
 - We met face-to-face with 39 responders. 
