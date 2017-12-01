@@ -79,7 +79,6 @@ We are a Christian organization that desires to offer respectful services to ind
 ***
 
 ![Stephanie](/uploads/REST_Annual-Report-2017_Stephanie.jpg)
-## Stephanie
 
 When Stephanie confronted her trafficker in court, her REST Advocate, Audrey, was by her side. They both wore shirts that read “Don’t Buy Girls.” “I felt like I didn’t have the strength to do it. But with Audrey by my side, I spoke up in court with my victim impact statement with him in the courtroom.” 
 
@@ -130,7 +129,6 @@ We are excited to let you know that in Fiscal Year 2017, we walked with over 140
 
 ***
 
-## Audrey
 ![Audrey Community Advocate Supervisor](/uploads/REST_Annual-Report-2017_Audrey.jpg)
 
 “You are not alone. You are not forgotten. I’m in this with you. I believe you. I see that you are strong. I see that you are smart. You have fought for your life, and your life is worthwhile.” These are some of the things Community Advocate Supervisor Audrey shares with the individuals she walks with at REST.
@@ -183,6 +181,7 @@ Chelsea says REST has helped her learn to “adult,” and has connected her wit
 ## Community Advocacy
 
 ![Community Advocates Team](/uploads/REST_Annual-Report-2017_Advocacy-Team.png)
+
 The mission of our Community Advocate team is to empower survivors of commercial sexual exploitation to identify their goals and dreams for the future, and support them to achieve those goals. Advocates provide focused case management to assist REST clients with accessing housing, employment, chemical dependency services, mental health services, education, and other goals that are important to help our clients sustain a life out of the sex trade.
 
 In Fiscal Year 2017, we’ve provided this intentional level of case management to 149 women as they accomplished over 550 self-identified goals for their lives.
