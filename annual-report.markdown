@@ -94,7 +94,7 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 
 ## REST Emergency Receiving Center
 
-![Emergency Receiving Center](/uploads/REST_Annual-Report-2017_ERC.jpg)
+![ERC](/uploads/REST_Annual-Report-2017_ERC.jpg)
 
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
 
@@ -120,7 +120,7 @@ The REST hotline is available twenty-four hours a day, seven days a week. Throug
 
 ***
 
-### Exiting the sex trade is a journey. 
+## Exiting the sex trade is a journey. 
 
 Exiting the sex trade often involves getting free from pimps and abusers, detoxing and recovering from years-long substance abuse issues, confronting complex trauma and post-traumatic stress disorder, and a long list of other challenges. We find it can take 7–11 attempts for a survivor to exit the sex trade.
 
