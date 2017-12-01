@@ -249,15 +249,15 @@ We rely on partnerships within our community to connect with exploited individua
 
 We are thankful for our partners.
 
-“Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.” **—Jim Fitzgerald, Seattle Police Department**
+“Many of the women we contact through our work are more comfortable with and trusting of my detectives because of our work with REST during our joint operations to recover women from commercial sexual exploitation.” **—Jim Fitzgerald, [Seattle Police Department](https://www.seattle.gov/police)**
 
-“This supportive partnership provides seamless services for women previously underserved.” **—Debra Boyer, Organization for Prostitution Survivors**
+“This supportive partnership provides seamless services for women previously underserved.” **—Debra Boyer, [Organization for Prostitution Survivors](http://seattleops.org/)**
 
-“REST is willing to experiment and try new models to engage the issue of trafficking, and we think that is great.” **—Robert Beiser, Seattle Against Slavery**
+“REST is willing to experiment and try new models to engage the issue of trafficking, and we think that is great.” **—Robert Beiser, [Seattle Against Slavery](http://www.seattleagainstslavery.org/)**
 
-“Our partnership serves to further our goal of accountability for offenders, justice for victims, and opportunities for safety and exit.” **—Valiant Richey, King County Prosecuting Attorney’s Office**
+“Our partnership serves to further our goal of accountability for offenders, justice for victims, and opportunities for safety and exit.” **—Valiant Richey, [King County Prosecuting Attorney’s Office](http://www.kingcounty.gov/depts/prosecutor.aspx)**
 
-“People trust REST. There is no one I encounter in my work who doesn’t have the highest regard for what you all have accomplished. When we were considering who to ask to partner with us as we expand our Safe Jobs program, your organization was at the top of our list because of your reputation with survivors. They’re the experts on their own needs for recovery and when they say your services make a difference in their lives, there is no higher praise.” **—Mar Brettmann, Business Ending Slavery & Trafficking**
+“People trust REST. There is no one I encounter in my work who doesn’t have the highest regard for what you all have accomplished. When we were considering who to ask to partner with us as we expand our Safe Jobs program, your organization was at the top of our list because of your reputation with survivors. They’re the experts on their own needs for recovery and when they say your services make a difference in their lives, there is no higher praise.” **—Mar Brettmann, [Business Ending Slavery & Trafficking](https://www.bestalliance.org/)**
 
 ***
 
