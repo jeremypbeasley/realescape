@@ -5,9 +5,9 @@ position: 6
 layout: default
 ---
 
-> “I was able to find self-love, self-awareness, self-confidence, and self-empowerment. As well as the strength to leave a very abusive and violent relationship and situation. Also, with the support of everyone, I was able to get out of the life, realize what family meant, stop using drugs, and find myself again.” **— Stephanie, Survivor**
-
 ## In Fiscal Year 2017, REST connected with over 480 victims and survivors of sexual exploitation.
+
+> “I was able to find self-love, self-awareness, self-confidence, and self-empowerment. As well as the strength to leave a very abusive and violent relationship and situation. Also, with the support of everyone, I was able to get out of the life, realize what family meant, stop using drugs, and find myself again.” **— Stephanie, Survivor**
 
 ***
 
@@ -92,7 +92,7 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 ***
 
 ## REST Emergency Receiving Center
-![REST Emergency Receiving Center](/uploads/REST_Annual-Report-2017_ERC.jpg)
+![Emergency Receiving Center](/uploads/REST_Annual-Report-2017_ERC.jpg)
 
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
 
