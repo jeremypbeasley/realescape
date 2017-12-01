@@ -296,9 +296,7 @@ Through Sarah, she was connected with other REST Staff members and guests and be
 
 ***
 
-## You deserve to be loved.
-
-**Thank you.**
+##Thank you.
 
 ***
 
@@ -306,6 +304,9 @@ Through Sarah, she was connected with other REST Staff members and guests and be
 
 King County trafficking data can be found at [endingexploitation.com](endingexploitation.com).
 
-Photography by Kara Wallace Photography (REST Staff headshots), Jeremy P. Beasley (REST House), Oscar Melendez (Emergency Receiving Center), AND Kim Merrikin (Stephanie). 
+Photography by [Kara Wallace Photography](http://www.karadanielaphoto.com/) (REST Staff headshots), [Jeremy P. Beasley](http://jeremypbeasley.com/) (REST House), Oscar Melendez (Emergency Receiving Center), and Kim Merrikin (Stephanie). 
 
 All other photos are stock photography, and feature models used for illustrative purposes only.
+
+***
+## You deserve to be loved.
