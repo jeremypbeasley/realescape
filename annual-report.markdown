@@ -232,8 +232,9 @@ Most exploited individuals are recruited as minors—usually between 13–15 yea
 
 Every dollar entrusted to REST is crucial and enables us to provide freedom, safety, and hope to individuals exploited in the sex trade. 
 ![REST Expenses](/uploads/REST_Annual-Report-2017_Finances-Expenses.png)
-In Fiscal Year 2017, REST's total operating expenses were $1,728,431. 76% of that went directly to REST programs, while 19% when to fundraising, and 5% went to management expenses. 
+In Fiscal Year 2017, REST's total operating expenses were $1,728,431. 76% of that went directly to REST programs, while 19% went to fundraising, and 5% went to management expenses. 
 ![REST Funding](/uploads/REST_Annual-Report-2017_Financials-Funding.png)
+REST's primary funding source is individual & matching donors, providing 42% of our FY17 funding. The remainder of our funding was 30% private grants, 19% events, 7.5% businesses and churches, and 1.5% government grants. 
 ![REST Cost Per Day](/uploads/REST_Annual-Report-2017_Finances-Daily.png)
 It costs $2,280 to keep the REST House and Emergency Receiving Center, which includes our shelter and drop-in center, open for 24 hours. 
 
