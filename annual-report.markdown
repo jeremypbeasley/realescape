@@ -94,7 +94,7 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 
 ## REST Emergency Receiving Center
 
-![ERC](/uploads/REST_Annual-Report-2017_ERC.jpg)
+![ERC](/uploads/REST_Annual-Report-2017_ERC_800.jpg)
 
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
 
@@ -170,8 +170,6 @@ Chelsea’s journey away from a life of prostitution started with incarceration.
 After two weeks at REST, Chelsea knew this was the place for her—and fought hard, with many staff members’ help—to stay. She created a presentation to give to the court explaining why she believed REST was the best place for her recovery—and the court agreed with her request to move into the REST House.
 
 > “Each person here has taught me something different.” She said, speaking about the diversity in experiences throughout REST. “Just seeing what women can go through, what these women, in specific, have gone through—definitely has impacted how I look at things, how I think about the world in general, and how I see myself. And in terms of staff, every single person—no matter if they’re support staff, counselor, or peer support—every single person is here for me.” 
-
-![Chelsea](/uploads/REST_Annual-Report-2017_Chelsea.jpg)
 
 Chelsea says REST has helped her learn to “adult,” and has connected her with resources she never knew were available, especially for women with stories like hers.
  
