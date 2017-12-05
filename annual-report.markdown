@@ -95,7 +95,6 @@ Stephanie has been clean and out of a life of prostitution for nearly a year. It
 ## REST Emergency Receiving Center
 
 ![ERC](/uploads/REST_Annual-Report-2017_ERC_800.jpg)
-
 ### We opened our low-barrier shelter and expanded drop-in services at our Emergency Receiving Center on November 3, 2016. 
 
 **The shelter has operated at 90% occupancy since its opening.**
