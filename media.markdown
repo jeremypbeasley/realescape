@@ -16,8 +16,13 @@ If you’d like to download our Media Kit, please fill out [this form](http://bi
 
 REST in the News
 
-[Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
+[The chatbot taking on Seattle's sex trade](http://bbc.in/2znsMBh) via _BBC News_
 
 [Sex trafficking bill gets tech firms' backing](http://bbc.in/2j0SisI) via _BBC News_
 
-[The chatbot taking on Seattle's sex trade](http://bbc.in/2znsMBh) via _BBC News_
+[Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
+
+[How the tech industry can combat sex trafficking and prostitution — and why it should](https://www.geekwire.com/2016/tech-industry-can-fight-sex-trafficking-prostitution/) via _GeekWire_
+
+
+
