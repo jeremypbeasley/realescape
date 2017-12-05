@@ -308,5 +308,7 @@ Photography by [Kara Wallace Photography](http://www.karadanielaphoto.com/) (RES
 
 All other photos are stock photography, and feature models used for illustrative purposes only.
 
+Download a tablet-friendly version of our 2017 Annual Report [here](/uploads/REST_Annual-Report-2017.pdf). 
+
 ***
 ## You deserve to be loved.
