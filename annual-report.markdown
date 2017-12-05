@@ -2,6 +2,7 @@
 title: Annual Report 2017
 date: 2017-10-25 07:14:00 Z
 position: 6
+image: "\n"
 layout: default
 ---
 
@@ -27,6 +28,12 @@ As you read these pages and get a feel for the impact that REST has in the lives
 Amanda Hightower
 
 Executive Director 
+
+***
+
+## 3,000
+
+**In Fiscal Year 2017, we provided over 3,000 nights of REST through our house and emergency shelter.**
 
 ***
 
@@ -145,12 +152,9 @@ When Audrey first met Stephanie, they met in a parking lot because Stephanie was
 Audrey knows how incredibly strong, intelligent, resilient, and beautiful the clients REST serves are, and she knows REST cares for them deeply. She has seen it time and time again, and knows well that every woman we have the privilege of serving survived for a reason.
 
 ***
+REST Restorative Housing Program
 
 ![REST House](/uploads/REST_Annual-Report-2017_House.jpg)
-
-## 3,000
-
-**In Fiscal Year 2017, we provided over 3,000 nights of REST through our house and emergency shelter.**
 
 **What happened at the six-room REST House in Fiscal Year 2017?**
 
