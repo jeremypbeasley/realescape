@@ -163,7 +163,7 @@ Audrey knows how incredibly strong, intelligent, resilient, and beautiful the cl
 
 ***
 
-## Chelsea
+![Chelsea](/uploads/REST_Annual-Report-2017_Chelsea.jpg)
 
 Chelsea’s journey away from a life of prostitution started with incarceration. Through the court, she was put in a Human Trafficking Diversion Program. As part of that program, immediately before coming to REST, she was in an inpatient program for concurrent mental illness and drug addiction. Needing a place to stay for two weeks before the next part of her diversion program began, she came to the REST Emergency Receiving Center shelter. 
 
