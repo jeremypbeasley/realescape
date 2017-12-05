@@ -152,7 +152,8 @@ When Audrey first met Stephanie, they met in a parking lot because Stephanie was
 Audrey knows how incredibly strong, intelligent, resilient, and beautiful the clients REST serves are, and she knows REST cares for them deeply. She has seen it time and time again, and knows well that every woman we have the privilege of serving survived for a reason.
 
 ***
-##REST Restorative Housing Program
+
+## REST Restorative Housing Program
 
 ![REST House](/uploads/REST_Annual-Report-2017_House.jpg)
 
