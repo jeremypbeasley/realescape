@@ -22,7 +22,7 @@ REST in the News
 
 [Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
 
-[How the tech industry can combat sex trafficking and prostitution — and why it should](http://bit.ly/2zRiJVp) via _GeekWire_
+[How the tech industry can combat sex trafficking and prostitution](http://bit.ly/2zRiJVp) via _GeekWire_
 
 
 
