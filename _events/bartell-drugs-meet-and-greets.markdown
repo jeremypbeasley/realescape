@@ -15,7 +15,7 @@ excerpt: 'Join us, Lady 12, Pacific Classics, and former Seahawk Joe Tafoya, at 
   locations on four different dates to raise awareness about the work REST does in
   our community—and helping Pacific Classics and Lady 12 giveaway a custom 1967 Chevelle
   GoHawks! '
-event_date: 2017-12-01 15:00:00 Z
+event_date: 2017-12-15 12:00:00 Z
 post_date: 2017-11-22 00:00:00 Z
 exp_date: 2017-12-23 00:00:00 Z
 ---
