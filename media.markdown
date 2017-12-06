@@ -13,8 +13,8 @@ You can submit your media request to [communication@iwantrest.com](mailto:commun
 
 If you’d like to download our Media Kit, please fill out [this form](http://bit.ly/RESTmedia). 
 
-
-REST in the News
+***
+### REST in the News
 
 [The chatbot taking on Seattle's sex trade](http://bbc.in/2znsMBh) via _BBC News_
 
