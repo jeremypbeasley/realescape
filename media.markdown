@@ -20,6 +20,8 @@ If you’d like to download our Media Kit, please fill out [this form](http://bi
 
 [Sex trafficking bill gets tech firms' backing](http://bbc.in/2j0SisI) via _BBC News_
 
+[Seattle nonprofit takes on sex buyers with technology](http://kng5.tv/2zVUbhW) via _King 5 News_
+
 [Microsoft Chatbot Trolls Shoppers for Online Sex](http://bit.ly/2zcRdUy) via _Wired_
 
 [How the tech industry can combat sex trafficking and prostitution](http://bit.ly/2zRiJVp) via _GeekWire_
