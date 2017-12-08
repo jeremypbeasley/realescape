@@ -1,24 +1,22 @@
 ---
 title: Pray for REST, Lynnwood!
-date: 2017-10-21 20:09:00 Z
-image: "/uploads/Stocksy_txpe50966b4pKy000_Small_527174-20ebe9.jpg"
-location: REST Offices, South Seattle
-location_maplink: https://www.google.com/maps/place/REST:+Real+Escape+from+the+Sex+Trade/@47.5651467,-122.2889162,15z/data=!4m2!3m1!1s0x0:0x127be80f909d13c5?sa=X&ved=0ahUKEwjNgMLT3JTXAhVW_WMKHZCaBBUQ_BII9QEwHA
-excerpt: There is no prayer meeting at this location for November and December due
-  to the holidays.  Please pray on your own, or consider joining one of our other
-  locations this month.  We look forward to joining you again at this location in
-  January 2018!
-event_date: 2018-01-25 19:00:00 Z
-post_date: 2017-10-01 00:00:00 Z
-exp_date: 2018-01-25 00:00:00 Z
+date: 2017-12-08 00:00:00 Z
+image: "/uploads/REST_prayer-meeting_Lynnwood.jpg "
+location: Trinity Lutheran Church - 6215 196th St SW, Lynnwood, WA 98036
+location_maplink: https://www.google.com/maps/place/Trinity+Lutheran+Church/@47.8214856,-122.3201787,17z/data=!3m1!4b1!4m5!3m4!1s0x54900531491393a1:0x7386201b23a64eb1!8m2!3d47.821482!4d-122.31799
+excerpt: Join us the 1st Sunday of each month as we gather and walk along the intersection
+  of Hwy 99 & 196th St. SW to hold a vigil & pray for those experiencing the devastating
+  effects of commercial sexual exploitation and trafficking, as well as the work REST
+  is doing to combat it
+event_date: 2018-01-07 12:45:00 Z
+post_date: 2017-12-08 00:00:00 Z
+exp_date: 2018-01-08 00:00:00 Z
 is_featured: false
 ---
 
-Join us the 4th Thursday of each month as we pray for those experiencing the devastating effects of commercial sexual exploitation and trafficking and the work REST is doing to combat it.
+Join us the 1st Sunday of each month as we gather and walk along the intersection of Hwy 99 & 196th St. SW to hold a vigil & pray for those experiencing the devastating effects of commercial sexual exploitation and trafficking, as well as the work REST is doing to combat it.
 
-Where: REST Offices - 4215 Rainier Avenue S #B, Seattle, WA 98118
-
-When: 4th Thursday of each month, 7-8:30pm
-Next meeting: Thursday, January 25th, 2018
+When: 1st Sunday of each month, 12:45pm
+Next meeting: January 7, 2018
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
