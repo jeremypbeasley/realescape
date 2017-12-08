@@ -1,14 +1,14 @@
 ---
 title: Pray for REST, U-District!
-date: 2017-12-13 08:00:00 Z
-image: "/uploads/Stocksy_txp7276b4e6H7k000_Large_802194-BW-6ba354.jpg"
+date: 2017-12-08 00:00:00 Z
+image: "/uploads/REST_prayer-meeting_Seattle-U-District.jpg"
 location: Calvary Christian Assembly
-location_maplink: https://www.google.com/maps/place/Calvary+Christian+Assembly/@47.67839,-122.3194271,15z/data=!4m2!3m1!1s0x0:0x481a216b43228bb8?sa=X&ved=0ahUKEwjr5_zX4JTXAhUE2mMKHSMWChsQ_BIIeDAN
+location_maplink: https://www.google.com/maps/place/Calvary+Christian+Assembly/@47.6783936,-122.3216158,17z/data=!3m1!4b1!4m5!3m4!1s0x5490146e00915ef7:0x481a216b43228bb8!8m2!3d47.67839!4d-122.3194271
 excerpt: Join us the 2nd Wednesday of each month as we pray for those experiencing
   the devastating effects of commercial sexual exploitation and trafficking and the
   work REST is doing to combat it.
 event_date: 2017-12-13 08:00:00 Z
-post_date: 2017-11-21 00:00:00 Z
+post_date: 2017-12-08 00:00:00 Z
 exp_date: 2017-12-14 00:00:00 Z
 is_featured: false
 ---
@@ -18,6 +18,6 @@ Join us the 2nd Wednesday of each month as we pray for those experiencing the de
 Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Seattle, WA 98115
 
 When: 2nd Wednesday of each month, 8-9am
-Next meeting: Wednesday, November 8th
+Next meeting: December 13, 2017
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
