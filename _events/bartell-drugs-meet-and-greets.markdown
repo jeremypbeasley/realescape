@@ -1,6 +1,6 @@
 ---
 title: 'Bartell Drugs Meet & Greets: REST, Lady 12, & Pacific Classics'
-date: 2017-11-22 00:16:00 Z
+date: 2017-12-08 00:00:00 Z
 tags:
 - REST
 - Lady 12
