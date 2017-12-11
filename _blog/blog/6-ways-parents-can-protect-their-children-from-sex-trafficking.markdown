@@ -8,6 +8,7 @@ og:description: 'Sex traffickers target children because of their vulnerability 
   – terrorists really – are known to recruit at schools, malls and through social
   media. '
 og:type: Article
+layout: blog
 ---
 
 Last week I opened my internet browser in hopes to catch up with the chatter I’d been hearing about North Korea. Instead of reading about the potential threat of a terrorist attack from a foreign nation, my eyes met an article about domestic terrorism. Predators – traffickers – who have waged war against our children.
