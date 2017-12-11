@@ -1,7 +1,7 @@
 ---
 title: 6 Ways Parents Can Protect Their Children from Sex Trafficking
 date: 2013-04-19 17:40:00 Z
-author: Bridget Battistoni
+author: bridget
 og:image: "/uploads/REST_blog_6-ways-parents-can-protect-their-children-from-sex-trafficking.jpg"
 og:description: 'Sex traffickers target children because of their vulnerability and
   naïvety. The average age of entry into prostitution is 12 to 14 years old and traffickers
