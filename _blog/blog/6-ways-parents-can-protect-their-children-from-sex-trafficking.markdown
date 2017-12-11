@@ -14,6 +14,8 @@ Last week I opened my internet browser in hopes to catch up with the chatter I�
 
 As soon as the link opened, my eyes met a picture of a girI, 13 years old, grinning with just enough smile to notice small gaps from where her teeth had not quite grown in since loosing her baby teeth. She is so young. Police say she likely ran away from her Washington home with an older boy she had met online.
 
+![6 Ways Parents Can Protect Their Children from Sex Trafficking](/uploads/REST_blog_6-ways-parents-can-protect-their-children-from-sex-trafficking.jpg)
+
 As I stared at her face, I was thankful that this girl had a fighting chance to be found because at least she had parents that were concerned and present enough in her life to report her missing. But, so many girls in her situation aren’t that fortunate. And even more girls believe that this boy (or man) is the ticket out of her chaotic or lonely world. I couldn’t help but wonder, “Would our teams meet her one day on the streets of Seattle while doing outreach to girls being exploited and sold?”
 
 Sex traffickers target children because of their vulnerability and naïvety. The average age of entry into prostitution is 12 to 14 years old and traffickers – terrorists really – are known to recruit at schools, malls and through social media. Recruitment takes many forms: kidnapping; solicitation by other women or girls recruiting on behalf of the sex trafficker; the “boyfriend” approach of appearing romantically interested while slowly coercing them into prostitution; and even the “daddy” form where men promise to care for and be a daddy to girls who long for protection and provision.
