@@ -13,6 +13,6 @@ The REST Emergency Receiving Center is a women-only environment. Therefore, only
 This is a part time position. 
 
 We currently have three open shifts: 
-Monday & Tuesday 6am-2pm Total of 16 hours
-Friday, Saturday & Sunday: 5:30pm - 10:30pm Total of 15 hours
-Sunday 10am - 5pm & Saturday 10am - 4pm Total of 13 hours
+Monday & Tuesday 6:00 a.m. – 2:00 p.m., Total of 16 hours
+Friday, Saturday & Sunday: 5:30 p.m. - 10:30 p.m., Total of 15 hours
+Sunday 10:00 a.m. - 5:00 p.m. & Saturday 10:00 a.m. - 4:00 p.m., Total of 13 hours
