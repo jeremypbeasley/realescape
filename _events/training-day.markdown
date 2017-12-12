@@ -1,7 +1,6 @@
 ---
 title: REST Training Day
 date: 2017-12-12 17:40:00 Z
-published: false
 image: "/uploads/RTD-1-26-14.jpg"
 location: 'Lake Burien Presbyterian Church '
 location_maplink: https://www.google.com/maps/place/15003+14th+Ave+SW,+Burien,+WA+98166/@47.4681132,-122.3550929,17z/data=!3m1!4b1!4m5!3m4!1s0x549044859dc7099d:0xa1d097f4ae9f11f1!8m2!3d47.4681096!4d-122.3529042
