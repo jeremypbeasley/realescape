@@ -19,3 +19,5 @@ Monday & Tuesday 6:00 a.m. – 2:00 p.m., Total of 16 hours
 Friday, Saturday & Sunday: 5:30 p.m. – 10:30 p.m., Total of 15 hours
 
 Sunday 10:00 a.m. – 5:00 p.m. & Saturday 10:00 a.m. – 4:00 p.m., Total of 13 hours
+
+To apply, email your resume and cover letter to [apply@iwantrest.com](mailto: apply@iwantrest.com).
