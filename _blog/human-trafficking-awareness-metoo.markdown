@@ -1,7 +1,6 @@
 ---
 title: 'Human Trafficking Awareness Month: #MeToo'
 date: 2018-01-10 22:49:00 Z
-published: false
 ---
 
 ![Human Trafficking Awareness Month: #MeToo](/uploads/REST-blog_Human-Trafficking-Awareness_MeToo.jpg)
