@@ -8,6 +8,7 @@ og:description: 'At the global level, approximately 98% of the 4.5 million peopl
   violence. '
 og:title: 'Human Trafficking Awareness Month: #MeToo'
 og:type: article
+layout: blog
 ---
 
 ![Human Trafficking Awareness Month: #MeToo](/uploads/REST-blog_Human-Trafficking-Awareness_MeToo.jpg)
