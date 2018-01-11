@@ -25,4 +25,4 @@ Must be 21 to attend.
 
 **[Purchase your tickets here.](http://bit.ly/2micLqP)**
 
-Let us know you're coming by RSVPing to our [Facebook event](http://bit.ly/RaiseEmForREST18)—we'll post pertinent event updates and info there. 
+RSVP to our [Facebook event](http://bit.ly/RaiseEmForREST18) for event updates and info there. 
