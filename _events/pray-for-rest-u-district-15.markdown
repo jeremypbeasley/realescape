@@ -1,6 +1,6 @@
 ---
 title: Pray for REST, U-District!
-date: 2018-02-14 08:00:00 Z
+date: 2018-01-11 08:00:00 Z
 image: "/uploads/REST_prayer-meeting_Seattle-U-District.jpg"
 location: Calvary Christian Assembly
 location_maplink: https://www.google.com/maps/place/Calvary+Christian+Assembly/@47.6783936,-122.3216158,17z/data=!3m1!4b1!4m5!3m4!1s0x5490146e00915ef7:0x481a216b43228bb8!8m2!3d47.67839!4d-122.3194271
