@@ -18,6 +18,6 @@ Join us the 2nd Wednesday of each month as we pray for those experiencing the de
 Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Seattle, WA 98115
 
 When: 2nd Wednesday of each month, 8-9am
-Next meeting: December 13, 2017
+Next meeting: February 14, 2018
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
