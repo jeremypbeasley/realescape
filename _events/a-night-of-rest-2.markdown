@@ -12,7 +12,7 @@ excerpt: "We are blown away by the generosity of this year’s A Night of REST 6
 event_date: 2017-11-11 17:30:00 Z
 post_date: 2017-10-01 00:00:00 Z
 exp_date: 2017-11-12 20:17:00 Z
-is_featured: true
+is_featured: false
 ---
 
 ![event banner](/uploads/ANOR_post-event-social.jpg)
