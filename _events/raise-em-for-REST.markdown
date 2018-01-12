@@ -25,4 +25,9 @@ Must be 21 to attend.
 
 **[Purchase your tickets here.](http://bit.ly/2micLqP)**
 
-RSVP to our [Facebook event](http://bit.ly/RaiseEmForREST18) for event updates and info. 
+RSVP to our [Facebook event](http://bit.ly/RaiseEmForREST18) for event updates and info.
+
+Street parking is available on all blocks near the venue. There are also six paid parking lots on Western Ave within two blocks of Tune Kitchen. 
+
+Don’t want to park? Get 25% off your Lyft ride with code RAISEEMFORREST! Thanks, Lyft! 
+
