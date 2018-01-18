@@ -23,4 +23,4 @@ Lunch will be provided for those participants taking the full REST Training Day.
 **Where:** Lake Burien Presbyterian Church, 15003 14th Ave SW, Burien, WA 98166
 Cost: $49 for full REST Training Day (includes lunch); $24 for REST Training Day 101 only
 
-### [Register Here](http://bit.ly/2ANRKeF)
+Registration for the January 20 REST Training Day is now closed. Check back next week for information on our next Training Day!
