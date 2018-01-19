@@ -11,7 +11,7 @@ We mean well. We don’t intend to be insensitive. But sometimes our words are s
 
 This is one of the most uncomfortable things you could ask me. On one hand, I'm glad you listened to me. On the other hand, your question feels intrusive. I've shared exactly as much detail with you as I wanted to, and I'm probably feeling vulnerable and raw. Instead, thank me for sharing. Encourage me. Or just smile and let me know you care.
 
-
+![10 things not to say when meeting a survivor of sex trafficking](/uploads/REST_10-things-not-to-say.jpg)
 
 *2). "But you were born in America! I thought sex trafficking only happened in poor, third-world countries."*
 
