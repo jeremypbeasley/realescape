@@ -1,7 +1,6 @@
 ---
 title: Shelter Support Staff
 date: 2017-12-12 18:33:00 Z
-published: false
 jobdesc_file: "/uploads/REST_Jobs_Shelter-Support-Staff-PT.pdf"
 ---
 
@@ -15,10 +14,7 @@ This is a part time position.
 
 We currently have three open shifts: 
 
-Monday & Tuesday 6:00 a.m. – 2:00 p.m., Total of 16 hours
-
-Friday, Saturday & Sunday: 5:30 p.m. – 10:30 p.m., Total of 15 hours
-
-Sunday 10:00 a.m. – 5:00 p.m. & Saturday 10:00 a.m. – 4:00 p.m., Total of 13 hours
+Sunday 10:00 a.m. – 5:00 p.m. & Saturday 10:00 a.m. – 5:00 p.m., Total of 14 hours
+* Must be flexible and willing to work with ERC Supervisor to work out on-boarding schedule for the first six weeks, which consists of required trainings and meetings. 
 
 To apply, email your resume and cover letter to [apply@iwantrest.com](mailto: apply@iwantrest.com).
