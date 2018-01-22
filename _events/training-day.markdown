@@ -21,6 +21,7 @@ Lunch will be provided for those participants taking the full REST Training Day.
 **When:** Saturday, April 21, 9:00 AM - 4:00 PM 
 
 **Where:** Trinity West Seattle, 7551 35th Ave SW, Seattle, WA 98126
+
 **Cost:** $49 for full REST Training Day (includes lunch); $24 for REST Training Day 101 only
 
 [Register Here](https://form.jotform.com/60208694001952) for this upcoming event.
