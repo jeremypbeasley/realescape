@@ -1,6 +1,6 @@
 ---
 title: REST Training Day
-date: 2017-12-12 17:40:00 Z
+date: 2018-04-21 17:40:00 Z
 image: "/uploads/RTD-1-26-14.jpg"
 location: 'Trinity West Seattle '
 location_maplink: https://www.google.com/maps/place/Trinity+West+Seattle/@47.5343136,-122.3791877,17z/data=!3m1!4b1!4m5!3m4!1s0x54904114d665238f:0x634f213790a46d7!8m2!3d47.53431!4d-122.376999
@@ -8,7 +8,7 @@ excerpt: REST Training Day is designed for community members who seek to underst
   the basic dynamics of commercial sexual exploitation and sex trafficking and explore
   opportunities to volunteer with REST.
 event_date: 2018-04-21 09:00:00 Z
-post_date: 2017-12-12 00:00:00 Z
+post_date: 2018-01-22 00:00:00 Z
 exp_date: 2018-04-23 00:00:00 Z
 ---
 
