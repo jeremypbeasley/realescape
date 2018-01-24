@@ -19,4 +19,6 @@ Complete your Valentine’s Day shopping while enjoying complimentary sips, swee
 On February 22, from 6:00 p.m. to 9:00 p.m. Kendra Scott – Bellevue Square will be donating 20% of their sales to REST, helping victims and survivors of commercial sexual exploitation find pathways of freedom, safety, and hope. 
  
 If you’re unable to attend, you may still be able to contribute through phone orders by calling (425) 278-9521.
+
+Planning on coming? [RSVP to our Facebook event!](http://bit.ly/2FbwAbk) 
  
