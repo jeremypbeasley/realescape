@@ -12,6 +12,8 @@ post_date: 2018-01-24 00:00:00 Z
 exp_date: 2018-02-23 00:00:00 Z
 ---
 
+![Kendra Gives Back Party](/uploads/REST_Kendra-Scott_FB-event_800.jpg)
+
 Complete your Valentine’s Day shopping while enjoying complimentary sips, sweets, and raffle prizes! 
  
 On February 22, from 6:00 p.m. to 9:00 p.m. Kendra Scott – Bellevue Square will be donating 20% of their sales to REST, helping victims and survivors of commercial sexual exploitation find pathways of freedom, safety, and hope. 
