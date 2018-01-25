@@ -12,7 +12,7 @@ post_date: 2018-01-24 00:00:00 Z
 exp_date: 2018-02-13 00:00:00 Z
 ---
 
-![Kendra Gives Back Party](/uploads/REST_Kendra-Scott_FB-event_800.jpg)
+![Kendra Gives Back Party](/uploads/REST_Kendra-Scott_FB-event.png)
 
 Complete your Valentine’s Day shopping while enjoying complimentary sips, sweets, and raffle prizes! 
  
