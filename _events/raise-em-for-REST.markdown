@@ -15,7 +15,7 @@ is_featured: true
 
 ![Raise 'em for REST](/uploads/REFR-18_basic-web.jpg)
 
-Don’t miss our annual poker tournament and happy hour! Go “all-in” for REST, enjoy libations and eats, and try your luck at becoming the next Raise ‘em for REST Poker Champion. When you chip in, you’ll support REST and help bring pathways to freedom, safety, and hope to individuals exploited in the sex trade in our community. 
+Don’t miss our annual poker tournament and happy hour on Thursday, March 8! Go “all-in” for REST, enjoy libations and eats, and try your luck at becoming the next Raise ‘em for REST Poker Champion. When you chip in, you’ll support REST and help bring pathways to freedom, safety, and hope to individuals exploited in the sex trade in our community. 
  
 We’ll open the doors at 5:30 p.m. for happy hour and poker lessons (if you need them), and start the tournament at 6:30 p.m. sharp.
 
