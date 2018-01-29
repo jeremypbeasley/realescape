@@ -2,9 +2,12 @@
 title: 'Human Trafficking Awareness Month: Remember the Men & Boys'
 date: 2018-01-24 23:11:00 Z
 author: kim
-og_title: 
-og_photo: 
-og_desc: 
+og_title: 'Human Trafficking Awareness Month: Remember the Men & Boys'
+og_photo: "/uploads/REST_Human-Trafficking-Month_men-blog.jpg"
+og_desc: 'For National Human Trafficking Month, we’re inviting you to join us in remembering
+  the men and boys who are being exploited in our community. We believe that each
+  and every one of them are wholly worthy of love, and deserve to be treated with
+  dignity, worth, love, and respect. '
 layout: blog
 ---
 
