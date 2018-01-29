@@ -62,6 +62,9 @@ defaults:
     post_date: 
     exp_date: 
     is_featured: false
+    og_title: 
+    og_desc: 
+    og_photo: 
 - scope:
     path: ''
     type: authors
