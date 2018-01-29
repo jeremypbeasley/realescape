@@ -10,34 +10,32 @@
 	</div>
 	<div class="row followup">
 		<div class="column col-xs-12 col-md-8 col-md-offset-4">
-			<h3>Our Story</h3>
-			<p>REST: Real Escape from the Sex Trade is an independent 501c3, Washington State Charitable Nonprofit Organization. REST was founded in November 2009 by a small team of women with experience dealing with troubled youth and sexual abuse issues, and other members of the team with backgrounds in wraparound services and case management to develop relationships with people being commercially sexually exploited (trafficked), or otherwise engaged in the sex trade or are at risk to enter. Our goal was to help them find a path to freedom. REST initiated services with three direct outreach teams: Street Outreach, Strip Club Outreach and Bikini Barista Stand (bikini barista stands are coffee stands that employ girls to wear lingerie or less) Outreach.</p>
-			<p class="underlined"><a href="{{ site.url }}/story">Read more</a></p>
+			<h3>{{ page.section1_title }}</h3>
+			{{ page.section1_body | markdownify }}
+			<p class="underlined"><a href="{{ page.section1_cta_link}}">{{ page.section1_cta }}</a></p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="column col-xs-12">
-			<h2>Leadership</h2>
+			<h2>{{ page.section2_headline }}</h2>
 		</div>
 	</div>
 	<div class="row">
 		<div class="column col-xs-12 col-md-6 teamMember">
-  		<div class="portrait" id="portrait" style="background-image: url(http://stopbuyinggirls.com/templates/default_site/_img/rest_staff_amanda.jpg)"></div>
+  		<div class="portrait" id="portrait" style="background-image: url({{ page.section2a_photo }})"></div>
   		<div class="deets">
-  			<h3>Amanda Hightower</h3>
-  			<p class="team_title">Executive Director</p>
-  			<p>Loved by Jesus, our greatest Advocate, Amanda is both pioneer and counselor at heart. She holds an MSW from the University of Washington and envisions a community free of exploitation.</p>
-  			<p class="small"><a class="email" href="mailto:amanda@iwantrest.com">amanda@iwantrest.com</a></p>
+  			<h3>{{ page.section2a_name }}</h3>
+  			<p class="team_title">{{ page.section2a_title }}</p>
+  			{{ page.section2a_desc | markdownify }}
  			</div>
 		</div>
 		<div class="column col-xs-12 col-md-6 teamMember">
-  		<div class="portrait" id="portrait" style="background-image: url(http://stopbuyinggirls.com/templates/default_site/_img/rest_staff_bridget.jpg)"></div>
-      <div class="deets">
-        <h3>Bridget Battistoni</h3>
-        <p class="team_title">Director of Operations & Finance</p>
-        <p>Compelled by the love of Jesus, Bridget excels at envisioning, engineering and general chaos-wrangling. Dreams of a world free from exploitation. Leader. Writer. Counselor. Builder.</p>
-        <p class="small"><a class="email" href="mailto:bridget@iwantrest.com">bridget@iwantrest.com</a> &nbsp;/&nbsp; <a class="email" href="http://twitter.com/bridgetbatt" target="_blank">@bridgetbatt</a></p>
-      </div>
+  		<div class="portrait" id="portrait" style="background-image: url({{ page.section2b_photo }})"></div>
+  		<div class="deets">
+  			<h3>{{ page.section2b_name }}</h3>
+  			<p class="team_title">{{ page.section2b_title }}</p>
+  			{{ page.section2b_desc | markdownify }}
+ 			</div>
 		</div>
 	</div>
 	<div class="row">
