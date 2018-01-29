@@ -1,25 +1,31 @@
 {% include header.html %}
 
-{% if page.hasCustomOG == true %}
-<!-- Has Custom OG Tags -->
-<!-- Facebook -->
-<meta property="og:title" content="{{ page.og_title }}" />
-<meta property="og:description" content="{{ page.og_desc }}" />
-<meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
-<!-- Twitter -->
-<meta name="twitter:title" content="{{ page.og_title }}">
-<meta name="twitter:description" content="{{ page.og_desc }}">
-<meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}">
-{% else %}
-<!-- No Custom OG Tags -->
+<!-- Blog Post Specific Open Graph Tags -->
+
 <!-- Facebook -->
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:description" content="{{ page.content | strip_html | truncate: 100, '' }}" />
+<meta property="og:description" content="{{ page.content | strip_html | truncate: 150, '' }}..." />
 <!-- Twitter -->
 <meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.content | strip_html | truncate: 150, '' }}...">
+
+<!-- Optional Custom Title -->
+{% if page.og_title %}
+<meta property="og:title" content="{{ page.og_title }}" />
+<meta name="twitter:title" content="{{ page.og_title }}">
+{% endif %}
+
+<!-- Optional Custom Description -->
+{% if page.og_desc %}
+<meta property="og:description" content="{{ page.og_desc }}" />
 <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 100, '' }}">
 {% endif %}
 
+<!-- Optional Custom Photo -->
+{% if page.og_photo %}
+<meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}">
+{% endif %}
 
 <section class="blog detail">
 	<div class="row heading ">
