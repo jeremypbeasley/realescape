@@ -3,10 +3,6 @@ title: Where is God When I&apos;m Suffering&#x3f;
 date: 2014-11-24 00:00:00 Z
 author: bridget
 layout: blog
-hasCustomOG: true 
-og_title: Where's God When I'm Suffering?
-og_desc: Growing up, despair felt like my closest companion. Most days, I felt invisible and unknown. My dad struggled through deep depression and bouts of mania, suicide attempts and hospitalizations, and the consequent guilt and shame.
-og_photo: /uploads/rest_staff_amanda.jpg
 ---
 
 Growing up, despair felt like my closest companion. Most days, I felt invisible and unknown. My dad struggled through deep depression and bouts of mania, suicide attempts and hospitalizations, and the consequent guilt and shame. Several times throughout my childhood my siblings and I awoke to hearing violent struggles, or my dad urging us to put shoes on so he could drop us off at an orphanage. My mom had left when I was three and, until years later when my dad was found dead on the bathroom floor at a Chicago university, didn’t look back. The despair of believing I didn’t matter to anyone, because I didn’t even matter to my parents, was suffocating.
