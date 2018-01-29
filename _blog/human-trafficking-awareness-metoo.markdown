@@ -1,10 +1,10 @@
 ---
-title: 'Human Trafficking Awareness Month: #MeToo'
+title: Human Trafficking Awareness Month: &#163;MeToo
 date: 2018-01-10 22:49:00 Z
 author: kim
-og_title: Human Trafficking Awareness Month: &#163;MeToo
-og_photo: /uploads/REST-blog_Human-Trafficking-Awareness_MeToo.jpg
-og_desc: At the global level, approximately 98% of the 4.5 million people experiencing sexual exploitation—are female. Sexual exploitation IS gender-based violence.
+og_title: 
+og_photo: 
+og_desc: 
 layout: blog
 ---
 
