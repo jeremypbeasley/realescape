@@ -1,5 +1,5 @@
 ---
-title: Human Trafficking Awareness Metoo
+title: 'Human Trafficking Awareness #Metoo'
 ---
 
 ![Human Trafficking Awareness Month: #MeToo](/uploads/REST-blog_Human-Trafficking-Awareness_MeToo.jpg)
