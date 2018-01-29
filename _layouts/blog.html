@@ -1,5 +1,25 @@
 {% include header.html %}
 
+<!-- Open Graph logic -->
+{% if hasCustomOG %}
+<!-- Facebook -->
+<meta property="og:title" content="{{ page.og_title }}" />
+<meta property="og:description" content="{{ page.og_desc }}" />
+<meta property="og:image" content="{{ page.og_photo }}" />
+<!-- Twitter -->
+<meta name="twitter:title" content="{{ page.og_title }}">
+<meta name="twitter:description" content="{{ page.og_desc }}">
+<meta name="twitter:image" content="{{ page.og_photo }}">
+{% else %}
+<!-- Facebook -->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.content | truncate: 100, '' }}" />
+<!-- Twitter -->
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.content | truncate: 100, '' }}">
+{% endif %}
+
+
 <section class="blog detail">
 	<div class="row heading ">
 		<div class="column col-xs-12 col-md-4">

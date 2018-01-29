@@ -3,6 +3,10 @@ title: When Trauma Exists in the Caregiver-Child Relationship
 date: 2015-06-24 00:00:00 Z
 author: bridget
 layout: blog
+hadCustomOG: false 
+og_title:
+og_desc:
+og_photo: 
 ---
 
 In 2010, a [7.0-magnitude earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake) struck near the capital city of Port Au Prince, Haiti. More than 1.5 million people were displaced, and 300,000 structures were severely damaged or destroyed. Some cities near the epicenter reported 90% of their buildings lost. The amount of devastation was incomprehensible. Five weeks later, Chile was struck by an earthquake 500 times more powerful than the Haitian quake, yet the damage and the death toll in Chile paled in comparison. Why was Chile able to largely withstand the violence, while Haiti crumbled?
