@@ -5,12 +5,6 @@ tags:
 - ANOR17
 - A Night of REST
 author: kim
-og:image: "/uploads/A-Night-Of-REST_Artist-Reformation-Installation.png"
-og:description: Every single person is worthy of love. That is the belief that drives
-  our work at REST, and that was the theme of the evening at our fifth annual A Night
-  of REST fundraising gala.
-og:title: '"I am loved." / A Night of REST 2017'
-og:type: article
 layout: blog
 ---
 
