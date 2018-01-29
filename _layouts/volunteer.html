@@ -10,35 +10,39 @@
 	</div>
 	<div class="row followup">
 		<div class="column col-xs-12 col-md-6">
-			<h3>You Can Bring Rest</h3>
-			<p class="">At the core of REST is a passion to see a path of hope made for the exploited. We are a direct service provider made up of passionate people who are compelled to action by the desire for justice in our city and our state. We want Washington to be inhospitable to traffickers and we want to work ourselves out of a job. We need your help to do this.</p>
+			<h3>{{ page.section1a_title }}</h3>
+			<p class="">{{ page.section1a_body }}</p>
 		</div>
 		<div class="column col-xs-12 col-md-6">
-			<h3>Attend A Training</h3>
-			<p>As a prerequisite for volunteers, you'll get a better understanding of the sex trade and find a team where you can work to bring rest. This training is also open to community members who want to consider how they can make a difference in Seattle and beyond.</p>
-			<p class="underlined"><a href="{{ siteUrl }}events">Next Training</a></p>
+			<h3>{{ page.section1b_title }}</h3>
+			<p>{{ page.section1b_body }}</p>
+			<p class="underlined">
+				<a href="{{ page.section1b_cta }}">
+					{{ page.section1a_cta }}
+				</a>
+			</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="column col-xs-12 col-md-9 col-md-offset-2">
-				<h2>Can't volunteer? <br><!-- &nbsp; -->You can still help.</h2>
+				<h2>{{ page.section2_headline }}</h2>
 		</div>
 	</div>
 	<div class="row">
 		<div class="column col-xs-12 col-md-4">
-			<h3>Give</h3>
-				<p>In just a few fast-paced years, REST has gone from a hopeful startup to an organization known for providing competent and crucial services to the most vulnerable in our community. Our work is impossible without people like you who partner with us through generous giving. </p>
-				<p class="underlined"><a href="/donate" >Donate Now</a></p>
+			<h3>{{ page.section2a_title }}</h3>
+				<p>{{ page.section2a_body }}</p>
+				<p class="underlined"><a href="{{ page.section2a_cta_link }}" >{{ page.section2a_cta }}</a></p>
 		</div>
 		<div class="column col-xs-12 col-md-4">
-				<h3>Meet A Need</h3>
-				<p>We often hear from small groups looking for service projects or other practical ways to give, in addition to time or money. Check out our Needs page to see what kinds of goods you can donate to REST. If you have an idea that's not on the list, but believe would be of value to us, contact us!</p>
-				<p class="underlined"><a href="/needs">See Our Needs</a></p>
+			<h3>{{ page.section2b_title }}</h3>
+				<p>{{ page.section2b_body }}</p>
+				<p class="underlined"><a href="{{ page.section2b_cta_link }}" >{{ page.section2b_cta }}</a></p>
 		</div>
 		<div class="column col-xs-12 col-md-4">
-				<h3>Pray</h3>
-				<p>Prayer is foundational to our work. Prayer Partners are crucial to our team. Prayer partners are those who commit to pray regularly for girls, women, and men in the sex-trade on their own or with the prayer team that meets weekly to pray together.</p>
-				<p class="underlined"><a href="mailto:prayer@iwantrest.com">Email Us</a></p>
+			<h3>{{ page.section2c_title }}</h3>
+				<p>{{ page.section2c_body }}</p>
+				<p class="underlined"><a href="{{ page.section2c_cta_link }}" >{{ page.section2c_cta }}</a></p>
 		</div>
 	</div>
 </section>
