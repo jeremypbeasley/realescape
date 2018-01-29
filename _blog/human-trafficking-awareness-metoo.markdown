@@ -1,5 +1,5 @@
 ---
-title: Human Trafficking Awareness Month: &#163;MeToo
+title: Human Trafficking Awareness Month: MeToo
 date: 2018-01-10 22:49:00 Z
 author: kim
 og_title: 
