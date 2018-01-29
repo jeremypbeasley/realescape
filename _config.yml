@@ -45,7 +45,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: blog
     author: 
-    hadCustomOG: false 
+    hasCustomOG: false 
     og_title:
     og_desc:
     og_photo: 

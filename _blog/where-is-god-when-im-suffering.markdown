@@ -3,7 +3,7 @@ title: Where is God When I&apos;m Suffering&#x3f;
 date: 2014-11-24 00:00:00 Z
 author: bridget
 layout: blog
-hadCustomOG: true 
+hasCustomOG: true 
 og_title: Where's God When I'm Suffering?
 og_desc: Growing up, despair felt like my closest companion. Most days, I felt invisible and unknown. My dad struggled through deep depression and bouts of mania, suicide attempts and hospitalizations, and the consequent guilt and shame.
 og_photo: /uploads/rest_staff_amanda.jpg
