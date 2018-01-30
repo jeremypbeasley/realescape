@@ -20,12 +20,6 @@ section2a_photo: "/uploads/rest_staff_amanda.jpg"
 section2a_desc: Loved by Jesus, our greatest Advocate, Amanda is both pioneer and
   counselor at heart. She holds an MSW from the University of Washington and envisions
   a community free of exploitation. <a href="mailto:amanda@iwantrest.com">amanda@iwantrest.com</a>.
-section2b_title: Director of Operations
-section2b_name: Bridget Battistoni
-section2b_photo: "/uploads/rest_staff_bridget.jpg"
-section2b_desc: Compelled by the love of Jesus, Bridget excels at envisioning, engineering
-  and general chaos-wrangling. Dreams of a world free from exploitation. Leader. Writer.
-  Counselor. Builder.
 section3_headline: Our Values
 section3_body: Our values are our attempt to articulate our identity, and to define
   the manner in which we approach our work. Our values are about how we view all people,
