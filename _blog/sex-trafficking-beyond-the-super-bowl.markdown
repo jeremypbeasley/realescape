@@ -1,6 +1,7 @@
 ---
 title: Sex Trafficking beyond the Super Bowl
 date: 2018-02-01 23:00:00 Z
+author: kim
 layout: blog
 ---
 
