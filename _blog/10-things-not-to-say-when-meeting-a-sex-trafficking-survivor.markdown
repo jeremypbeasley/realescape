@@ -1,6 +1,7 @@
 ---
 title: 10 Things Not To Say When Meeting A Survivor of Sex Trafficking
 date: 2015-04-21 00:00:00 Z
+position: 18
 author: bridget
 layout: blog
 ---

@@ -1,6 +1,7 @@
 ---
 title: A Survivor&apos;s Story&#x3a;  Meet Mia
 date: 2015-03-26 00:00:00 Z
+position: 17
 author: bridget
 layout: blog
 ---

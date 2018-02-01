@@ -1,6 +1,7 @@
 ---
 title: 'Human Trafficking Awareness Month: Remember the Men & Boys'
 date: 2018-01-24 23:11:00 Z
+position: 30
 author: kim
 og_title: 'Human Trafficking Awareness Month: Remember the Men & Boys'
 og_photo: "/uploads/REST_Human-Trafficking-Month_men-blog.jpg"
