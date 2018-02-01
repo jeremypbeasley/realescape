@@ -2,7 +2,7 @@
 title: Two Things You Can Do Today To Support Human Trafficking Victims&#x3a; HB 2668
   &amp; SB 5277
 date: 2016-02-22 00:00:00 Z
-position: 21
+position: 24
 author: bridget
 layout: blog
 ---

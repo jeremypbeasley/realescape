@@ -1,7 +1,7 @@
 ---
 title: Where is God When I&apos;m Suffering&#x3f;
 date: 2014-11-24 00:00:00 Z
-position: 13
+position: 16
 author: bridget
 layout: blog
 ---

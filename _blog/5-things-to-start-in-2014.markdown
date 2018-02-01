@@ -1,7 +1,7 @@
 ---
 title: 5 Things to Start in 2014
 date: 2013-12-29 00:00:00 Z
-position: 0
+position: 3
 author: bridget
 layout: blog
 ---
