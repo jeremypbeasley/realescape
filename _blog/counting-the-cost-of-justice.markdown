@@ -1,7 +1,7 @@
 ---
 title: Counting the Cost of Justice
 date: 2014-05-28 00:00:00 Z
-position: 7
+position: 9
 author: bridget
 layout: blog
 ---

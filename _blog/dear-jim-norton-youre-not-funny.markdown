@@ -1,7 +1,7 @@
 ---
 title: Dear Jim Norton&#x2c; You&apos;re Not Funny.
 date: 2014-08-17 00:00:00 Z
-position: 11
+position: 13
 author: bridget
 layout: blog
 ---
