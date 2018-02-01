@@ -1,7 +1,12 @@
 ---
-title: Sex Trafficking beyond the Super Bowl
+title: Sex trafficking beyond the Super Bowl
 date: 2018-02-01 23:00:00 Z
 author: kim
+og_title: Sex trafficking beyond the Super Bowl
+og_photo: "/uploads/REST_Sex-Trafficking-Beyond-The-Super-Bowl.jpg"
+og_desc: What we can’t forget, however, is that sex trafficking is not a one-week-a-year
+  phenomenon. Today, in cities around the country, the individuals who will be trafficked
+  during the Super Bowl this weekend in Minneapolis—are likely already being trafficked.
 layout: blog
 ---
 
