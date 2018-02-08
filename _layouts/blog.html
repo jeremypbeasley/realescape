@@ -1,29 +1,59 @@
-{% include header.html %}
+<!-- 
 
-<!-- Post Specific Open Graph Tags -->
+Post Specific Open Graph Tags
 
-<!-- Facebook -->
+There are three possibilities of content for the OG tags:
+
+1. Default site card (located in header.html) 
+2. Post content itself 
+3. Custom values entered in the CMS.
+
+This file will ultimately render up to three unique, simulaneous 
+values tags for the same same tags. Since Facebook gives the 
+first tag preference and Twitter does the opposite (giving the
+last tag preference), it requires that the blog and events 
+template structure very oddly put Facebook tags above the site's
+header. 
+
+-->
+
+<!-- Custom Title: Facebook -->
+{% if page.og_title %}
+<meta property="og:title" content="{{ page.og_title }}" />
+{% endif %}
+
+<!-- Custom Description: Facebook -->
+{% if page.og_desc %}
+<meta property="og:description" content="{{ page.og_desc }}" />
+{% endif %}
+
+<!-- Custom Photo: Facebook -->
+{% if page.og_photo %}
+<meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
+{% endif %}
+
+<!-- Post Content: Facebook -->
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.content | strip_html | truncate: 150, '' }}..." />
-<!-- Twitter -->
+
+{% include header.html %}
+
+<!-- Post Content: Twitter -->
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 150, '' }}...">
 
-<!-- Optional Custom Title -->
+<!-- Custom Title: Twitter -->
 {% if page.og_title %}
-<meta property="og:title" content="{{ page.og_title }}" />
 <meta name="twitter:title" content="{{ page.og_title }}">
 {% endif %}
 
-<!-- Optional Custom Description -->
+<!-- Custom Description: Twitter -->
 {% if page.og_desc %}
-<meta property="og:description" content="{{ page.og_desc }}" />
-<meta name="twitter:description" content="{{ page.content | strip_html | truncate: 100, '' }}">
+<meta name="twitter:description" content="{{ page.og_desc }}">
 {% endif %}
 
-<!-- Optional Custom Photo -->
+<!-- Custom Photo: Twitter -->
 {% if page.og_photo %}
-<meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}">
 {% endif %}
 
