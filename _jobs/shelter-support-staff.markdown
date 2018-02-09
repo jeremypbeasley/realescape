@@ -17,6 +17,4 @@ We currently have three open shifts:
 Sunday 10:00 a.m. – 5:00 p.m. & Saturday 10:00 a.m. – 5:00 p.m., Total of 14 hours
 * Must be flexible and willing to work with ERC Supervisor to work out on-boarding schedule for the first six weeks, which consists of required trainings and meetings. 
 
-[Click here for the job description.](/uploads/REST_Jobs_Shelter-Support-Staff-PT.pdf)
-
 To apply, email your resume and cover letter to [apply@iwantrest.com](mailto: apply@iwantrest.com).
