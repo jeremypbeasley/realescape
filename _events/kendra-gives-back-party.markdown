@@ -1,6 +1,7 @@
 ---
 title: Kendra Gives Back Party
 date: 2018-01-24 15:00:00 Z
+published: false
 position: 5
 image: "/uploads/REST_Kendra-Scott_sq-crop.png"
 location: 'Kendra Scott - Bellevue Square '
