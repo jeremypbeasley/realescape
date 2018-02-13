@@ -1,7 +1,7 @@
 ---
 title: REST Training Day
 date: 2018-01-21 17:40:00 Z
-position: 5
+position: 3
 image: "/uploads/RTD-1-26-14.jpg"
 location: 'Trinity West Seattle '
 location_maplink: https://www.google.com/maps/place/Trinity+West+Seattle/@47.5343136,-122.3791877,17z/data=!3m1!4b1!4m5!3m4!1s0x54904114d665238f:0x634f213790a46d7!8m2!3d47.53431!4d-122.376999
