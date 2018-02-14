@@ -11,6 +11,8 @@ og_img:
 layout: blog
 ---
 
+![Unloved to Loved Survivors](/uploads/REST_Blog_Unloved-to-loved_header3.jpg)
+
 You deserve to be loved. 
 
 Every single person, no matter their past, present, or future, is wholly worthy of love. 
@@ -18,8 +20,6 @@ Every single person, no matter their past, present, or future, is wholly worthy 
 We stand firmly in that belief at REST. It is why we do what we do; because we believe that each man, woman, boy, and girl that has experienced sexual exploitation is worthy of love. Many of the individuals that we serve come to us having experienced the antithesis of love—abuse, manipulation, and injustice. For many survivors of the sex trade, love can seem like a far off notion, and one that isn’t meant for them. 
 
 But we know that love is for all. And it is amazing, and beautiful to see the hope and restoration that unfold as people who once felt unloved begin to realize that they are worthy of love—and deeply loved.
-
-![Unloved to Loved Survivors](/uploads/REST_Blog_Unloved-to-loved_header2.jpg)
 
 This Valentine’s Day, take a few minutes to read the words of three survivors who are on their own pathways to freedom, safety, and hope: 
 
