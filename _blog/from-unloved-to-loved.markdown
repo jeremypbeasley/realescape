@@ -20,6 +20,8 @@ We stand firmly in that belief at REST. It is why we do what we do; because we b
 
 But we know that love is for all. And it is amazing, and beautiful to see the hope and restoration that unfold as people who once felt unloved begin to realize that they are worthy of love—and deeply loved.
 
+![Unloved to Loved Survivors](/uploads/REST_Blog_Unloved-to-loved_header.jpg)
+
 This Valentine’s Day, take a few minutes to read the words of three survivors who are on their own pathways to freedom, safety, and hope: 
 
 > “I am no longer in prostitution. I am no longer on drugs. I no longer have any connections to my abuser, besides our son. He has no bearing over my life anymore. I learned how to love myself. I learned that I am truly a beautiful person. And intelligent. And I also learned that everything my abuser told me for years and years was so untrue and so far from the truth. And I learned from all of my strength and all the support that I’ve got here that I can do whatever I put my mind to and nothing can ever stop me.” *- Stephanie*
