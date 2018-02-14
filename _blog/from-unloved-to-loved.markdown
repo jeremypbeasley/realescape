@@ -19,7 +19,7 @@ We stand firmly in that belief at REST. It is why we do what we do; because we b
 
 But we know that love is for all. And it is amazing, and beautiful to see the hope and restoration that unfold as people who once felt unloved begin to realize that they are worthy of love—and deeply loved.
 
-![Unloved to Loved Survivors](/uploads/REST_Blog_Unloved-to-loved_header.jpg)
+![Unloved to Loved Survivors](/uploads/REST_Blog_Unloved-to-loved_header2.jpg)
 
 This Valentine’s Day, take a few minutes to read the words of three survivors who are on their own pathways to freedom, safety, and hope: 
 
