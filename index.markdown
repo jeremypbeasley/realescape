@@ -11,7 +11,7 @@ section1_body: Each year, we provide direct services to hundreds of people explo
   exploitation. Our desire is to see Washington become hostile to traffickers and
   to work ourselves out of a job.
 section1_cta: See how we work
-section1_cta_url: services
+section1_cta_url: "/services"
 layout: home
 ---
 
