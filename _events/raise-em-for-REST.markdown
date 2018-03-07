@@ -24,7 +24,7 @@ Individual tickets are available for $75, or rally a Texas Hold’em Table (9 se
 
 Must be 21 to attend. 
 
-**[Purchase your tickets here.](http://bit.ly/2micLqP)**
+Online registration is now closed, but there will be some tickets at the door. 
 
 RSVP to our [Facebook event](http://bit.ly/RaiseEmForREST18) for event updates and info.
 
