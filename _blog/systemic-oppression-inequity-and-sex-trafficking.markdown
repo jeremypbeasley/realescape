@@ -1,7 +1,6 @@
 ---
 title: Systemic Oppression, Inequity, & Sex Trafficking
 date: 2018-03-08 20:03:00 Z
-published: false
 author: kim
 og_title: Systemic Oppression, Inequity, & Sex Trafficking
 og_desc: '"What I would argue, is that sex trafficking in this country is rooted in
@@ -38,7 +37,7 @@ We must realize that this oppression did not end with the cessation of legal sla
 
 Our deepest desire at REST is for those who have been exploited in the sex trade to know that they deserve to be loved—not exploited; and to provide pathways to freedom, safety, and hope. We have learned from our collaboration with other organizations, and our own experiences as a service provider, that because of the history of racial trauma and the oppression of people of color, it often requires greater effort, time, and resources to provide these pathways for sexually exploited African American individuals. 
 
-But we are not without hope. We have time and time again seen the fervent hope grow within the survivors that we walk alongside as they step into  their own freedom, and fight to have a life they deserve. A life without exploitation. It is beautiful and awe-inspiring. 
+But we are not without hope. We have time and time again seen the fervent hope grow within the survivors that we walk alongside as they step into their own freedom, and fight to have a life they deserve. A life without exploitation. It is beautiful and awe-inspiring. 
 
 As we look to the past to understand why the present is the way that it is, we hope that you’ll consider this quote from a REST House Resident who is actively pursuing a better future: 
 
