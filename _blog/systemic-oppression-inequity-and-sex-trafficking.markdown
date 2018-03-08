@@ -5,6 +5,7 @@ published: false
 layout: blog
 ---
 
+![Systemic Oppression, Inequity, & Sex Trafficking](/uploads/REST_blog_oppression-inequity-sex-trafficking_800.jpg)
 *“The degradation, the wrongs, the vices, that grow out of slavery, are more than I can describe. They are greater than you would willingly believe.” - Harriet Jacobs*
 
 Harriet Jacobs was born into slavery in February of 1813. In 1835 she escaped—after years of sexual harassment and threats from her master. She went on to become a writer, nurse, abolitionist—and arguably an early feminist. Long before terms like “systemic oppression” and “power dynamics” and “intersectional feminism” spread across social media, she was addressing these issues in her autobiography [Incidents in the Life of a Slave Girl](https://smile.amazon.com/Incidents-Life-Slave-Girl-AmazonClassics-ebook/dp/B0769T1ZVC/). 
@@ -13,7 +14,9 @@ While Harriet Jacob’s story takes place in the nineteenth century, documentati
 
 Today, more than 200 years after Harriet Jacobs was born, we still see the impact of the slave trade and a social system that allows for the devaluation and oppression of marginalized individuals, in the sex trade. And we see it here in King County, Washington. 
 
-In data collected by the King County Prosecuting Attorney’s Office (KCPAO) between 2011–2016, 84% of child trafficking victims were female, and 52% of them were African American. The general population of King County is just 7% African American. The disparity is enormous. ([View this data in charts here](http://endingexploitation.com/exploitation.html).) 
+In data collected by the King County Prosecuting Attorney’s Office (KCPAO) between 2011–2016, 84% of child trafficking victims were female, and 52% of them were African American. The general population of King County is just 7% African American. The disparity is enormous. 
+
+[![Comparing Race of Minor Victims of Sexual Exploitation To The General Population of King County](/uploads/REST_blog_oppression-inequity-sex-trafficking_graph_800.png)](http://endingexploitation.com/exploitation.html) 
 
 As we look at this data, a stark image of the legacy of slavery and systemic oppression of African American women emerges. Yasmin Vafa, Executive Director at [Rights4Girls](http://rights4girls.org/) explained it well in her keynote speech at [Stolen Youth Town Hall]((https://stolenyouth.org/town-hall/) in January: 
 
