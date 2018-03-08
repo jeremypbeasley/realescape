@@ -43,4 +43,4 @@ As we look to the past to understand why the present is the way that it is, we h
 
 “At REST I have been able to paint a new picture of what I want my life to be. I am discovering a new perspective—full of choices I never knew were available to me. I feel unconditional love and acceptance... I have found my voice, and I am now establishing who I am.”
 
-*If you would like to learn more on the gender and racial disparities in commercial sexual exploitation, we’d encourage you to learn more in [Rights4Girls Resource Library](http://rights4girls.org/resources/) and take the time to watch the [Stolen Youth Town Hall presentation](https://stolenyouth.org/town-hall/).*
+**If you would like to learn more on the gender and racial disparities in commercial sexual exploitation, we’d encourage you to learn more in the [Rights4Girls Resource Library](http://rights4girls.org/resources/) and take the time to watch the [Stolen Youth Town Hall presentation](https://stolenyouth.org/town-hall/).**
