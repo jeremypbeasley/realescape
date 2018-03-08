@@ -7,7 +7,7 @@ og_desc: Every single person, no matter their past, present, or future, is wholl
   worthy of love. We stand firmly in that belief at REST. It is why we do what we
   do; because we believe that each man, woman, boy, and girl that has experienced
   sexual exploitation is worthy of love.
-og_img: 
+og_img: "/uploads/REST_Blog_Unloved-to-loved_header3.jpg"
 layout: blog
 ---
 
