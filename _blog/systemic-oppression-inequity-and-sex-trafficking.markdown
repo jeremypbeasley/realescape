@@ -11,7 +11,7 @@ layout: blog
 ---
 
 ![Systemic Oppression, Inequity, & Sex Trafficking](/uploads/REST_blog_oppression-inequity-sex-trafficking_800.jpg)
-*“The degradation, the wrongs, the vices, that grow out of slavery, are more than I can describe. They are greater than you would willingly believe.” - Harriet Jacobs*
+“The degradation, the wrongs, the vices, that grow out of slavery, are more than I can describe. They are greater than you would willingly believe.” - Harriet Jacobs
 
 Harriet Jacobs was born into slavery in February of 1813. In 1835 she escaped—after years of sexual harassment and threats from her master. She went on to become a writer, nurse, abolitionist—and arguably an early feminist. Long before terms like “systemic oppression” and “power dynamics” and “intersectional feminism” spread across social media, she was addressing these issues in her autobiography [Incidents in the Life of a Slave Girl](https://smile.amazon.com/Incidents-Life-Slave-Girl-AmazonClassics-ebook/dp/B0769T1ZVC/). 
 
@@ -25,7 +25,7 @@ In data collected by the King County Prosecuting Attorney’s Office (KCPAO) bet
 
 As we look at this data, a stark image of the legacy of slavery and systemic oppression of African American women emerges. Yasmin Vafa, Executive Director at [Rights4Girls](http://rights4girls.org/) explained it well in her keynote speech at [Stolen Youth Town Hall]((https://stolenyouth.org/town-hall/) in January: 
 
-*“What I would argue, is that sex trafficking in this country is rooted in multiple systems of oppression that have been exploiting people of color in this country for generations through colonization and through slavery. And to really understand sex trafficking in this country today, we have to understand it in the context of a long legacy of racial and gender violence that is continuing to perpetuate the exploitation and often times the criminalization of young women and children of color.”*
+“What I would argue, is that sex trafficking in this country is rooted in multiple systems of oppression that have been exploiting people of color in this country for generations through colonization and through slavery. And to really understand sex trafficking in this country today, we have to understand it in the context of a long legacy of racial and gender violence that is continuing to perpetuate the exploitation and often times the criminalization of young women and children of color.”
 
 If we look at the average demographic profile of a sex buyer, the disparity grows. Not only are those being exploited disproportionately female and African American, but those buying sex are disproportionately male and white. In data collected by the KCPAO between 2013–2017, 100% of the sex buyers that were arrested in King County were male. 80% of them were white. (King County is approximately 65% white.) On top of that, 61% of them had earned a bachelor’s degree or above, compared to the 48% King County average—and a large majority of them are gainfully employed. 
 
