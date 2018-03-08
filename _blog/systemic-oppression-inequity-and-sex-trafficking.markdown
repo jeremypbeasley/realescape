@@ -2,6 +2,12 @@
 title: Systemic Oppression, Inequity, & Sex Trafficking
 date: 2018-03-08 20:03:00 Z
 published: false
+author: kim
+og_title: Systemic Oppression, Inequity, & Sex Trafficking
+og_desc: '"What I would argue, is that sex trafficking in this country is rooted in
+  multiple systems of oppression that have been exploiting people of color in this
+  country for generations through colonization and through slavery."'
+og_img: "/uploads/REST_blog_oppression-inequity-sex-trafficking_800.jpg"
 layout: blog
 ---
 
