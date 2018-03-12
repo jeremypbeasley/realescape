@@ -1,7 +1,6 @@
 ---
 title: A Night of REST 2017
 date: 2017-10-29 01:57:00 Z
-published: false
 position: 1
 image: "/uploads/ANOR_basic-web-sq-bc68d2.jpg"
 location: Meydenbauer Center, Bellevue, WA
