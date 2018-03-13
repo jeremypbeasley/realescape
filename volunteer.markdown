@@ -3,11 +3,12 @@ title: Volunteer
 position: 1
 headline: Hope is not lost. Volunteer to serve girls, women, & men.
 section1a_title: You Can Bring Rest
-section1a_body: At the core of REST is a passion to see a path of hope made for the
+section1a_body: 'At the core of REST is a passion to see a path of hope made for the
   exploited. We are a direct service provider made up of passionate people who are
   compelled to action by the desire for justice in our city and our state. We want
   Washington to be inhospitable to traffickers and we want to work ourselves out of
-  a job. We need your help to do this. Have questions? Email [volunteer@iwantrest.com](mailto:volunteer@iwantrest.com).
+  a job. We need your help to do this. Have questions? Email [volunteer@iwantrest.com](mailto:
+  volunteer@iwantrest.com).'
 section1b_title: Attend A Training
 section1b_body: As a prerequisite for volunteers, you'll get a better understanding
   of the sex trade and find a team where you can work to bring rest. This training
