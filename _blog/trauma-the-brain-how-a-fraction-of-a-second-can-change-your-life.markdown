@@ -1,7 +1,7 @@
 ---
 title: Trauma &amp; the Brain&#x3a; How a Fraction of a Second Can Change Your Life
 date: 2015-01-06 00:00:00 Z
-position: 20
+position: 22
 author: bridget
 layout: blog
 ---

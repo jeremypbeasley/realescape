@@ -1,7 +1,7 @@
 ---
 title: When Trauma Exists in the Caregiver-Child Relationship
 date: 2015-06-24 00:00:00 Z
-position: 24
+position: 26
 author: bridget
 layout: blog
 og_title: 

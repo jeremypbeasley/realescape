@@ -1,7 +1,7 @@
 ---
 title: Give for Goodness&apos; Sake…and for Yours
 date: 2014-12-20 00:00:00 Z
-position: 19
+position: 21
 author: bridget
 layout: blog
 ---

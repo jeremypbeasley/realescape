@@ -1,7 +1,7 @@
 ---
 title: When Sex Trafficking is a Family Affair
 date: 2016-05-14 00:00:00 Z
-position: 27
+position: 29
 author: bridget
 layout: blog
 ---

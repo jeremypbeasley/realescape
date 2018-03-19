@@ -1,7 +1,7 @@
 ---
 title: Sex trafficking beyond the Super Bowl
 date: 2018-02-01 23:00:00 Z
-position: 0
+position: 2
 author: kim
 og_title: Sex trafficking beyond the Super Bowl
 og_photo: "/uploads/REST_Sex-Trafficking-Beyond-The-Super-Bowl.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Men Who Buy Sex&#x2c; Part 1&#x3a; Sin is Trafficked Goodness
 date: 2014-06-16 00:00:00 Z
-position: 11
+position: 13
 author: bridget
 layout: blog
 ---
