@@ -24,7 +24,7 @@ In data collected by the King County Prosecuting Attorney’s Office (KCPAO) bet
 
 [![Comparing Race of Minor Victims of Sexual Exploitation To The General Population of King County](/uploads/REST_blog_oppression-inequity-sex-trafficking_graph_800.png)](http://endingexploitation.com/exploitation.html) 
 
-As we look at this data, a stark image of the legacy of slavery and systemic oppression of African American women emerges. Yasmin Vafa, Executive Director at [Rights4Girls](http://rights4girls.org/) explained it well in her keynote speech at [Stolen Youth Town Hall]((https://stolenyouth.org/town-hall/) in January: 
+As we look at this data, a stark image of the legacy of slavery and systemic oppression of African American women emerges. Yasmin Vafa, Executive Director at [Rights4Girls](http://rights4girls.org/) explained it well in her keynote speech at [Stolen Youth Town Hall](https://stolenyouth.org/town-hall/) in January: 
 
 “What I would argue, is that sex trafficking in this country is rooted in multiple systems of oppression that have been exploiting people of color in this country for generations through colonization and through slavery. And to really understand sex trafficking in this country today, we have to understand it in the context of a long legacy of racial and gender violence that is continuing to perpetuate the exploitation and often times the criminalization of young women and children of color.”
 
