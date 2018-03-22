@@ -1,6 +1,7 @@
 ---
 title: Shelter Support Staff
 date: 2017-12-12 18:33:00 Z
+published: false
 jobdesc_file: "/uploads/REST_Jobs_Shelter-Support-Staff-PT.pdf"
 ---
 
