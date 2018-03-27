@@ -49,9 +49,6 @@ section3c_body: REST is in the process of developing a comprehensive online netw
   unwanted sexual behavior. We know many men desire change, but may not know where
   to look for help. We want them to know they are not alone and there is hope for
   change.
-section4_headline: Employees
-Section4a_title: Executive Director
-section4b_body: 'Amanda Hightower is our Executive Director. '
 layout: services
 ---
 
