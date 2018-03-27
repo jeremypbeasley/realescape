@@ -2,7 +2,6 @@
 title: Services
 position: 2
 headline: A holistic, end-to-end approach against the sex trade.
-layout: services
 section1_body: Human trafficking is modern-day slavery and the fastest-growing criminal
   industry in the world. It is the recruitment of people by means of threat, force,
   coercion or deception for the purpose of exploitation. Sex trafficking is one of
@@ -50,5 +49,9 @@ section3c_body: REST is in the process of developing a comprehensive online netw
   unwanted sexual behavior. We know many men desire change, but may not know where
   to look for help. We want them to know they are not alone and there is hope for
   change.
+section4_headline: Employees
+Section4a_title: Executive Director
+section4b_body: 'Amanda Hightower is our Executive Director. '
+layout: services
 ---
 
