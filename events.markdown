@@ -1,6 +1,6 @@
 ---
 title: Events
-position: 5
+position: 9
 layout: events_index
 ---
 

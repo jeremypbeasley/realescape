@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 0
+position: 3
 headline: On any given night in Seattle, hundreds will be sold for sex.
 section1_headline: Our goal is simple — freedom, safety, and hope to women & girls
   exploited by the sex trade.

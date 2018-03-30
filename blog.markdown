@@ -1,6 +1,6 @@
 ---
 title: Blog
-position: 4
+position: 7
 layout: blog_index
 ---
 

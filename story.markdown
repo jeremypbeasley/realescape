@@ -1,5 +1,6 @@
 ---
 title: Our Story
+position: 1
 layout: default
 ---
 

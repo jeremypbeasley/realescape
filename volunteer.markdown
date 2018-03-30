@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-position: 1
+position: 4
 headline: Hope is not lost. Volunteer to serve girls, women, & men.
 section1a_title: You Can Bring Rest
 section1a_body: At the core of REST is a passion to see a path of hope made for the

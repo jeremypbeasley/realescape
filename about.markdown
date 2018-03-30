@@ -1,6 +1,6 @@
 ---
 title: About
-position: 3
+position: 6
 headline: We exist to bring freedom, safety, & hope.
 layout: about
 section1_title: Our Story

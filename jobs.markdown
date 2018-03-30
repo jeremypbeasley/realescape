@@ -1,5 +1,6 @@
 ---
 title: Jobs
+position: 0
 layout: jobs_index
 ---
 
