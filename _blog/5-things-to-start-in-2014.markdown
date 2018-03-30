@@ -12,7 +12,7 @@ After Christ, Christians sought to redeem the new year custom by replacing idol 
 
 ![](http://stopbuyinggirls.com/uploads/0001xf.jpeg)
 
-> In the same vein, this new year brings us an opportunity to, by the grace of God, keep that which he has commanded, such as defending the oppressed. Here are five resolutions to start in 2014:
+In the same vein, this new year brings us an opportunity to, by the grace of God, keep that which he has commanded, such as defending the oppressed. Here are five resolutions to start in 2014:
 
 <b>1. Start Praying.</b> Human trafficking is a problem of evil. It reflects a powerful clash of spiritual forces. Every believer of Jesus Christ should be greatly disturbed when they learn about exploitation of any kind, because it’s the temporal advancement of evil. Traffickers and pimps, johns and madams, porn purveyors and consumers have declared war on God and His creation. They have set their minds to the things of the flesh and – make no mistake – the only outcome is death. They are in desperate need of a new heart and the salvation that comes from Jesus Christ alone.
 
