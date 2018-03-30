@@ -1,7 +1,6 @@
 ---
 title: playground
 date: 2018-03-30 23:41:00 Z
-published: false
 headline: A holistic, end-to-end approach against the sex trade.
 section1_body: Human trafficking is modern-day slavery and the fastest-growing criminal
   industry in the world. It is the recruitment of people by means of threat, force,
