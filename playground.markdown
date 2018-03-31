@@ -9,8 +9,8 @@ section1_body: "REST serves individuals who have been trafficked in or have expe
   but is dedicated to serving people of all backgrounds, regardless of faith, and
   we don’t require participation in any faith activities in order to receive assistance.
   We believe everyone is worthy of love. Therefore, through all of REST services,
-  we simply want to communicate, \n\n> “You deserve to have the life you want. You
-  deserve to be loved."
+  we simply want to communicate, \n\n> ## **“You deserve to have the life you want.
+  You deserve to be loved.\"**"
 section2_headline: Emergency Receiving Center
 section2a_title: '24/7 Hotline: 206-451-REST'
 section2a_body: 'The hotline is available for 24 hours a day, 7 days a week. Skilled
@@ -35,12 +35,12 @@ section2c_body: 'The Drop-In Center is open Monday-Thursday from 2pm-8pm, provid
   and chemical dependency services. '
 section3_headline: More REST Services
 section3a_title: Community Advocacy
-section3a_body: 'The Community Advocacy program provides assistance to people currently
-  in or exiting the sex trade throughout all of King County. Advocates meet with survivors
-  to identify their needs, help them access services, reach their goals, and develop
-  a supportive community as they seek to build a life without exploitation. This program
-  also includes direct outreach to potential victims of trafficking through text messages
-  to phone numbers pulled from escort ads. '
+section3a_body: 'The Community Advocacy program provides assistance to survivors throughout
+  all of King County. Advocates provide consistent relationships and case management
+  to help survivors identify needs, access resources, build a community of support,
+  and reach the goals that are most important to them. This program also includes
+  direct outreach to potential victims of trafficking through text messages to phone
+  numbers pulled from escort ads. '
 section3b_title: The REST House
 section3b_body: 'The REST House is a staffed, transitional living program for up to
   six young women, ages 18–30, who are exiting the sex trade and want to pursue a
@@ -49,11 +49,12 @@ section3b_body: 'The REST House is a staffed, transitional living program for up
   and receive supportive services while pursuing their life goals that are most important
   to them. '
 section3c_title: Prevention
-section3c_body: The Prevention Team connects with youth in juvenile detention centers,
-  and on diversion. These girls and boys are highly at-risk, though many of them have
-  already been sexually exploited or have begun the process of exploiting. This team
-  teaches trafficking and gender-based violence prevention workshops, and provides
-  one on one mentorship and chaplaincy for those interested.
+section3c_body: The Prevention Team connects with girls and boys in juvenile detention
+  centers, and through diversion. These girls and boys are at-risk for entering the
+  sex trade, though many of them have already been exposed to it in some form. This
+  team facilitates workshops to help the youth gain awareness and build skills to
+  advocate for themselves and their peers against trafficking and gender-based violence.
+  We also provide one on one mentorship and chaplaincy for any youth who are interested.
 layout: services
 ---
 
