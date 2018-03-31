@@ -9,8 +9,8 @@ section1_body: "REST serves individuals of all ages and genders who have been tr
   strengths-based, individualized, and trauma-informed. REST is a Christian organization,
   but is dedicated to serving people of all backgrounds, regardless of faith, and
   we don’t require participation in any faith activities in order to receive assistance.
-  We believe everyone is worthy of love. Therefore, through all of REST services,
-  we simply want to communicate: \n\n> ### **“You deserve to have the life you want.
+  We believe everyone is worthy of love. Therefore, through all REST services, we
+  simply want to communicate: \n\n> ### **“You deserve to have the life you want.
   You deserve to be loved.\"**"
 section2_headline: Emergency Receiving Center
 section2a_title: '24/7 Hotline: 206-451-REST'
