@@ -26,14 +26,14 @@ section2b_body: 'The Shelter provides individual rooms for up to seven women (18
   and recovery journey and identify their needs. For our shelter guests we provide
   food and hygiene supplies, peer support, case management, and assistance to access
   resources like medical care, mental health services, chemical dependency support,
-  transportation and basic identification.  '
+  legal advocacy, transportation and basic identification.  '
 section2c_title: Drop-In Center
 section2c_body: 'The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
   workshops, classes, survivor support groups, healing art, medical consultation,
   and a daily dinner. The Drop-In Center provides a safe space to rest, connect with
   other survivors, build a community of support, and get assistance in accessing resources
-  like housing, employment, education, legal advocacy, healthcare, transportation,
-  mental health services, and chemical dependency services. '
+  like housing, employment, education, healthcare, transportation, mental health services,
+  and chemical dependency services. '
 section3_headline: Advocacy, Residential, Prevention
 section3a_title: Community Advocacy
 section3a_body: The Community Advocacy program provides assistance to people involved
