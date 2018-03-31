@@ -3,15 +3,10 @@ title: playground
 date: 2018-03-30 23:41:00 Z
 position: 12
 headline: A holistic, end-to-end approach against the sex trade.
-section1_body: Human trafficking is modern-day slavery and the fastest-growing criminal
-  industry in the world. It is the recruitment of people by means of threat, force,
-  coercion or deception for the purpose of exploitation. Sex trafficking is one of
-  the most profitable forms of trafficking and involves many kinds of sexual exploitation,
-  such as prostitution, pornography and the commercial sexual abuse of children. This
-  isn't only a third world nations problem, it also takes place within U.S. borders.
-  REST serves girls and young women through direct contact services. We reach them
-  where they're at and offer trauma-informed services where clients receive support
-  and resources such as counseling and wraparound services.
+section1_body: |-
+  REST serves individuals who have been trafficked in or worked in the sex trade. We provide a wide variety of support as they seek to exit the sex trade and reach their goals. REST is a Christian organization, but is dedicated to serving people of all backgrounds, regardless of faith, and we don’t require participation in any faith activities in order to receive assistance. Through all of REST services, we simply want to communicate, “You deserve to have the life you want. You deserve to be loved.”
+
+  ![Screenshot 2018-03-30 16.24.46.png](/uploads/Screenshot%202018-03-30%2016.24.46.png)
 section2_headline: Women & Girls
 section2a_title: Prevention
 section2a_body: Prevention teams serve those under 18 who are at-risk for entering
