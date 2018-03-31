@@ -33,7 +33,7 @@ section2c_body: 'The Drop-In Center is open Monday-Thursday from 2pm-8pm, provid
   other survivors, build a community of support, and get assistance in accessing resources
   like housing, employment, education, healthcare, transportation, mental health services,
   and chemical dependency services. '
-section3_headline: More REST Services
+section3_headline: Advocacy, Residential, Prevention
 section3a_title: Community Advocacy
 section3a_body: The Community Advocacy program provides assistance to survivors throughout
   all of King County. Advocates provide consistent relationships and case management
