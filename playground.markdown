@@ -13,26 +13,26 @@ section1_body: 'REST serves individuals who have been trafficked in or have expe
   deserve to be loved.**'
 section2_headline: Emergency Receiving Center
 section2a_title: '24/7 Hotline: 206-451-REST'
-section2a_body: 'The hotline is available for calls or texts 24 hours a day, 7 days
-  a week. Skilled advocates respond to calls or texts from individuals who are in
-  need of assistance or service providers who would like to make a referral. Through
-  the hotline, we can provide information and referrals to help survivors connect
-  to the services they need, screen for intake into the emergency shelter, and start
-  the process for screening into the REST House.  '
+section2a_body: 'The hotline is available for 24 hours a day, 7 days a week. Skilled
+  advocates respond to calls or texts from individuals who are in need of assistance
+  or service providers who would like to make a referral. Through the hotline, we
+  can provide emotional support and safety planning, help survivors connect to the
+  services they need, screen for intake into the emergency shelter, and start the
+  process for screening into the REST House.  '
 section2b_title: Shelter
-section2b_body: The emergency shelter provides immediate access to short-term shelter
-  with seven individual rooms for women over the age of 18 to stay for up to 30 days
-  while they stabilize, receive crisis intervention and case management support and
-  get connected to essential services related to their needs. The ERC is a place for
-  women to explore their healing and recovery journey and identify their needs as
-  they build relationships within REST and with one another.
+section2b_body: 'REST Emergency Receiving Center includes a short-term shelter with
+  seven individual rooms for women over the age of 18 to stay for up to 30 days while
+  they stabilize, receive crisis intervention and case management support and get
+  connected to essential services related to their needs. '
 section2c_title: Drop-In Center
 section2c_body: The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
   workshops, classes, survivor support groups, healing art, medical consultation,
   and a daily dinner. The Drop-In Center provides a safe space to rest, connect with
   other survivors, build a community of support, and get assistance in accessing resources
   like housing, employment, education, healthcare, transportation, mental health services,
-  and chemical dependency services.
+  and chemical dependency services. The ERC is a place for women to explore their
+  healing and recovery journey and identify their needs as they build relationships
+  within REST and with one another.
 section3_headline: More REST Services
 section3a_title: Community Advocacy
 section3a_body: 'The Community Advocacy program provides assistance to people currently
