@@ -20,19 +20,20 @@ section2a_body: 'The hotline is available for 24 hours a day, 7 days a week. Ski
   services they need, screen for intake into the emergency shelter, and start the
   process for screening into the REST House.  '
 section2b_title: Shelter
-section2b_body: 'REST Emergency Receiving Center includes a short-term shelter with
-  seven individual rooms for women over the age of 18 to stay for up to 30 days while
-  they stabilize, receive crisis intervention and case management support and get
-  connected to essential services related to their needs. '
+section2b_body: 'The Shelter provides individual rooms for up to seven women (18 or
+  over) to stay for up to 30 days. This is a place for women to explore their healing
+  and recovery journey and identify their needs as they build relationships within
+  REST and with one another. For our shelter guests we provide food and hygiene supplies,
+  crisis intervention support, case management, and assistance to access resources
+  like medical care, mental health services, chemical dependency support, transportation
+  and basic identification.  '
 section2c_title: Drop-In Center
-section2c_body: The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
+section2c_body: 'The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
   workshops, classes, survivor support groups, healing art, medical consultation,
   and a daily dinner. The Drop-In Center provides a safe space to rest, connect with
   other survivors, build a community of support, and get assistance in accessing resources
   like housing, employment, education, healthcare, transportation, mental health services,
-  and chemical dependency services. The ERC is a place for women to explore their
-  healing and recovery journey and identify their needs as they build relationships
-  within REST and with one another.
+  and chemical dependency services. '
 section3_headline: More REST Services
 section3a_title: Community Advocacy
 section3a_body: 'The Community Advocacy program provides assistance to people currently
