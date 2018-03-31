@@ -47,9 +47,10 @@ section3b_title: The REST House
 section3b_body: The REST House is a staffed, transitional living program for up to
   six young women, ages 18–30, who are exiting the sex trade and want to pursue a
   new life. It is an individualized program that provides the warmth of a home and
-  the time needed to prepare for greater independence. Residents can stay for a year,
-  and receive supportive services while pursuing their life goals that are most important
-  to them. Call 206-451-REST to learn more.
+  the time needed to prepare for greater independence. Residents can stay up to a
+  year, and receive supportive services like trauma counseling and case management
+  while pursuing life goals that are most important to them. Call 206-451-REST to
+  learn more.
 section3c_title: Prevention
 section3c_body: The Prevention Team connects with girls and boys in juvenile detention
   centers, and through diversion. These girls and boys are at-risk for entering the
