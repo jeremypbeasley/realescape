@@ -7,13 +7,14 @@ section1_body: |-
   REST serves individuals who have been trafficked in or worked in the sex trade. We provide a wide variety of support as they seek to exit the sex trade and reach their goals. REST is a Christian organization, but is dedicated to serving people of all backgrounds, regardless of faith, and we don’t require participation in any faith activities in order to receive assistance. Through all of REST services, we simply want to communicate, “You deserve to have the life you want. You deserve to be loved.”
 
   ![Screenshot 2018-03-30 16.24.46.png](/uploads/Screenshot%202018-03-30%2016.24.46.png)
-section2_headline: Women & Girls
-section2a_title: Prevention
-section2a_body: Prevention teams serve those under 18 who are at-risk for entering
-  prostitution. Though many have already been sexually exploited, the goal is to prevent
-  further harm and give them access to resources that will contribute to their success.
-  We also offer to connect them with a REST mentor, who will model a healthy relationship
-  and commit to being a regular part of their life.
+section2_headline: REST Services
+section2a_title: 24/7 Hotline
+section2a_body: 'The hotline is available for calls or texts 24 hours a day, 7 days
+  a week. Skilled advocates respond to calls or texts from individuals who are in
+  need of assistance or service providers who would like to make a referral. Through
+  the hotline, we can provide information and referrals to help survivors connect
+  to the services they need, screen for intake into the emergency shelter, and start
+  the process for screening into the REST House.  '
 section2b_title: Intervention
 section2b_body: Direct outreach teams build relationships with girls and women actively
   in the sex trade. Teams are out on the streets both in mornings and afternoons.
