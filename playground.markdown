@@ -22,11 +22,11 @@ section2a_body: 'The hotline is available for 24 hours a day, 7 days a week. Ski
   and start the process for screening into the REST House.  '
 section2b_title: Shelter
 section2b_body: 'The Shelter provides individual rooms for seven women (18 or over)
-  to stay for up to 30 days. This is a place for women to explore their healing and
-  recovery journey and identify their needs. For our shelter guests we provide food
-  and hygiene supplies, peer support, case management, and assistance to access resources
-  like medical care, mental health services, chemical dependency support, legal advocacy,
-  transportation and basic identification.  '
+  to stay for up to 30 days. This is a place for women to rest, explore their healing
+  and recovery journey and identify their needs. For our shelter guests we provide
+  food and hygiene supplies, peer support, case management, and assistance to access
+  resources like medical care, mental health services, chemical dependency support,
+  legal advocacy, transportation and basic identification.  '
 section2c_title: Drop-In Center
 section2c_body: 'The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
   workshops, classes, survivor support groups, healing art, medical consultation,
