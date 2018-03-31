@@ -11,20 +11,21 @@ section1_body: "REST serves individuals who have been trafficked in or have expe
   Through all of REST services, we simply want to communicate, \n### ***“You deserve
   to have the life you want. You deserve to be loved.”*****"
 section2_headline: REST Services
-section2a_title: 'Emergency Receiving Center: 24/7 Hotline'
+Section2_headline: Emergency Receiving Center
+section2a_title: '24/7 Hotline: 206-451-REST'
 section2a_body: 'The hotline is available for calls or texts 24 hours a day, 7 days
   a week. Skilled advocates respond to calls or texts from individuals who are in
   need of assistance or service providers who would like to make a referral. Through
   the hotline, we can provide information and referrals to help survivors connect
   to the services they need, screen for intake into the emergency shelter, and start
   the process for screening into the REST House.  '
-section2b_title: 'Emergency Receiving Center: Shelter'
+section2b_title: Shelter
 section2b_body: Direct outreach teams build relationships with girls and women actively
   in the sex trade. Teams are out on the streets both in mornings and afternoons.
   The goal is to be a consistent presence that offers help and hope. We want to dream
   with them of a life free from sexual exploitation and help them take next steps
   toward counseling, sobriety, education, or housing.
-section2c_title: 'Emergency Receiving Center: Drop-In Center'
+section2c_title: Drop-In Center
 section2c_body: The Drop-In Center is open Monday - Thursday from 2pm-8pm and provides
   a safe space to rest, connect with other survivors, build a community of support,
   participate in classes, support groups and workshops, and enjoy a meal. The drop-in
