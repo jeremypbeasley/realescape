@@ -15,18 +15,17 @@ section2_headline: Emergency Receiving Center
 section2a_title: '24/7 Hotline: 206-451-REST'
 section2a_body: 'The hotline is available for 24 hours a day, 7 days a week. Skilled
   advocates respond to calls or texts from individuals who are in need of assistance
-  or service providers who would like to make a referral. Through the hotline, we
-  can provide emotional support and safety planning, help survivors connect to the
-  services they need, screen for intake into the emergency shelter, and start the
-  process for screening into the REST House.  '
+  or service providers and law enforcement who would like to make a referral. Through
+  the hotline, we can provide emotional support and safety planning, help survivors
+  connect to the services they need, screen for intake into the emergency shelter,
+  and start the process for screening into the REST House.  '
 section2b_title: Shelter
 section2b_body: 'The Shelter provides individual rooms for up to seven women (18 or
   over) to stay for up to 30 days. This is a place for women to explore their healing
-  and recovery journey and identify their needs as they build relationships within
-  REST and with one another. For our shelter guests we provide food and hygiene supplies,
-  crisis intervention support, case management, and assistance to access resources
-  like medical care, mental health services, chemical dependency support, transportation
-  and basic identification.  '
+  and recovery journey and identify their needs. For our shelter guests we provide
+  food and hygiene supplies, peer support, case management, and assistance to access
+  resources like medical care, mental health services, chemical dependency support,
+  transportation and basic identification.  '
 section2c_title: Drop-In Center
 section2c_body: 'The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
   workshops, classes, survivor support groups, healing art, medical consultation,
