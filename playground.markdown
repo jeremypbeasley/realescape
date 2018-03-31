@@ -20,16 +20,17 @@ section2a_body: 'The hotline is available for calls or texts 24 hours a day, 7 d
   to the services they need, screen for intake into the emergency shelter, and start
   the process for screening into the REST House.  '
 section2b_title: Shelter
-section2b_body: Direct outreach teams build relationships with girls and women actively
-  in the sex trade. Teams are out on the streets both in mornings and afternoons.
-  The goal is to be a consistent presence that offers help and hope. We want to dream
-  with them of a life free from sexual exploitation and help them take next steps
-  toward counseling, sobriety, education, or housing.
+section2b_body: The emergency shelter provides immediate access to short-term shelter
+  with seven individual rooms for women over the age of 18 to stay for up to 30 days
+  while they stabilize, receive crisis intervention and case management support and
+  get connected to essential services related to their needs. The ERC is a place for
+  women to explore their healing and recovery journey and identify their needs as
+  they build relationships within REST and with one another.
 section2c_title: Drop-In Center
-section2c_body: The Drop-In Center is open Monday - Thursday from 2pm-8pm and provides
-  a safe space to rest, connect with other survivors, build a community of support,
-  participate in classes, support groups and workshops, and enjoy a meal. The drop-in
-  center provides opportunities for survivors to get assistance in accessing resources
+section2c_body: The Drop-In Center is open Monday-Thursday from 2pm-8pm, providing
+  workshops, classes, survivor support groups, healing art, medical consultation,
+  and a daily dinner. The Drop-In Center provides a safe space to rest, connect with
+  other survivors, build a community of support, and get assistance in accessing resources
   like housing, employment, education, healthcare, transportation, mental health services,
   and chemical dependency services.
 section3_headline: More REST Services
