@@ -3,13 +3,13 @@ title: playground
 date: 2018-03-30 23:41:00 Z
 position: 12
 headline: A holistic, end-to-end approach against the sex trade.
-section1_body: "REST serves individuals who have been trafficked in or worked in the
-  sex trade. We provide a wide variety of support as they seek to exit the sex trade
-  and reach their goals. REST is a Christian organization, but is dedicated to serving
-  people of all backgrounds, regardless of faith, and we don’t require participation
-  in any faith activities in order to receive assistance. Through all of REST services,
-  we simply want to communicate, \n\n***“You deserve to have the life you want. You
-  deserve to be loved.”*****"
+section1_body: "REST serves individuals who have been trafficked in or have experience
+  working in the sex trade. We provide a wide variety of support as they seek to exit
+  the sex trade and reach their personal goals. REST is a Christian organization,
+  but is dedicated to serving people of all backgrounds, regardless of faith, and
+  we don’t require participation in any faith activities in order to receive assistance.
+  Through all of REST services, we simply want to communicate, \n\n***“You deserve
+  to have the life you want. You deserve to be loved.”*****"
 section2_headline: REST Services
 section2a_title: 'Emergency Receiving Center: 24/7 Hotline'
 section2a_body: 'The hotline is available for calls or texts 24 hours a day, 7 days
