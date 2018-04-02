@@ -27,8 +27,8 @@ section2b_body: 'The Shelter provides individual rooms for seven women (aged 18 
   to access resources like medical care, mental health services, chemical dependency
   support, legal advocacy, transportation and basic identification.  '
 section2c_title: Drop-In Center
-section2c_body: 'The Drop-In Center is open Monday – Thursday from 2:00 pm–8:00 pm
-  providing workshops, classes, survivor support groups, healing art, medical consultation,
+section2c_body: 'The Drop-In Center is open Monday–Thursday from 2:00pm–8:00pm providing
+  workshops, classes, survivor support groups, healing art, medical consultation,
   and dinner. The Drop-In Center provides a safe space to rest, connect with other
   survivors, build a community of support, and get assistance in accessing resources
   like housing, employment, education, healthcare, transportation, mental health services,
