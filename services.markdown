@@ -2,53 +2,61 @@
 title: Services
 position: 5
 headline: A holistic, end-to-end approach against the sex trade.
-section1_body: Human trafficking is modern-day slavery and the fastest-growing criminal
-  industry in the world. It is the recruitment of people by means of threat, force,
-  coercion or deception for the purpose of exploitation. Sex trafficking is one of
-  the most profitable forms of trafficking and involves many kinds of sexual exploitation,
-  such as prostitution, pornography and the commercial sexual abuse of children. This
-  isn't only a third world nations problem, it also takes place within U.S. borders.
-  REST serves girls and young women through direct contact services. We reach them
-  where they're at and offer trauma-informed services where clients receive support
-  and resources such as counseling and wraparound services.
-section2_headline: Women & Girls
-section2a_title: Prevention
-section2a_body: Prevention teams serve those under 18 who are at-risk for entering
-  prostitution. Though many have already been sexually exploited, the goal is to prevent
-  further harm and give them access to resources that will contribute to their success.
-  We also offer to connect them with a REST mentor, who will model a healthy relationship
-  and commit to being a regular part of their life.
-section2b_title: Intervention
-section2b_body: Direct outreach teams build relationships with girls and women actively
-  in the sex trade. Teams are out on the streets both in mornings and afternoons.
-  The goal is to be a consistent presence that offers help and hope. We want to dream
-  with them of a life free from sexual exploitation and help them take next steps
-  toward counseling, sobriety, education, or housing.
-section2c_title: Restoration
-section2c_body: Rounding out our continuum of care is aftercare. We offer trauma-informed,
-  strengths-based case management, mentorship, long-term residential housing (ages
-  18-24 single or with children), and soon a 24-hour emergency shelter both of which
-  have been specifically designed for those exploited for commercial sex. REST also
-  provides mentorship for clients seeking additional support.
-section3_headline: Men
-section3a_title: Demand
-section3a_body: At the root of commercial sexual exploitation lies the lustful and
-  broken hearts of men who drive the demand. In order for systemic transformation
-  to occur in our culture, the hearts of men have to change. Men have to want something
-  different. REST knows that resources and relationships are key to cultivating this
-  kind of revival in our community and beyond.
-section3b_title: Relationships
-section3b_body: Our demand reduction team invites sex buyers seeking change to a supportive
-  community where freedom from unwanted sexual behavior can be found. Because much
-  of sexual sin and addiction is built and thrives in isolation, transparency and
-  accountability are paramount. Our hope is for meaningful and sustained transformation.
-  <a href="mailto:info@iwantrest.com">Email us</a>.
-section3c_title: Resources
-section3c_body: REST is in the process of developing a comprehensive online network
-  of resources and relationships for sex buyers and men who are experiencing other
-  unwanted sexual behavior. We know many men desire change, but may not know where
-  to look for help. We want them to know they are not alone and there is hope for
-  change.
+section1_body: "REST serves individuals of all ages and genders who have been trafficked
+  or involved in the sex trade. We seek to care for the whole person: mind, body,
+  and spirit; and we value the unique strengths and needs of each individual. REST
+  services are relationship-based, individualized, and trauma-informed. REST is a
+  Christian organization but is dedicated to serving people of all backgrounds, regardless
+  of faith, and we don’t require participation in any faith activities in order to
+  receive assistance. We believe everyone is worthy of love. Therefore, through all
+  REST services, we simply want to communicate: \n\n> ### **\"You deserve to have
+  the life you want. You deserve to be loved.\"**"
+section2_headline: Emergency Receiving Center
+section2a_title: '24/7 Hotline: (206) 451-REST'
+section2a_body: 'The hotline is available 24 hours a day, seven days a week. Skilled
+  advocates respond to calls or texts from individuals who are in need of assistance,
+  or service providers and law enforcement who would like to make a referral. Through
+  the hotline, we can provide emotional support and safety planning, help survivors
+  connect to the services they need, screen for intake into the emergency shelter,
+  and start the process for screening into the REST House.  '
+section2b_title: Shelter
+section2b_body: 'The Shelter provides individual rooms for seven women (aged 18 or
+  over) to stay for up to 30 days. This is a place for women to rest, explore their
+  healing and recovery journey and identify their needs. For our shelter guests, we
+  provide food and hygiene supplies, peer support, case management, and assistance
+  to access resources like medical care, mental health services, chemical dependency
+  support, legal advocacy, transportation and basic identification.  '
+section2c_title: Drop-In Center
+section2c_body: 'The Drop-In Center is open Monday through Thursday from 2:00 p.m.
+  to 8:00 p.m., providing workshops, classes, survivor support groups, healing art,
+  medical consultation, and a daily dinner. The Drop-In Center provides a safe space
+  to rest, connect with other survivors, build a community of support, and get assistance
+  in accessing resources like housing, employment, education, healthcare, transportation,
+  mental health services, and chemical dependency services. '
+section3_headline: Advocacy, Residential, Prevention
+section3a_title: Community Advocacy
+section3a_body: The Community Advocacy program provides assistance to people involved
+  in or exiting the sex trade throughout King County. Advocates provide consistent
+  relationships and case management to help individuals of any age or gender identify
+  needs, access resources, build a community of support, and reach the goals that
+  are most important to them. This program also includes direct outreach to potential
+  victims of trafficking through text messages to phone numbers pulled from escort
+  ads.
+section3b_title: The REST House
+section3b_body: The REST House is a staffed, transitional living program for up to
+  six young women, ages 18–30, who are exiting the sex trade and want to pursue a
+  new life. It is an individualized program that provides the warmth of a home and
+  the time needed to prepare for greater independence. Residents can stay up to a
+  year, and receive supportive services like trauma counseling and case management
+  while pursuing life goals that are most important to them. Call (206) 451-REST to
+  learn more.
+section3c_title: Prevention
+section3c_body: The Prevention Team connects with girls and boys in juvenile detention
+  centers, and through diversion. These girls and boys are at-risk for entering the
+  sex trade, though many of them have already been exposed to it in some form. This
+  team facilitates workshops to help the youth gain awareness and build skills to
+  advocate for themselves and their peers against trafficking and gender-based violence.
+  We also provide one on one mentorship and chaplaincy for any youth who are interested.
 layout: services
 ---
 
