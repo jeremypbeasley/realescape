@@ -1,7 +1,6 @@
 ---
 title: playground
 date: 2018-03-30 23:41:00 Z
-published: false
 position: 12
 headline: A holistic, end-to-end approach against the sex trade.
 section1_body: "REST serves individuals of all ages and genders who have been trafficked
@@ -12,7 +11,13 @@ section1_body: "REST serves individuals of all ages and genders who have been tr
   of faith, and we don’t require participation in any faith activities in order to
   receive assistance. We believe everyone is worthy of love. Therefore, through all
   REST services, we simply want to communicate: \n\n> ### **“You deserve to have the
-  life you want. You deserve to be loved.\"**"
+  life you want. You deserve to be loved.\"**\n\n<!-- BEGIN: Constant Contact Email
+  List Form Button --><div align=\"center\"><a href=\"https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&amp;p=oi&amp;m=1128713191012&amp;sit=8rzcsxylb&amp;f=21fd9123-2729-4235-a30b-557dd4356d02\"
+  class=\"button\" style=\"background-color: rgb(240, 77, 37); border: 1px solid rgb(91,
+  91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow:
+  none; border-radius: 0px;\">Subscribe to Events Info</a><!-- BEGIN: Email Marketing
+  you can trust --><div id=\"ctct_button_footer\" align=\"center\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;margin-top:
+  10px;\">For Email Newsletters you can trust.</div></div>"
 section2_headline: Emergency Receiving Center
 section2a_title: '24/7 Hotline: 206-451-REST'
 section2a_body: 'The hotline is available for 24 hours a day, 7 days a week. Skilled
