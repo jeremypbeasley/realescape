@@ -26,6 +26,6 @@ In addition to inviting you to give on May 9, we’re inviting you to a virtual 
 
 If you have a question about the local sex trade and how REST is responding to it, ask it in the comments on our Facebook event page. 
 
-RSVP to our Facebook event so you get a reminder to tune in and give.
+RSVP to our [Facebook event](http://bit.ly/2HtAKjn) so you get a reminder to tune in and give.
 
 [Check out our GiveBIG page here.](http://bit.ly/2qtqP3z)
