@@ -6,7 +6,7 @@ image: "/uploads/ANOR18_Composite_RGB.jpg"
 location: Meydenbauer Center, Bellevue, WA
 location_maplink: https://www.google.com/maps/place/Meydenbauer+Center/@47.615916,-122.191856,15z/data=!4m2!3m1!1s0x0:0x36097b4fff1c20b9?sa=X&ved=0ahUKEwj3l5m93pTXAhXCKWMKHcV9ATYQ_BIIejAN
 excerpt: |
-  A Night of REST is our annual fundraising evening. Last year, over six hundred members of our community gathered to raise funds to help bring pathways to freedom, safety, and hope to victims and survivors of sexual exploitation—raising over $532,000!
+  Last year, over six hundred members of our community gathered to raise funds to help bring pathways to freedom, safety, and hope to victims and survivors of sexual exploitation—raising over $532,000!
 
   We hope you’ll join us again—or for the first time—this year!
 event_date: 2018-11-10 00:00:00 Z
