@@ -17,7 +17,7 @@ is_featured: true
 og_title: A Night of REST 2018
 ---
 
-Last year, over six hundred members of our community gathered to raise funds to help bring pathways to freedom, safety, and hope to victims and survivors of sexual exploitation—raising over $532,000! You can read more about last year’s event [here](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/) 
+Last year, over six hundred members of our community gathered to raise funds to help bring pathways to freedom, safety, and hope to victims and survivors of sexual exploitation—raising over $532,000! You can read more about last year’s event [here](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/).
 
 We hope you’ll join us again—or for the first time—this year!
 
@@ -25,6 +25,7 @@ If you’d like to receive event updates, such as when tickets go on sale, and t
 
 
 <!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&amp;p=oi&amp;m=1128713191012&amp;sit=8rzcsxylb&amp;f=21fd9123-2729-4235-a30b-557dd4356d02" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Get Event Updates</a><!-- BEGIN: Email Marketing you can trust --><div id="ctct_button_footer" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;margin-top: 10px;">For Email Newsletters you can trust.</div></div>
+
             
 If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, auction item donations, and corporate sponsors. If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com). 
 
