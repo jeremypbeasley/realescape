@@ -10,4 +10,6 @@ The Emergency Receiving Center (ERC) is a critical need for women in the communi
 
 The REST Emergency Receiving Center is a women-only environment. Therefore, only female applicants will be considered for this position. 
 
+[Click here for the job description.](/uploads/REST_ERC_Shelter-Support-Staff.pdf)
+
 To apply, email your resume and cover letter to [apply@iwantrest.com](mailto: apply@iwantrest.com).
