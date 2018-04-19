@@ -24,7 +24,7 @@ Whether you can give $10 or $10,000, your gift will make an impact for those in 
 
 In addition to inviting you to give on May 9, we’re inviting you to a virtual tour of our Emergency Receiving Center’s Drop-In Center, followed by a Q & A session. The live broadcast will begin at 9:30 a.m.
 
-If you have a question about the local sex trade and how REST is responding to it, ask it in the comments on our Facebook event page. 
+If you have a question about the local sex trade and how REST is responding to it, ask it in the comments on our [Facebook event page](http://bit.ly/2HtAKjn). 
 
 RSVP to our [Facebook event](http://bit.ly/2HtAKjn) so you get a reminder to tune in and give.
 
