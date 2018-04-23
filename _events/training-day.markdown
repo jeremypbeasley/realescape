@@ -3,15 +3,20 @@ title: REST Training Day
 date: 2018-01-21 17:40:00 Z
 position: 3
 image: "/uploads/RTD-1-26-14.jpg"
-location: 'Trinity West Seattle '
-location_maplink: https://www.google.com/maps/place/Trinity+West+Seattle/@47.5343136,-122.3791877,17z/data=!3m1!4b1!4m5!3m4!1s0x54904114d665238f:0x634f213790a46d7!8m2!3d47.53431!4d-122.376999
+location: Brooklake Church
+location_maplink: https://goo.gl/maps/fahPL93t5Mx
 excerpt: REST Training Day is designed for community members who seek to understand
   the basic dynamics of commercial sexual exploitation and sex trafficking and explore
   opportunities to volunteer with REST.
-event_date: 2018-04-21 09:00:00 Z
-post_date: 2018-01-22 00:00:00 Z
-exp_date: 2018-04-23 00:00:00 Z
+event_date: 2018-07-21 09:00:00 Z
+post_date: 2018-04-23 00:00:00 Z
+exp_date: 2018-07-22 00:00:00 Z
 is_featured: false
+og_title: REST Training Day
+og_desc: REST Training Day is designed for community members who seek to understand
+  the basic dynamics of commercial sexual exploitation and sex trafficking and explore
+  opportunities to volunteer with REST.
+og_photo: "/uploads/REST_Training-Day_072118.jpg"
 ---
 
 REST Training Day is designed for community members who seek to understand the basic dynamics of commercial sexual exploitation and sex trafficking and explore opportunities to volunteer with REST. The first half of the training consists of REST Training Day 101, and covers topics such as terms and definitions, risk factors, typical experiences in "the life," recruitment tactics, pornography and REST's response to the dynamics of sex trafficking. We'll take an hour break for lunch, then jump into REST Training Day 102, covering trauma and its effect on the brain, boundaries, and the principles and practice of Direct Service.
@@ -20,13 +25,13 @@ For those interested in volunteering in direct service roles (Prevention, Restor
 
 Lunch will be provided for those participants taking the full REST Training Day. 
 
-**When:** Saturday, April 21, 9:00 AM - 4:00 PM 
+**When:** Saturday, July 21, 9:00 AM - 4:00 PM 
 
-**Where:** Trinity West Seattle, 7551 35th Ave SW, Seattle, WA 98126
+**Where:** Brooklake Church, 629 S 356th St, Federal Way, WA 98003
 
 **Cost:** $49 for full REST Training Day (includes lunch); $24 for REST Training Day 101 only
 
-Registration is now closed. There will be a few spots available at the door. 
+We will update this page with a registration link soon. 
 
 We are a Christian organization that desires to offer respectful services to individuals of all faith backgrounds. Our faith shows most strongly in our values of providing unconditional care, focusing on relationships, recognizing strengths, minimizing barriers, and walking with our clients on their journey to freedom, rather than acting as “saviors,” or attempting to proselytize. We don’t require faith engagement at REST. Instead, we simply offer a healing environment where survivors are free to incorporate their own spiritual beliefs or exploration in whatever way is comfortable for them.
 
