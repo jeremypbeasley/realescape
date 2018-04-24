@@ -2,7 +2,7 @@
 title: A Night of REST 2018
 date: 2018-04-17 01:57:00 Z
 position: 1
-image: "/uploads/ANOR18_Composite_RGB.jpg"
+image: "/uploads/ANOR18_Female_sq.jpg"
 location: Meydenbauer Center, Bellevue, WA
 location_maplink: https://www.google.com/maps/place/Meydenbauer+Center/@47.615916,-122.191856,15z/data=!4m2!3m1!1s0x0:0x36097b4fff1c20b9?sa=X&ved=0ahUKEwj3l5m93pTXAhXCKWMKHcV9ATYQ_BIIejAN
 excerpt: |
@@ -17,7 +17,7 @@ og_title: A Night of REST 2018
 og_desc: A Night of REST is our annual fundraising evening. Last year, over six hundred
   members of our community gathered to raise funds to help bring pathways to freedom,
   safety, and hope to victims and survivors of sexual exploitation—raising over $532,000!
-og_photo: "/uploads/ANOR18_Composite_RGB.jpg"
+og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
 Last year, over six hundred members of our community gathered to raise funds to help bring pathways to freedom, safety, and hope to victims and survivors of sexual exploitation—raising over $532,000! You can read more about last year’s event [here](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/).
