@@ -14,6 +14,7 @@ Clothing sizes S–4X, that are gender-neutral:
 * 1 Sweatpants
 * 1 Pair of socks
 * 1 Pair of underwear
+
 Hygiene:
 * 1 Chapstick or lip balm
 * 1 Small package of hand wipes
