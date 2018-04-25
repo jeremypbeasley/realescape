@@ -6,14 +6,13 @@ layout: default
 
 The Resource Closet is part of our ERC Drop-In Center. It is a place where our clients can go to “shop” for items that they need. We need these items for all genders and body sizes, but we tend to run low on gender neutral items, and plus-sized women’s items. 
 
-* Clothing:
-* General items: pants/jeans, shirts, sweatshirts, yoga pants/leggings, sweatpants, dresses, etc.
-⋅⋅* Underwear
-⋅⋅* Socks
-⋅⋅* Basketball shorts
-⋅⋅* Sneakers (especially in large sizes)
-⋅⋅* Rainboots 
-⋅⋅* Raincoats (all sizes)
+* Clothing general items: pants/jeans, shirts, sweatshirts, yoga pants/leggings, sweatpants, dresses, etc.
+* Underwear
+* Socks
+* Basketball shorts
+* Sneakers (especially in large sizes)
+* Rainboots 
+* Raincoats (all sizes)
 * Makeup
 * Umbrellas
 * Lubricant
