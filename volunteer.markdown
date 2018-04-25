@@ -35,8 +35,8 @@ section2c_body: Prayer is foundational to our work. Prayer Partners are crucial 
   our team. Prayer partners are those who commit to pray regularly for girls, women,
   and men in the sex-trade on their own or with the prayer team that meets weekly
   to pray together.
-section2c_cta: Email Us
-section2c_cta_link: mailto:prayer@iwantrest.com
+section2c_cta: Subscribe to our Prayer Partners Newsletter
+section2c_cta_link: https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=694fdb9f-d8f7-430a-841b-aa124745cddd
 layout: volunteer
 ---
 
