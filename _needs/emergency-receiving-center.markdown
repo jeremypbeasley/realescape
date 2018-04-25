@@ -1,6 +1,7 @@
 ---
 title: Emergency Receiving Center
 date: 2018-04-25 21:28:00 Z
+layout: default
 ---
 
 The Drop-In Center at our Emergency Receiving Center (ERC) is a safe, welcoming environment for victims and survivors. Unfortunately, some of the original furniture from when we opened the ERC is wearing out. Here are some items we need to replace to maintain our comfortable and relaxing environment for our guests: 
