@@ -1,7 +1,7 @@
 ---
 title: Welcome Basket
 published: false
-position: 2
+position: 4
 layout: default
 ---
 

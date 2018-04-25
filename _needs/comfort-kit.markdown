@@ -1,6 +1,6 @@
 ---
 title: Comfort Kit
-position: 4
+position: 3
 layout: default
 ---
 
