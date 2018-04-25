@@ -1,6 +1,6 @@
 ---
 title: Gift Bag
-position: 3
+position: 4
 layout: default
 ---
 

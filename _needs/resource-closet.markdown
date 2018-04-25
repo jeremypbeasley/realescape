@@ -1,6 +1,7 @@
 ---
 title: Resource Closet
 date: 2018-04-25 21:35:00 Z
+position: 3
 layout: default
 ---
 
