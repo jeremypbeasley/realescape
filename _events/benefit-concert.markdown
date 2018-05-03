@@ -1,5 +1,5 @@
 ---
-title: Benefit Concert with Jessi Siren & Shay Carlucci
+title: REST Benefit Concert
 date: 2018-05-03 22:46:00 Z
 image: "/uploads/REST_Benefit-Concert_tn.jpg"
 location: Naked City Brewery & Taphouse
