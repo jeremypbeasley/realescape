@@ -27,9 +27,7 @@ On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Se
 
 **Thursday, June 7, 2018**
 
-**Doors open at 6:30 p.m.**
-
-**Music starts at 7:00 p.m.**
+**Doors open at 6:30 p.m. // Music starts at 7:00 p.m.**
 
 **Tickets are $15 in advance, $20 at the door**
 
