@@ -38,9 +38,11 @@ Guests must be 21+ to attend**
 **Artist bios:**
 
 **Jessie Siren**
+
 At the perceptive age of 9 years old, Seattle raised musician, Jessie Siren, found solace in her father's haunting, emotional music. Due to his inﬂuence, she began to delve further into the world of music and discovered pieces of herself within the guitar, piano, and harmonica. By the time she was 18, Jessie had ﬁnished her ﬁrst acoustic album under the name Jessie Houghton. She has played hundreds of shows with that material and toured around the United States as an acoustic act. In 2015 she beat out Macklemore in King 5’s Best of Western WA as Best Local Musician! In 2016 Jessie collaborated with producer Steven Trueba to release one of the years top underground EDM tracks, The Sway.
 
 Jessie is currently touring the greater Seattle area with her beatboxing husband, Matt Siren, and is looking forward to sharing her self-produced acoustic album in the Summer of 2018. Jessie’s song writing—inspired by her earthy roots in poetry, herbology, meditation, and yoga—will leave you in a 360-degree emotive experience.
 
 **Shay Carlucci**
+
 Maltby is an alternative rock band from Seattle, Washington. The band members—Shay Carlucci, Anthony Carlucci, Michal Rath, Nathan Gemmet, and Brian Mendez—use their shared childhood as the backdrop for their music, producing a sound as dense and intricate as their longstanding history. Their debut self titled EP released late 2017, with a full length due Fall 2018.
