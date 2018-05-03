@@ -12,8 +12,14 @@ post_date: 2018-05-03 00:00:00 Z
 exp_date: 2018-06-08 00:00:00 Z
 is_featured: true
 og_title: REST Benefit Concert
+og_desc: On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood,
+  Seattle for an evening of music featuring Jesse Siren, and Shay Carlucci from Maltby.
+  All proceeds will benefit victims and survivors of sex trafficking right here in
+  our community.
+og_photo: "/uploads/REST_Benefit-Concert_800.jpg"
 ---
 
+![REST presents a benefit concert with Jessi Siren & Shay Carlucci from Maltby](/uploads/REST_Benefit-Concert_800.jpg)
 On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Seattle for an evening of music featuring Jesse Siren, and Shay Carlucci from Maltby. All proceeds will benefit victims and survivors of sex trafficking right here in our community.
 
 Naked City has an excellent food menu, a great tap list, and a beautiful patio—so feel free to come early for dinner and drinks!
