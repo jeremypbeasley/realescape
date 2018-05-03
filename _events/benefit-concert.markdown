@@ -1,6 +1,7 @@
 ---
 title: Benefit Concert with Jessi Siren & Shay Carlucci
 date: 2018-05-03 22:46:00 Z
+image: "/uploads/REST_Benefit-Concert_tn.jpg"
 location: Naked City Brewery & Taphouse
 location_maplink: https://goo.gl/maps/BDkhVKwZYDw
 excerpt: On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood,
