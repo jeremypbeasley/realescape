@@ -33,7 +33,7 @@ On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Se
 
 **Guests must be 21+ to attend**
 
-**[Purchase tickets here](http://bit.ly/2JTeXiT)**
+**[Purchase tickets here](http://bit.ly/2HLBjWO)**
 
 ---
 
