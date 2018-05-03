@@ -26,15 +26,18 @@ On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Se
 [Naked City](https://drink.nakedcity.beer/) has an excellent food menu, a great tap list, and a beautiful patio—so feel free to come early for dinner and drinks!
 
 Thursday, June 7, 2018
-Doors open at 6:30 p.m. | Music starts at 7:00 p.m.
+
+Doors open at 6:30 p.m.| Music starts at 7:00 p.m.
+
 Tickets are $15 in advance, $20 at the door
+
 Guests must be 21+ to attend
 
 **[Purchase tickets here](http://bit.ly/2JTeXiT)**
 
 ---
 
-Artist bios:
+**Artist bios:**
 
 **Jessie Siren**
 At the perceptive age of 9 years old, Seattle raised musician, Jessie Siren, found solace in her father's haunting, emotional music. Due to his inﬂuence, she began to delve further into the world of music and discovered pieces of herself within the guitar, piano, and harmonica. By the time she was 18, Jessie had ﬁnished her ﬁrst acoustic album under the name Jessie Houghton. She has played hundreds of shows with that material and toured around the United States as an acoustic act. In 2015 she beat out Macklemore in King 5’s Best of Western WA as Best Local Musician! In 2016 Jessie collaborated with producer Steven Trueba to release one of the years top underground EDM tracks, The Sway.
