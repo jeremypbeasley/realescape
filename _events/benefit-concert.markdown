@@ -1,11 +1,11 @@
 ---
 title: REST Benefit Concert
 date: 2018-05-03 22:46:00 Z
-image: "/uploads/REST_Benefit-Concert_tn.jpg"
+image: "/uploads/REST_Benefit-Concert_tn-fixed.jpg"
 location: Naked City Brewery & Taphouse
 location_maplink: https://goo.gl/maps/BDkhVKwZYDw
 excerpt: On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood,
-  Seattle for an evening of music featuring Jesse Siren, and Shay Carlucci from Maltby.
+  Seattle for an evening of music featuring Jessie Siren, and Shay Carlucci from Maltby.
   All proceeds will benefit victims and survivors of sex trafficking right here in
   our community.
 event_date: 2018-06-07 18:30:00 Z
@@ -17,11 +17,11 @@ og_desc: On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Gree
   Seattle for an evening of music featuring Jesse Siren, and Shay Carlucci from Maltby.
   All proceeds will benefit victims and survivors of sex trafficking right here in
   our community.
-og_photo: "/uploads/REST_Benefit-Concert_800.jpg"
+og_photo: "/uploads/REST_Benefit-Concert_800-d36264.jpg"
 ---
 
-![REST presents a benefit concert with Jessi Siren & Shay Carlucci from Maltby](/uploads/REST_Benefit-Concert_800.jpg)
-On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Seattle for an evening of music featuring Jesse Siren, and Shay Carlucci from Maltby. All proceeds will benefit victims and survivors of sex trafficking right here in our community.
+![REST presents a benefit concert with Jessie Siren & Shay Carlucci from Maltby](/uploads/REST_Benefit-Concert_800-d36264.jpg)
+On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Seattle for an evening of music featuring Jessie Siren, and Shay Carlucci from Maltby. All proceeds will benefit victims and survivors of sex trafficking right here in our community.
 
 [Naked City](https://drink.nakedcity.beer/) has an excellent food menu, a great tap list, and a beautiful patio—so feel free to come early for dinner and drinks!
 
@@ -47,4 +47,4 @@ Jessie is currently touring the greater Seattle area with her beatboxing husband
 
 **Shay Carlucci**
 
-Maltby is an alternative rock band from Seattle, Washington. The band members—Shay Carlucci, Anthony Carlucci, Michal Rath, Nathan Gemmet, and Brian Mendez—use their shared childhood as the backdrop for their music, producing a sound as dense and intricate as their longstanding history. Their debut self titled EP released late 2017, with a full length due Fall 2018.
+Maltby is an alternative rock band from Seattle, Washington. The band members—Shay Carlucci, Anthony Carlucci, Michal Rath, Nathan Gemmet, and Brian Mendez—use their shared childhood as the backdrop for their music, producing a sound as dense and intricate as their longstanding history. Their debut self-titled EP released late 2017, with a full-length due Fall 2018.
