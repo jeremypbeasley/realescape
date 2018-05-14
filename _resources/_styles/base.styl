@@ -1,4 +1,4 @@
-// TODO: Refactor with clean, valid CSS, not stylus 
+// TODO: Refactor with clean, valid CSS, not stylus
 
 html
     min-height 100%
@@ -17,7 +17,7 @@ body
 
 body.state-menu-open
     overflow hidden
-    
+
 img
     max-width 100%
 
@@ -94,7 +94,7 @@ img
     color white
     .row
         padding 9vw
-    p 
+    p
         text-align left
     @media tablet
         padding-top 0px
@@ -164,3 +164,37 @@ img
 .linked
     transition color 100ms ease-out
     cursor pointer
+
+
+.site_prompt {
+  background: black;
+  padding: 2rem;
+  color: white;
+  z-index: 99;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.site_prompt p {
+  color: white;
+  max-width: 60em;
+  padding: 0;
+  margin: 0;
+}
+
+.site_prompt a,
+.site_prompt p a {
+  color: white;
+  padding-bottom: .3em;
+  border-bottom: .02em solid #ccc;
+}
+
+.site_prompt_close {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+}
