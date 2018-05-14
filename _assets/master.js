@@ -8255,6 +8255,12 @@ if (typeof define === 'function' && define.amd) {
 
 $(document).ready(function() {
 
+	// Site Prompt aka site_prompt
+
+	$('.site_prompt_close').click(function() {
+		$('.site_prompt').hide();
+	});
+
 	// "Back To Top" Button
 	$('.BackToTop').click(function() {
 		$('html, body').animate({
