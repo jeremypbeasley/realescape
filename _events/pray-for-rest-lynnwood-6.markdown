@@ -1,7 +1,7 @@
 ---
 title: Pray for REST, Lynnwood!
 date: 2018-04-23 00:45:00 Z
-position: 0
+position: 1
 image: "/uploads/REST_prayer-meeting_Lynnwood.jpg "
 location: Trinity Lutheran Church
 location_maplink: https://www.google.com/maps/place/Trinity+Lutheran+Church/@47.8214856,-122.3201787,17z/data=!3m1!4b1!4m5!3m4!1s0x54900531491393a1:0x7386201b23a64eb1!8m2!3d47.821482!4d-122.31799
