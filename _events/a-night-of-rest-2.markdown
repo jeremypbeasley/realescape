@@ -31,7 +31,7 @@ If you’d like to receive event updates, such as when tickets go on sale, and t
 <!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&amp;p=oi&amp;m=1128713191012&amp;sit=8rzcsxylb&amp;f=21fd9123-2729-4235-a30b-557dd4356d02" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Get Event Updates</a></div>
 <br>
             
-If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, [auction item donations](https://form.jotform.com/81064688497169), and [corporate sponsors](/uploads/ANOR%2018_Sponsor%20Benefits.pdf). If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com). 
+If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, [auction item donations](https://form.jotform.com/81064688497169), [table captains](https://wwwapps.ups.com/WebTracking/processInputRequest?TypeOfInquiryNumber=T&loc=en_US&InquiryNumber1=1Z49F4580343342236&utm_source=bm23&utm_medium=email&utm_term=All+Dynamic+Links&utm_content=05/09/2018&utm_campaign=Transactional-Shipping+Confirmation&_bta_tid=24956652595476426268206009995865978548399362694343428978401624262927713335799102124804978690403035808061&_bta_c=es0rhehzgqan32bpps3v8mkz24u8g), and [corporate sponsors](/uploads/ANOR%2018_Sponsor%20Benefits.pdf). If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com). 
 
 Check out some photos from last year's event:
 
