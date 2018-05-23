@@ -8,6 +8,7 @@ og_desc: Since the Backpage.com shutdown, the number of people reaching out to R
   the sex trade have become more difficult and dangerous because of the unintended
   consequences of the shutdown of Backpage and other legislative changes.
 og_img: "/uploads/REST_blog_When-Backpage-Disappears_meta.jpg"
+layout: blog
 ---
 
 ![When Backpage Disappears](/uploads/REST_blog_When-Backpage-Disappears.jpg)
