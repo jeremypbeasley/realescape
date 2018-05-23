@@ -21,7 +21,8 @@ In April of this year, the “business model” of the sex trade went into uphea
 
 Here is what REST has seen and heard from the victims and survivors, as well as our own advocates, and local law enforcement:
 
-When one site goes down, others pop up.
+##When one site goes down, others pop up.
+
 One of the first things we saw when Backpage went down was other websites pop up to fill the void—most of the new sites have moved to other countries, bypassing the new legislation in the US. According to local law enforcement, whereas prior to the shutdown a woman would’ve been listed just on Backpage, they are now being trafficked on three or four different sites—all run out of Europe. In the Seattle region, on any given night, there are over 100 different sites, ever in flux, where people are being sold for sex. In the past, REST’s [text outreach](http://bbc.in/2znsMBh) has been focused on contacting numbers from Backpage, but we are now focusing on other sites—and still reaching out to potential victims of sex trafficking.
 
 With less (easy) access to sites, it’s also back to the streets.
