@@ -25,7 +25,7 @@ Here is what REST has seen and heard from the victims and survivors, as well as 
 
 One of the first things we saw when Backpage went down was other websites pop up to fill the void—most of the new sites have moved to other countries, bypassing the new legislation in the US. According to local law enforcement, whereas prior to the shutdown a woman would’ve been listed just on Backpage, they are now being trafficked on three or four different sites—all run out of Europe. In the Seattle region, on any given night, there are over 100 different sites, ever in flux, where people are being sold for sex. In the past, REST’s [text outreach](http://bbc.in/2znsMBh) has been focused on contacting numbers from Backpage, but we are now focusing on other sites—and still reaching out to potential victims of sex trafficking.
 
-With less (easy) access to sites, it’s also back to the streets.
+### With less (easy) access to sites, it’s also back to the streets.
 Outreach Coordinator Jackie, witnessed the changes on “the track” on a Friday night about a month after Backpage was shut down: “I saw 20 or so girls on the track, not subtle at all. I gave out five outreach bags, and those I spoke with were very receptive and thankful. There were pimps out on the track both watching their girls and recruiting. In the recent years, there has not been much action on the streets, but we were able to see the effects of the Backpage shutdown this evening.” 
 
 There is increased risk and instability for exploited individuals. 
@@ -35,7 +35,7 @@ The greatest burden of the shutdown, however, has fallen on the most vulnerable 
 
 Speaking of pimps, it is the traffickers who are attempting to capitalize on these increased vulnerabilities. Beyond forcing their victims to go back to the street or take extra risks, we are also hearing about an increase in recruiting efforts. For younger victims who’ve only ever known Backpage.com as a means to connect with buyers, pimps are stepping in and exploiting the upheaval in the marketplace and taking control of them in the guise of offering protection and increased access to buyers. 
 
-Even more sexually exploited individuals are saying “I’ve had enough!” 
+### Even more sexually exploited individuals are saying “I’ve had enough!” 
 Since Backpage was shut down the number of new individuals seeking help from REST went from 29 in March, to 61 in April—more than doubling our monthly average. Likewise, the number of callers looking for shelter has also more than doubled over the same time period. Longtime clients of REST have reached out saying they want to get back on track with pursuing employment and stable housing, noting that the ramifications of the Backpage shutdown are motivating them to get out of the sex trade. While we are disheartened by the hardship that these strong, amazing, beautiful individuals are facing, we are encouraged that they are reaching out for help and we will do whatever we can to help each one access what they need to exit the sex trade and reach their goals. 
 
 It goes without saying that a significant increase in demand for services has a financial cost. Please consider helping us meet these increased needs by [donating here](http://bit.ly/GiveREST). Your gifts will help REST ensure that our programs for emergency shelter, text outreach, 24-hour hotline, community advocacy and residential housing remain accessible.
