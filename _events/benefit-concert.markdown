@@ -30,11 +30,9 @@ On Thursday, June 7, join REST at Naked City Brewery & Taphouse in Greenwood, Se
 
 **Doors open at 6:30 p.m. // Music starts at 7:00 p.m.**
 
-**Tickets are $15 in advance, $20 at the door**
+**Tickets will be available for $20 at the door**
 
 **Guests must be 21+ to attend**
-
-**Tickets will be available at the door for $20.**
 
 ---
 
@@ -48,4 +46,4 @@ Jessie is currently touring the greater Seattle area with her beatboxing husband
 
 **Shay Carlucci**
 
-Maltby is an alternative rock band from Seattle, Washington. The band members—Shay Carlucci, Anthony Carlucci, Michal Rath, Nathan Gemmet, and Brian Mendez—use their shared childhood as the backdrop for their music, producing a sound as dense and intricate as their longstanding history. Their debut self-titled EP released late 2017, with a full-length due Fall 2018.
+Maltby is an alternative rock band from Seattle, Washington. The band members—Shay Carlucci, Anthony Carlucci, Michal Rath, Nathan Gemmet, and Brian Mendez—use their shared childhood as the backdrop for their music, producing a sound as dense and intricate as their longstanding history. Their debut self-titled EP released in late 2017, with a full-length due Fall 2018.
