@@ -20,7 +20,7 @@ og_desc: A Night of REST is our annual fundraising evening. Last year, over six 
 og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
-![Save The Date for A Night of REST](/uploads/ANOR18_Save-the-Date_email.jpg)
+![Save The Date for A Night of REST](/uploads/ANOR18_6th-annual-basic-web.jpg)
 Last year, over six hundred members of our community gathered to raise funds to help bring pathways to freedom, safety, and hope to victims and survivors of sexual exploitation—raising over $532,000! You can read more about last year’s event [here](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/).
 
 We hope you’ll join us again—or for the first time—this year!
