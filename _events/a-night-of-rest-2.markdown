@@ -43,7 +43,6 @@ When: Saturday, November 10, 2018
  
 
 <!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="http://bit.ly/ANORtix" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Purchase Tickets</a></div>
-<br>
 
 You can stay up to date with REST Events by subscribing to our [Events Newsletter](https://visitor.r20.constantcontact.com/manage/optin?v=001_5zlyb4bc8LXiAXbJDO6MwMf3S-JG9MRwVDG338L9gRbJq2WVZlIZ9gRpf-jYBw4Fp4JTIOPUAPVzM6vLu9lXloTOlf1uoovNmK-uVfJyUq9s96Q9iv8xR5s_2ssohL0wvLs48THob-wReEn7YL2BEik4Nfdmc4kvEiJwIGB50e43E9i4HptKXCLDpHIaa5Q), and RSVPing to [A Night of REST on Facebook](http://bit.ly/2rIikkY). 
             
