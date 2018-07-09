@@ -1,6 +1,13 @@
 ---
 title: A Night of REST 2018
 date: 2018-04-17 01:57:00 Z
+tags:
+- Seattle
+- Events
+- Fundraiser
+- Gala
+- Auction
+- REST
 position: 2
 image: "/uploads/ANOR18_Female_sq.jpg"
 location: Meydenbauer Center, Bellevue, WA
