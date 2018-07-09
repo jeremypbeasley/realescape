@@ -46,6 +46,8 @@ When: Saturday, November 10, 2018
 
 
 You can stay up to date with REST Events by subscribing to our [Events Newsletter](https://visitor.r20.constantcontact.com/manage/optin?v=001_5zlyb4bc8LXiAXbJDO6MwMf3S-JG9MRwVDG338L9gRbJq2WVZlIZ9gRpf-jYBw4Fp4JTIOPUAPVzM6vLu9lXloTOlf1uoovNmK-uVfJyUq9s96Q9iv8xR5s_2ssohL0wvLs48THob-wReEn7YL2BEik4Nfdmc4kvEiJwIGB50e43E9i4HptKXCLDpHIaa5Q), and RSVPing to [A Night of REST on Facebook](http://bit.ly/2rIikkY). 
+<p>
+<p>
             
 If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, [auction item donations](https://form.jotform.com/81064688497169), [table captains](/uploads/ANOR18_Table-Captains.pdf), and [corporate sponsors](/uploads/ANOR%2018_Sponsor%20Benefits.pdf). If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com). 
 
