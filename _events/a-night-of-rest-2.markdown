@@ -21,6 +21,7 @@ og_desc: 'We invite you to join us for our 6th annual A Night of REST gala and a
 og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
+![A Night of REST 2018](/uploads/ANOR18_6th-annual-basic-web.jpg)
 We invite you to join us for our 6th annual A Night of REST gala and auction. Prepare for an unforgettable evening as we celebrate lives changed and raise support for the hundreds of victims and survivors that still need to be reached with the message “You deserve to be loved.” 
 
 Throughout the evening, you’ll have multiple opportunities to support the work that REST does—offering pathways of freedom, safety, and hope to those who are being exploited in our community. 
