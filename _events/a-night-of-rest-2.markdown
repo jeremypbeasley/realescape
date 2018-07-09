@@ -39,7 +39,7 @@ We hope you’ll join us this year at A Night of REST.
 When: Saturday, November 10, 2018
 <p>5:30 p.m. Silent Auction & Cocktails
 <p>7:00 p.m. Dinner, Program, Live Auction
-<p>Where: Meydenbauer Center, Bellevue, WA **
+<p>Where: Meydenbauer Center, Bellevue, WA
  
 
 <!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="http://bit.ly/ANORtix" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Purchase Tickets</a></div>
