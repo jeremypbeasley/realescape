@@ -9,4 +9,4 @@ provide stability and safety for each of the residents at the REST House. This i
 
 [Click here for the job description.](https://iwantrest.com/uploads/REST_House-Weekend-Relief.pdf)
 
-To apply, email your resume and cover letter to (apply@iwantrest.com)[mailto:apply@iwantrest.com).
+To apply, email your resume and cover letter to [apply@iwantrest.com](mailto:apply@iwantrest.com).
