@@ -36,6 +36,6 @@ We are proud to host our 3rd annual fundraising event in the Federal Way communi
 
 Relax on the outdoor patio, enjoy live music by Calissa Knox, and indulge in delicious sips and bites from [Abbe Winery](http://www.abbewines.com/)—all while supporting a great cause! Your ticket includes two glasses of sulfite-free, red or white wine and a delicious assortment of appetizers. Bring your friends and raise a glass to support victims & survivors of sex trafficking in our community!
 
-* Guests must be 21+ to attend. *
+_Guests must be 21+ to attend._
 
 You can purchase tickets through (evite)[https://www.eventbrite.com/e/a-taste-of-freedom-a-benefit-for-victims-survivors-of-sex-trafficking-tickets-48049044987#tickets] or through our Facebook Event page.
