@@ -38,4 +38,4 @@ Relax on the outdoor patio, enjoy live music by Calissa Knox, and indulge in del
 
 _Guests must be 21+ to attend._
 
-You can purchase tickets through (evite)[https://www.eventbrite.com/e/a-taste-of-freedom-a-benefit-for-victims-survivors-of-sex-trafficking-tickets-48049044987#tickets] or through our Facebook Event page.
+You can purchase tickets on [Facebook](https://www.facebook.com/events/1037259203109016/).
