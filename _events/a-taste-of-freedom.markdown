@@ -38,4 +38,4 @@ Relax on the outdoor patio, enjoy live music by Calissa Knox, and indulge in del
 
 _Guests must be 21+ to attend._
 
-You can purchase tickets on [Facebook](https://www.facebook.com/events/1037259203109016/).
+<div align="center"><a href="https://www.facebook.com/events/1037259203109016/" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Purchase Tickets on Facebook</a></div>
