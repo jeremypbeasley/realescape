@@ -38,11 +38,12 @@ We hope you’ll join us this year at A Night of REST.
 ### Event Details:
 Saturday, November 10, 2018
 
+Meydenbauer Center, Bellevue, WA
+
 5:30 p.m. Silent Auction & Cocktails
 
 7:00 p.m. Dinner, Program, Live Auction
 
-Meydenbauer Center, Bellevue, WA
 
 _Early Bird tickets are now available for $125 person / $1,250 table for ten._
 
