@@ -8,11 +8,13 @@ tags:
 - Homelessness
 - SeaHomeless
 author: kim
+og:url: https://iwantrest.com/blog/homelessness-and-sex-trafficking/
+og:type: article
 og:title: Homelessness & Sex Trafficking
-og:desc: 'In short, amidst King County’s homelessness crisis, it is extremely challenging
-  for sexually exploited individuals to find safe and stable housing. But it is not
-  impossible. '
-og:img: "/uploads/REST_blog_homelessness-and-sex-trafficking_1200.jpg"
+og:image: "/uploads/REST_blog_homelessness-and-sex-trafficking_1200.jpg"
+og:description: 'In short, amidst King County’s homelessness crisis, it is extremely
+  challenging for sexually exploited individuals to find safe and stable housing.
+  But it is not impossible. '
 layout: blog
 ---
 
