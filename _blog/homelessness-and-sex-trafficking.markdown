@@ -34,4 +34,4 @@ Of those 2,200 local beds, sixteen of those beds are dedicated for individuals i
 
 The housing situation in King County seems dire, but it is not without hope. We are encouraged that local media is taking the time to take a more in-depth look at homelessness in our community, and by how many community organizations are working together for a solution—and, for victims and survivors of sex trafficking, we are honored to be part of the solution. 
 
-*“I am so happy to be able to now have a more permanent place to stay. Now I can start working on my other goals that are important too. Thank you for helping me get this housing, I cannot tell you how much it is appreciated." - A REST Client*
+>“I am so happy to be able to now have a more permanent place to stay. Now I can start working on my other goals that are important too. Thank you for helping me get this housing, I cannot tell you how much it is appreciated." - A REST Client
