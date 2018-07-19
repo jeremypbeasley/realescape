@@ -30,7 +30,7 @@ In short, amidst King County’s homelessness crisis, it is extremely challengin
 In the last fiscal year (FY18), we had the privilege of celebrating with 134 different individuals this year as they’ve found housing with the help and support of a REST Community Advocate, and often in collaboration with other community organizations. 
 
 Of those 2,200 local beds, sixteen of those beds are dedicated for individuals in the sex trade. Thirteen of them are at REST—seven at our emergency shelter, and six
- in our Restorative Housing Program. Between the two locations, we were able to provide over 4,200 nights of rest in FY18. In the same timeframe, our shelter operated at 93% capacity. 
+in our Restorative Housing Program. Between the two locations, we were able to provide over 4,200 nights of rest in FY18. In the same timeframe, our shelter operated at 93% capacity. 
 
 The housing situation in King County seems dire, but it is not without hope. We are encouraged that local media is taking the time to take a more in-depth look at homelessness in our community, and by how many community organizations are working together for a solution—and, for victims and survivors of sex trafficking, we are honored to be part of the solution. 
 
