@@ -8,11 +8,11 @@ tags:
 - Homelessness
 - SeaHomeless
 author: kim
-og_title: Homelessness & Sex Trafficking
-og_desc: 'In short, amidst King County’s homelessness crisis, it is extremely challenging
+og:title: Homelessness & Sex Trafficking
+og:desc: 'In short, amidst King County’s homelessness crisis, it is extremely challenging
   for sexually exploited individuals to find safe and stable housing. But it is not
   impossible. '
-og_img: "/uploads/REST_blog_homelessness-and-sex-trafficking_1200.jpg"
+og:img: "/uploads/REST_blog_homelessness-and-sex-trafficking_1200.jpg"
 layout: blog
 ---
 
