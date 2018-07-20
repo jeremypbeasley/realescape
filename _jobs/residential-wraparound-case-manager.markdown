@@ -7,7 +7,7 @@ tags:
 - Jobs
 - REST
 - Case Management
-position: 4
+position: 3
 jobdesc_file: "/uploads/REST_Residential-Wraparound-Case-Manager.pdf"
 ---
 

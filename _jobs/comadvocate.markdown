@@ -2,7 +2,7 @@
 title: Community Advocate
 date: 2017-11-22 05:51:00 Z
 published: false
-position: 0
+position: 4
 jobdesc_file: "/uploads/REST-jobs_Community-Advocate_males.pdf"
 layout: jobs
 ---
