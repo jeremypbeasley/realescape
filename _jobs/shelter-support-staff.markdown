@@ -2,7 +2,7 @@
 title: Shelter Support Staff
 date: 2018-04-19 11:00:00 Z
 published: false
-position: 2
+position: 6
 jobdesc_file: "/uploads/REST_ERC_Shelter-Support-Staff.pdf"
 ---
 
