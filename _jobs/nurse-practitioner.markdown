@@ -1,6 +1,7 @@
 ---
 title: Nurse Practitioner
 date: 2018-06-20 21:07:00 Z
+position: 6
 jobdesc_file: "/uploads/REST_Integrated-Health_PHPDA-jobs.pdf"
 og_title: Nurse Practitioner
 og_desc: Through a grant by PHPDA (Pacific Hospital Preservation and Development Authority),
