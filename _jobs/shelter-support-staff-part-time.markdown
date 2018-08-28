@@ -9,7 +9,7 @@ categories:
 tags:
 - REST
 - Jobs
-position: 1
+position: 7
 jobdesc_file: "/uploads/REST_ERC-Shelter-Support-Staff_Part-Time.pdf"
 ---
 

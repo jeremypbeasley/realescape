@@ -1,7 +1,7 @@
 ---
 title: Volunteer Coordinator
 date: 2018-08-10 15:31:00 Z
-position: 2
+position: 3
 jobdesc_file: "/uploads/REST_Volunteer-Coordinator%20.pdf"
 ---
 
