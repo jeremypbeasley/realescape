@@ -28,7 +28,7 @@ og_desc: 'We invite you to join us for our 6th annual A Night of REST gala and a
 og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
-![A Night of REST 2018](/uploads/ANOR18_6th-annual-basic-web.jpg)
+![A Night of REST 2018](/uploads/ANOR18_Basic-web-sponsor_800.jpg)
 We invite you to join us for our 6th annual A Night of REST gala and auction. Prepare for an unforgettable evening as we celebrate lives changed and raise support for the hundreds of victims and survivors that still need to be reached with the message “You deserve to be loved.”
 
 Throughout the evening, you’ll have multiple opportunities to support the work that REST does—offering pathways of freedom, safety, and hope to those who are being exploited in our community.
@@ -56,5 +56,8 @@ Guests must be 21+.
 You can stay up to date with REST Events by subscribing to our [Events Newsletter](https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=21fd9123-2729-4235-a30b-557dd4356d02), and RSVPing to [A Night of REST on Facebook](http://bit.ly/2rIikkY).
 
 If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, [auction item donations](https://form.jotform.com/81064688497169), [table captains](/uploads/ANOR18_Table-Captains.pdf), and [corporate sponsors](/uploads/ANOR%2018_Sponsor%20Benefits.pdf). If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com).
+
+A Night of REST 2018 is sponsored by:
+[![Anchor Point](/uploads/Anchor-Point_72_sq.png =200x200)](https://www.anchorpointfoundation.org/)![Purposeful](/uploads/Purposeful-72-sq.png =200x200)[![Frey Buck](/uploads/Frey-Buck_72_sq.png)](http://www.freybuck.com/)
 
 [Check out highlights from Night of REST 2017](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/)
