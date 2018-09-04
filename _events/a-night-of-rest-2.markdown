@@ -58,6 +58,6 @@ You can stay up to date with REST Events by subscribing to our [Events Newslette
 If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, [auction item donations](https://form.jotform.com/81064688497169), [table captains](/uploads/ANOR18_Table-Captains.pdf), and [corporate sponsors](/uploads/ANOR%2018_Sponsor%20Benefits.pdf). If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com).
 
 A Night of REST 2018 is sponsored by:
-[![Anchor Point](/uploads/Anchor-Point_72_sq-200.png)](https://www.anchorpointfoundation.org/) ![Purposeful](/uploads/Purposeful_72_sq_200.png) [![Frey Buck](/uploads/Frey-Buck_72_sq-200.png](http://www.freybuck.com/)
+[![Anchor Point](/uploads/Anchor-Point_72_sq-200.png)](https://www.anchorpointfoundation.org/) ![Purposeful](/uploads/Purposeful_72_sq_200.png) [![Frey Buck](/uploads/Frey-Buck_72_sq-200.png)(http://www.freybuck.com/)
 
 [Check out highlights from Night of REST 2017](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/)
