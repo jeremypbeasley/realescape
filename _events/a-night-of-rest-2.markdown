@@ -51,6 +51,8 @@ Guests must be 21+.
 
 <div align="center"><a href="http://bit.ly/ANORtix" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Purchase Tickets</a></div>
 
+***
+
 A Night of REST 2018 is presented by [Anchor Point Foundation](https://www.anchorpointfoundation.org/) and sponsored by Purposeful, [American Railworks](https://www.railworks.net/), [Frey Buck P.S.](http://www.freybuck.com/), and [SweeneyConrad](https://www.sweeneyconrad.com/). 
 
 ![A Night of REST 2018 Sponsors](/uploads/REST_ANOR_Sponsors-Graphic.jpg)
