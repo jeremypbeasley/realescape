@@ -9,9 +9,9 @@ excerpt: Join us the 1st Sunday of each month as we gather and walk along the in
   of Hwy 99 & 196th St. SW to hold a vigil & pray for those experiencing the devastating
   effects of commercial sexual exploitation and trafficking, as well as the work REST
   is doing to combat it.
-event_date: 2018-09-02 12:45:00 Z
+event_date: 2018-10-07 12:45:00 Z
 post_date: 2018-04-23 00:00:00 Z
-exp_date: 2018-09-03 00:00:00 Z
+exp_date: 2018-10-08 00:00:00 Z
 is_featured: false
 og_title: Pray for REST, Lynnwood!
 og_desc: Join us the 1st Sunday of each month as we gather to hold a vigil & pray
@@ -23,6 +23,6 @@ og_photo: "/uploads/REST_prayer-meeting_Lynnwood.jpg"
 Join us the 1st Sunday of each month as we gather and walk along the intersection of Hwy 99 & 196th St. SW to hold a vigil & pray for those experiencing the devastating effects of commercial sexual exploitation and trafficking, as well as the work REST is doing to combat it.
 
 When: 1st Sunday of each month, 12:45pm
-Next meeting: September 2, 2018
+Next meeting: October 7, 2018
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
