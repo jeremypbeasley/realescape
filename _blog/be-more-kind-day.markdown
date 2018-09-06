@@ -15,7 +15,7 @@ layout: blog
 
 Today, by mayoral proclamation, is [Be More Kind Day](https://www.theworldisfun.org/be-more-kind) in Seattle—and we are excited to be celebrating kindness along with local businesses, organizations, and individuals.
 
-A heartbreaking truth about kindness that we must face at REST is this: individuals who have experienced sexual exploitation have been on the receiving end of a great deal of unkindness—from many different people—throughout their lives. So as we thought about how REST could participate in \[#BeMoreKindDay\](https://twitter.com/search?q=%23BeMoreKindDay&src=typd\), we decided to look to the survivors we work with.
+A heartbreaking truth about kindness that we must face at REST is this: individuals who have experienced sexual exploitation have been on the receiving end of a great deal of unkindness—from many different people—throughout their lives. So as we thought about how REST could participate in [#BeMoreKindDay\](https://twitter.com/search?q=%23BeMoreKindDay&src=typd\), we decided to look to the survivors we work with.
 
 Last week, we put up a poster in our Drop-In Center, a place where men and women who have experienced the sex trade come for community, a meal, a safe place to rest, and more. The poster asked the question: What does kindness mean to you?
 
@@ -51,7 +51,7 @@ Check out the responses from the survivors who visited Drop-In last week:
 
 “Remember, treat your neighbor as you would like to be treated. You NEVER know what anyone is going through.”
 
-As you go about your life this #BeMoreKindDay, we invite you to consider the words of these survivors—and treat everyone you encounter with dignity, respect, and the love that every person deserves.
+As you go about your life this [#BeMoreKindDay\](https://twitter.com/search?q=%23BeMoreKindDay&src=typd\), we invite you to consider the words of these survivors—and treat everyone you encounter with dignity, respect, and the love that every person deserves.
 
 Be More Kind to others and yourself today.
 
