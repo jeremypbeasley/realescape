@@ -50,7 +50,7 @@ Check out the responses from the survivors who visited Drop-In last week:
 
 “Remember, treat your neighbor as you would like to be treated. You NEVER know what anyone is going through.”
 
-As you go about your life this [#BeMoreKindDay\](https://twitter.com/search?q=%23BeMoreKindDay&src=typd\), we invite you to consider the words of these survivors—and treat everyone you encounter with dignity, respect, and the love that every person deserves.
+As you go about your life this [#BeMoreKindDay](https://twitter.com/search?q=%23BeMoreKindDay&src=typd\), we invite you to consider the words of these survivors—and treat everyone you encounter with dignity, respect, and the love that every person deserves.
 
 Be More Kind to others and yourself today.
 
