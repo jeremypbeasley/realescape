@@ -8,7 +8,7 @@ location_maplink: https://www.google.com/maps/place/Calvary+Christian+Assembly/@
 excerpt: Join us the 2nd Wednesday of each month as we pray for those experiencing
   the devastating effects of commercial sexual exploitation and trafficking and the
   work REST is doing to combat it.
-event_date: 2018-09-12 08:00:00 Z
+event_date: 2018-10-10 08:00:00 Z
 post_date: 2018-04-23 00:00:00 Z
 exp_date: 2018-09-13 00:00:00 Z
 is_featured: false
@@ -24,6 +24,6 @@ Join us the 2nd Wednesday of each month as we pray for those experiencing the de
 Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Seattle, WA 98115
 
 When: 2nd Wednesday of each month, 8-9am
-Next meeting: September 12, 2018
+Next meeting: October 10, 2018
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
