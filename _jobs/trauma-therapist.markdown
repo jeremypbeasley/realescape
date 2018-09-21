@@ -1,7 +1,7 @@
 ---
 title: Trauma Therapist
 date: 2018-06-20 21:14:00 Z
-position: 5
+position: 4
 jobdesc_file: "/uploads/REST_Integrated-Health_PHPDA-jobs.pdf"
 og_title: Trauma Therapist
 og_desc: Through a grant by PHPDA (Pacific Hospital Preservation and Development Authority),
