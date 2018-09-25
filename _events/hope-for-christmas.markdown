@@ -21,12 +21,11 @@ og_photo: "/uploads/REST_Hope-For-Christmas_800.jpg"
 Join REST, [Citizens](https://wearecitizens.net/), [Ghost Ship](http://www.ghostshipmusic.com/) and [Handsome & Gretyl](http://www.handsomeandgretyl.com/) for an evening of Christmas cheer bringing freedom, safety, and hope to victims of sex trafficking in our community. 
 
 ### Show details: 
-*Who:* Citizens, Ghost Ship, Handsome & Gretyl
+**Who:** Citizens, Ghost Ship, Handsome & Gretyl
 
-*Where:* [Chop Suey]
-(https://goo.gl/maps/2SUJKWmZrjH2)
+**Where:** [Chop Suey(https://goo.gl/maps/2SUJKWmZrjH2)
 
-*When:* December 6, 2018, 7:30 p.m. 
+**When:** December 6, 2018, 7:30 p.m. 
 
 _This event is 21+_
 
