@@ -2,7 +2,7 @@
 title: Raise 'em for REST
 date: 2018-01-10 23:55:00 Z
 published: false
-position: 5
+position: 6
 image: "/uploads/REFR-18_thumbnail.jpg"
 location: Tune Kitchen
 location_maplink: https://www.google.com/maps/place/Tune+Kitchen/@47.612279,-122.3478418,17z/data=!4m12!1m6!3m5!1s0x5490154d0a55d08d:0x3ddaaf616aa2b4d6!2sTune+Kitchen!8m2!3d47.6122754!4d-122.3456532!3m4!1s0x5490154d0a55d08d:0x3ddaaf616aa2b4d6!8m2!3d47.6122754!4d-122.3456532

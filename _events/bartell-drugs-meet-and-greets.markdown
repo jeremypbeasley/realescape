@@ -9,7 +9,7 @@ tags:
 - Chevelle
 - Bartell
 - Seahawks
-position: 9
+position: 10
 image: "/uploads/REST_Pacific-Classics_Lady-12.jpg"
 location: Four Different Dates & Locations
 excerpt: 'Join us, Lady 12, Pacific Classics, and former Seahawk Joe Tafoya, at Bartell

@@ -2,7 +2,7 @@
 title: REST Benefit Concert
 date: 2018-05-03 22:46:00 Z
 published: false
-position: 6
+position: 7
 image: "/uploads/REST_Benefit-Concert_tn-fixed.jpg"
 location: Naked City Brewery & Taphouse
 location_maplink: https://goo.gl/maps/BDkhVKwZYDw
