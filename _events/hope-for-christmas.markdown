@@ -23,7 +23,7 @@ Join REST, [Citizens](https://wearecitizens.net/), [Ghost Ship](http://www.ghost
 ### Show details: 
 **Who:** Citizens, Ghost Ship, Handsome & Gretyl
 
-**Where:** [Chop Suey(https://goo.gl/maps/2SUJKWmZrjH2)
+**Where:** [Chop Suey](https://goo.gl/maps/2SUJKWmZrjH2)
 
 **When:** December 6, 2018, 7:30 p.m. 
 
