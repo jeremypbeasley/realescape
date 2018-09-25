@@ -27,7 +27,7 @@ Join REST, [Citizens](https://wearecitizens.net/), [Ghost Ship](http://www.ghost
 
 **When:** December 6, 2018, 7:30 p.m. 
 
-** Cost:** $20
+**Cost:** $20
 
 _This event is 21+_
 
