@@ -24,7 +24,9 @@ Join us the 2nd Wednesday of each month as we pray for those experiencing the de
 Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Seattle, WA 98115
 
 When: 2nd Wednesday of each month, 8:00-9:00 a.m.
+
 _For October only, we will meet on the first Wednesday at the same time. We will resume second Wednesdays in November_
+
 Next meeting: October 3, 2018
 
 
