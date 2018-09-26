@@ -25,6 +25,6 @@ Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Sea
 
 When: 2nd Wednesday of each month, 8-9am
 Next meeting: October 3, 2018
-* For October only, we will meet on the first Wednesday at the same time. We will resume second Wednesdays in November * 
+_For October only, we will meet on the first Wednesday at the same time. We will resume second Wednesdays in November_
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
