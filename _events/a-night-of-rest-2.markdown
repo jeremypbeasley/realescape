@@ -53,7 +53,7 @@ Guests must be 21+.
 
 ***
 
-A Night of REST 2018 is presented by [Anchor Point Foundation](https://www.anchorpointfoundation.org/) and sponsored by [Purposeful](https://www.purposeful.com/), [American Railworks](https://www.railworks.net/), [Belief Agency](https://beliefagency.com/), [Frey Buck P.S.](http://www.freybuck.com/), [Passport Unlimited] (https://www.passportunlimited.com/)and [SweeneyConrad](https://www.sweeneyconrad.com/). 
+A Night of REST 2018 is presented by [Anchor Point Foundation](https://www.anchorpointfoundation.org/) and sponsored by [Purposeful](https://www.purposeful.com/), [American Railworks](https://www.railworks.net/), [Belief Agency](https://beliefagency.com/), [Frey Buck P.S.](http://www.freybuck.com/), [Passport Unlimited] (https://www.passportunlimited.com/) and [SweeneyConrad](https://www.sweeneyconrad.com/). 
 
 ![A Night of REST 2018 Sponsors](/uploads/REST_ANOR_Sponsors-Graphic_v2.jpg)
 
