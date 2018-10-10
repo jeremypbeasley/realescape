@@ -44,12 +44,11 @@ Meydenbauer Center, Bellevue, WA
 
 7:00 p.m. Dinner, Program, Live Auction
 
-
-_Early Bird tickets are now available for $125 person / $1,250 table for ten._
-
 Guests must be 21+.
 
-<div align="center"><a href="http://bit.ly/ANORtix" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Purchase Tickets</a></div>
+### Our 6th annual A Night of REST is sold out. 
+
+Please email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com) if you’d like to be added to our waiting list if tickets become available. 
 
 ***
 
