@@ -48,7 +48,9 @@ Guests must be 21+.
 
 ### Our 6th annual A Night of REST is sold out. 
 
-Please email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com) if you’d like to be added to our waiting list if tickets become available. 
+We are currently evaluating the possibility of adding more tables—so please email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com) if you’d like to be added to our waiting list if tickets become available.
+
+If you are already confirmed as a Table Captain and still need to purchase your table, email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com).
 
 ***
 
