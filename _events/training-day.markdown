@@ -31,9 +31,7 @@ Lunch will be provided for those participants taking the full REST Training Day.
 
 **Cost:** $49 for full REST Training Day (includes lunch); $24 for REST Training Day 101 only
 
-**[Register Here](https://form.jotform.com/60208694001952)**
-
-*Registration closes Thursday, October 11 at 10:00 a.m.*
+** Registration is now closed. The next REST Training Day will be January 26. Stay tuned for details!
 
 We are a Christian organization that desires to offer respectful services to individuals of all faith backgrounds. Our faith shows most strongly in our values of providing unconditional care, focusing on relationships, recognizing strengths, minimizing barriers, and walking with our clients on their journey to freedom, rather than acting as “saviors,” or attempting to proselytize. We don’t require faith engagement at REST. Instead, we simply offer a healing environment where survivors are free to incorporate their own spiritual beliefs or exploration in whatever way is comfortable for them.
 
