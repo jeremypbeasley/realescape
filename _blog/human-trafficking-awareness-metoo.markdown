@@ -1,7 +1,7 @@
 ---
 title: 'Human Trafficking Awareness Month: #MeToo'
 date: 2018-01-10 22:49:00 Z
-position: 4
+position: 8
 author: kim
 og_title: 'Human Trafficking Awareness Month: #MeToo'
 og_photo: "/uploads/REST-blog_Human-Trafficking-Awareness_MeToo.jpg"

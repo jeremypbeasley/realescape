@@ -1,7 +1,7 @@
 ---
 title: We&apos;ve Begun Our Year with a Real Game Changer
 date: 2016-10-09 00:00:00 Z
-position: 30
+position: 34
 author: bridget
 layout: blog
 ---

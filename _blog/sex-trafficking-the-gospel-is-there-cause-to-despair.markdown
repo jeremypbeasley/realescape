@@ -1,7 +1,7 @@
 ---
 title: Sex Trafficking &amp; The Gospel&#x3a; Is There Cause to Despair&#x3f;
 date: 2014-03-26 00:00:00 Z
-position: 10
+position: 14
 author: bridget
 layout: blog
 ---
