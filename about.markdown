@@ -2,7 +2,6 @@
 title: About
 position: 6
 headline: We exist to bring freedom, safety, & hope.
-layout: about
 section1_title: Our Story
 section1_body: Real Escape from the Sex Trade is an independent 501c3, Washington
   State Charitable Nonprofit Organization. REST was founded in November 2009 by a
@@ -24,7 +23,7 @@ section3_headline: Our Values
 section3_body: Our values are our attempt to articulate our identity, and to define
   the manner in which we approach our work. Our values are about how we view all people,
   in particular, our clients, and our motivation for why we do what we do.
-section3a_title: One:One Over Many
+section3a_title: One to One Over Many
 section3a_body: There are many ways to join anti-human trafficking efforts, such as
   through awareness, education, legislation, etc. Though these efforts are necessary
   and vital, today, people are suffering the consequences of sexual exploitation and
@@ -62,5 +61,6 @@ section3g_body: We serve both men and women. Those enslaved in the sex trade inc
 section3h_title: For Our Joy & His Glory
 section3h_body: Our chief end is His glory and the joy of those serving and those
   being served.
+layout: about
 ---
 
