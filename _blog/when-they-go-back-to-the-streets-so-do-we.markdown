@@ -7,7 +7,11 @@ og_desc: Since the Backpage.com shutdown, the number of people reaching out to R
   for help has doubled. REST is seeing firsthand that the lives of individuals in
   the sex trade have become more difficult and dangerous because of the unintended
   consequences of the shutdown of Backpage and other legislative changes.
+og_img: "/uploads/REST_blog_street-outreach.jpg"
+img: "/uploads/REST_blog_street-outreach.jpg"
 ---
+
+![REST Street Outreach Team](/uploads/REST_blog_street-outreach.jpg)
 
 For decades, Aurora Ave in North Seattle was known for prostitution. Women on street corners and men pulling over to pick them up was a common sight. 
 
@@ -18,6 +22,8 @@ Over time, less activity was seen on Aurora—but the sex trade didn’t disappe
 In April of 2018, the federal government seized and shut down Backpage. In a blog earlier this year, we wrote about the [unintended consequences of the shutdown](https://iwantrest.com/blog/when-backpage-disappears/)—and among them was a resurgence in trafficking activity on the streets. 
 
 That’s why we recently relaunched our Street Outreach Team.
+
+![REST Street Outreach Team](/uploads/REST_blog_street-outreach-2.jpg)
 
 “We’re relaunching because of the influx of street trafficking.” Said Jackie Loos, Outreach Coordinator at REST. “For many years, you could barely tell who’s out there—but now you’ve got women out there wearing next to nothing. I stood out there for about ten minutes one night, and I was able to watch four or five girls get into buyers’ cars.”
 
