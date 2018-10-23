@@ -9,6 +9,7 @@ og_desc: Since the Backpage.com shutdown, the number of people reaching out to R
   consequences of the shutdown of Backpage and other legislative changes.
 og_img: "/uploads/REST_blog_street-outreach.jpg"
 img: "/uploads/REST_blog_street-outreach.jpg"
+layout: blog
 ---
 
 ![REST Street Outreach Team](/uploads/REST_blog_street-outreach.jpg)
