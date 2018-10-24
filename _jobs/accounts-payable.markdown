@@ -8,4 +8,4 @@ The Accounts Payable position will lead all day-to-day operations of the account
 
 [Click here for the job description.](/uploads/REST_Accounts-Payable.pdf)
 
-To apply, email your resume and cover letter to [apply@iwantrest.com](mailto:apply@iwantrest.co
+To apply, email your resume and cover letter to [apply@iwantrest.com](mailto:apply@iwantrest.com)
