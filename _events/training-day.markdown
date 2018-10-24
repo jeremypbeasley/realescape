@@ -3,8 +3,8 @@ title: REST Training Day
 date: 2018-01-21 17:40:00 Z
 position: 3
 image: "/uploads/RTD-1-26-14.jpg"
-location: Downtown Cornerstone Church
-location_maplink: https://goo.gl/maps/j8MueMvskwJ2
+location: Bellevue Presbyterian Church
+location_maplink: https://goo.gl/maps/tyqvfWgZJmr
 excerpt: REST Training Day is designed for community members who seek to understand
   the basic dynamics of commercial sexual exploitation and sex trafficking and explore
   opportunities to volunteer with REST.
