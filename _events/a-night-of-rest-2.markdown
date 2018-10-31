@@ -52,6 +52,8 @@ We are currently evaluating the possibility of adding more tables—so please em
 
 If you are already confirmed as a Table Captain and still need to purchase your table, email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com).
 
+### [View our 2018 A Night of REST Auction Catalog here.](http://files.constantcontact.com/46e7c8cc601/6ba7e86c-e5a8-4ded-b066-91bb451e6648.pdf)
+
 ***
 
 A Night of REST 2018 is presented by [Anchor Point Foundation](https://www.anchorpointfoundation.org/) and sponsored by [Purposeful](https://www.purposeful.com/), [American Railworks](https://www.railworks.net/), [Belief Agency](https://beliefagency.com/), [Frey Buck P.S.](http://www.freybuck.com/), [Passport Unlimited](https://www.passportunlimited.com/) and [SweeneyConrad](https://www.sweeneyconrad.com/). 
