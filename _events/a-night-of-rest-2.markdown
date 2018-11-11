@@ -29,7 +29,7 @@ og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
 ![A Night of REST 2018](/uploads/ANOR18_Results.jpg)
-A Night of REST 2018 was a huge success, thanks to the generous supporters who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation in our community. Over 600 guests raised over $5##,### to provide pathways of freedom, safety, and hope. 
+A Night of REST 2018 was a huge success, thanks to the generous supporters who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation in our community. Over 600 guests raised over $514,338 to provide pathways of freedom, safety, and hope. 
 
 It’s not too late to make a gift! If you’d like to donate for A Night of REST, simply click the button below, and add “A Night of REST” in the “Additional Comments” field. Your generosity always makes a difference. 
 
