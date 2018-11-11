@@ -28,43 +28,21 @@ og_desc: 'We invite you to join us for our 6th annual A Night of REST gala and a
 og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
-![A Night of REST 2018](/uploads/ANOR18_Basic-web-sponsor_800.jpg)
-We invite you to join us for our 6th annual A Night of REST gala and auction. Prepare for an unforgettable evening as we celebrate lives changed and raise support for the hundreds of victims and survivors that still need to be reached with the message “You deserve to be loved.”
+![A Night of REST 2018](/uploads/ANOR18_Results.jpg)
+A Night of REST 2018 was a huge success, thanks to the generous supporters who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation in our community. Over 600 guests raised over $5##,### to provide pathways of freedom, safety, and hope. 
 
-Throughout the evening, you’ll have multiple opportunities to support the work that REST does—offering pathways of freedom, safety, and hope to those who are being exploited in our community.
+It’s not too late to make a gift! If you’d like to donate for A Night of REST, simply click the button below, and add “A Night of REST” in the “Additional Comments” field. Your generosity always makes a difference. 
 
-We hope you’ll join us this year at A Night of REST.
+<div align="center"><a href="https://app.etapestry.com/onlineforms/REST/donateform.html" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">GIVE NOW</a></div>
+            
+Stay tuned on our [Facebook page](https://www.facebook.com/RESTSeattle/) for photos from the night!
 
-### Event Details:
-Saturday, November 10, 2018
-
-Meydenbauer Center, Bellevue, WA
-
-5:30 p.m. Silent Auction & Cocktails
-
-7:00 p.m. Dinner, Program, Live Auction
-
-Guests must be 21+.
-
-### Our 6th annual A Night of REST is sold out. 
-
-We are currently evaluating the possibility of adding more tables—so please email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com) if you’d like to be added to our waiting list if tickets become available.
-
-If you are already confirmed as a Table Captain and still need to purchase your table, email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com).
-
-### [View our 2018 A Night of REST Auction Catalog here.](http://files.constantcontact.com/46e7c8cc601/6ba7e86c-e5a8-4ded-b066-91bb451e6648.pdf)
+Want to get updates about future REST events, and A Night of REST 2019? [Subscribe to our Events email list!](https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=21fd9123-2729-4235-a30b-557dd4356d02)
 
 ***
 
-A Night of REST 2018 is presented by [Anchor Point Foundation](https://www.anchorpointfoundation.org/) and sponsored by [Purposeful](https://www.purposeful.com/), [American Railworks](https://www.railworks.net/), [Belief Agency](https://beliefagency.com/), [Frey Buck P.S.](http://www.freybuck.com/), [Passport Unlimited](https://www.passportunlimited.com/) and [SweeneyConrad](https://www.sweeneyconrad.com/). 
+A Night of REST 2018 was presented by [Anchor Point Foundation](https://www.anchorpointfoundation.org/) and sponsored by [Purposeful](https://www.purposeful.com/), [American Railworks](https://www.railworks.net/), [Belief Agency](https://beliefagency.com/), [Frey Buck P.S.](http://www.freybuck.com/), [Passport Unlimited](https://www.passportunlimited.com/) and [SweeneyConrad](https://www.sweeneyconrad.com/). 
 
 ![A Night of REST 2018 Sponsors](/uploads/REST_ANOR_Sponsors-Graphic_v2.jpg)
 
 ***
-
-You can stay up to date with REST Events by subscribing to our [Events Newsletter](https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=21fd9123-2729-4235-a30b-557dd4356d02), and RSVPing to [A Night of REST on Facebook](http://bit.ly/2rIikkY).
-
-If you want to get involved with A Night of REST beyond attending, we’re always looking for volunteers, [auction item donations](https://form.jotform.com/81064688497169), [table captains](/uploads/ANOR18_Table-Captains.pdf), and [corporate sponsors](/uploads/ANOR%2018_Sponsor%20Benefits.pdf). If you have questions or want to get involved email [carolyn@iwantrest.com](mailto:carolyn@iwantrest.com).
-
-
-[Check out highlights from Night of REST 2017](https://iwantrest.com/blog/i-am-loved-a-night-of-rest-2017/)
