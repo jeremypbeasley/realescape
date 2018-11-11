@@ -34,6 +34,7 @@ A Night of REST 2018 was a huge success, thanks to the generous supporters who j
 It’s not too late to make a gift! If you’d like to donate for A Night of REST, simply click the button below, and add “A Night of REST” in the “Additional Comments” field. Your generosity always makes a difference. 
 
 <div align="center"><a href="https://app.etapestry.com/onlineforms/REST/donateform.html" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">GIVE NOW</a></div>
+
             
 Stay tuned on our [Facebook page](https://www.facebook.com/RESTSeattle/) for photos from the night!
 
