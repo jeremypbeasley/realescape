@@ -25,7 +25,7 @@ layout: blog
 
 We at REST wholeheartedly believe this about every survivor of sexual exploitation, every REST friend and supporter—and you. 
 
-On Saturday, November 10, we got to share and celebrate this belief with over 600 guests at our sixth annual A Night of REST auction and gala. We are absolutely blown away by the support of our sponsors, table captains, donors, volunteers, and guests. Through their combined efforts and generosity, over $514,000 was raised to provide pathways of freedom, safety, and hope to survivors of exploitation.
+On Saturday, November 10, we got to share and celebrate this belief with over 600 guests at our sixth annual [A Night of REST](https://iwantrest.com/events/a-night-of-rest-2/) auction and gala. We are absolutely blown away by the support of our sponsors, table captains, donors, volunteers, and guests. Through their combined efforts and generosity, over $514,000 was raised to provide pathways of freedom, safety, and hope to survivors of exploitation.
 
 Throughout the evening, we told the story of what can happen in a person’s life when they go from feeling unloved to feeling loved.
 
