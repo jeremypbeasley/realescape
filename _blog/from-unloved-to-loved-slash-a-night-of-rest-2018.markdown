@@ -43,7 +43,7 @@ Each of our speakers shared about the transformative power of love:
 
 ![Survivor Speaker and REST Outreach Coordinator Jacquelynn Loos](/uploads/REST_Blog_ANOR18_Jackie.jpg)
 
-“If you only remember one thing from what I’m sharing tonight remember this. REST means healing. And healing comes from a place of acceptance, belonging, and knowing you are worthy of love. I have not only been blessed to know this healing personally, I am even more blessed to carry it forward. **I deserve to be loved. You deserve to be loved.**” - Jacquelynn Loos, Survivor, REST Outreach Coordinator
+“If you only remember one thing from what I’m sharing tonight remember this. REST means healing. And healing comes from a place of acceptance, belonging, and knowing you are worthy of love. I have not only been blessed to know this healing personally, I am even more blessed to carry it forward. **I deserve to be loved. You deserve to be loved.**” - Jacquelynn Loos, Survivor, [REST Outreach Coordinator](https://iwantrest.com/blog/when-they-go-back-to-the-streets-so-do-we/)
 
 Whether you joined us at A Night of REST 2018, or you just stumbled across this blog, we hope you hear this truth: You deserve to be loved.
 
