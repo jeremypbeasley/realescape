@@ -20,7 +20,8 @@ layout: blog
 
 ![ANOR18_Results.jpg](/uploads/ANOR18_Results.jpg)
 
-**“I deserve to be loved. You deserve to be loved.”** - Jacquelynn Loos, Survivor, REST Outreach Coordinator
+**“I deserve to be loved. You deserve to be loved.”** 
+*- Jacquelynn Loos, Survivor, REST Outreach Coordinator*
 
 We at REST wholeheartedly believe this about every survivor of sexual exploitation, every REST friend and supporter—and you. 
 
@@ -34,9 +35,11 @@ As guests entered the cocktail and silent auction time, they encountered Reflect
 
 Each of our speakers shared about the transformative power of love:
 
-“At REST, we start here: **Do you know that you deserve to be loved?** We start here with our clients, with each other, and tonight, with our stakeholders. No matter how you’re different, no matter what you’ve done, you deserve it. Breathe that in a little bit tonight, and experience a little bit of REST.” - Brent Turner, Chairman of the Board of Directors
+“At REST, we start here: **Do you know that you deserve to be loved?** We start here with our clients, with each other, and tonight, with our stakeholders. No matter how you’re different, no matter what you’ve done, you deserve it. Breathe that in a little bit tonight, and experience a little bit of REST.” 
+*- Brent Turner, Chairman of the Board of Directors*
 
-“To know REST is to know that we are more than just an organization that offers services. Don’t get me wrong. It’s essential that we have services that are uniquely designed to give victims and survivors of sex trafficking a pathway to freedom, safety, and hope. **But it’s love that makes those services work.**” - Amanda Hightower, Executive Director
+“To know REST is to know that we are more than just an organization that offers services. Don’t get me wrong. It’s essential that we have services that are uniquely designed to give victims and survivors of sex trafficking a pathway to freedom, safety, and hope. **But it’s love that makes those services work.**” 
+*- Amanda Hightower, Executive Director*
 
 ![Survivor Speaker and REST Outreach Coordinator Jacquelynn Loos](/uploads/REST_Blog_ANOR18_Jackie.jpg)
 
