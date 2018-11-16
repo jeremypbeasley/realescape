@@ -19,7 +19,7 @@ excerpt: "We invite you to join us for our 6th annual A Night of REST gala and a
 event_date: 2018-11-10 00:00:00 Z
 post_date: 2018-04-17 00:00:00 Z
 exp_date: 2018-11-11 20:17:00 Z
-is_featured: true
+is_featured: false
 og_title: A Night of REST 2018
 og_desc: 'We invite you to join us for our 6th annual A Night of REST gala and auction.
   Prepare for an unforgettable evening as we celebrate lives changed and raise support
