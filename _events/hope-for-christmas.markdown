@@ -10,6 +10,7 @@ excerpt: Join REST, Citizens, Ghost Ship, and Handsome & Gretyl for an evening o
 event_date: 2018-12-06 19:30:00 Z
 post_date: 2018-09-25 00:00:00 Z
 exp_date: 2018-12-07 00:00:00 Z
+is_featured: true
 og_title: 'Hope for Christmas: Citizens, Ghost Ship, Handsome & Gretyl'
 og_desc: 'Join us for an evening of Christmas cheer bringing freedom, safety, and
   hope to victims of sex trafficking in our community. '
