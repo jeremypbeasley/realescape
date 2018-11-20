@@ -3,7 +3,7 @@ title: Giving Tuesday
 date: 2018-10-23 22:30:00 Z
 image: "/uploads/REST_GivingTuesday_tn.png"
 location: Donate Online
-location_maplink: https://app.etapestry.com/onlineforms/REST/donateform.html
+location_maplink: https://donorbox.org/givelove
 excerpt: 'There’s Black Friday, Cyber Monday—and Giving Tuesday! #GivingTuesday is
   a global day of giving where people come together to celebrate the generous spirit
   of the season by supporting organizations that they care about. '
@@ -16,7 +16,7 @@ og_desc: 'There’s Black Friday, Cyber Monday—and Giving Tuesday! #GivingTues
 og_photo: "/uploads/REST_GivingTuesday_web.png"
 ---
 
-![REST Giving Tuesday](/uploads/REST_GivingTuesday_web.png)
+![REST Giving Tuesday](/uploads/REST_Giving-Tuesday-18_web.jpg)
 
 There’s Black Friday, Cyber Monday—and Giving Tuesday! #GivingTuesday is a global day of giving where people come together to celebrate the generous spirit of the season by supporting organizations that they care about. 
 
