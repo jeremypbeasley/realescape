@@ -1,7 +1,7 @@
 ---
 title: Giving Tuesday
 date: 2018-10-23 22:30:00 Z
-image: "/uploads/REST_GivingTuesday_tn.png"
+image: "/uploads/REST_Giving-Tuesday-18_500.jpg"
 location: Donate Online
 location_maplink: https://donorbox.org/givelove
 excerpt: 'There’s Black Friday, Cyber Monday—and Giving Tuesday! #GivingTuesday is
