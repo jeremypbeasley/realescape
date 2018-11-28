@@ -1,7 +1,7 @@
 ---
 title: Emergency Receiving Shelter Case Manager
 date: 2018-10-24 13:58:00 Z
-position: 0
+position: 2
 jobdesc_file: "/uploads/REST_ERC-Case-Manager.pdf"
 ---
 

@@ -2,7 +2,7 @@
 title: Community Advocate (South King County)
 date: 2017-11-22 05:51:00 Z
 published: false
-position: 4
+position: 6
 jobdesc_file: "/uploads/REST_Community-Advocate_South-King-County.pdf"
 layout: jobs
 ---
