@@ -1,7 +1,7 @@
 ---
 title: Survivor Engagement Specialist
 date: 2018-11-15 16:34:00 Z
-position: 1
+position: 3
 jobdesc_file: "/uploads/REST_Survivor-Engagement-Specialist.pdf"
 ---
 
