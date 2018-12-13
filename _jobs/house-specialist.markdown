@@ -1,5 +1,5 @@
 ---
-title: House Specialist
+title: Housing Specialist
 date: 2018-12-07 02:58:00 Z
 jobdesc_file: "/uploads/REST_Housing-Specialist.pdf"
 ---
