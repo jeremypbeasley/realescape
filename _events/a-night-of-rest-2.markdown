@@ -12,19 +12,19 @@ position: 3
 image: "/uploads/ANOR18_Female_sq.jpg"
 location: Meydenbauer Center, Bellevue, WA
 location_maplink: https://www.google.com/maps/place/Meydenbauer+Center/@47.615916,-122.191856,15z/data=!4m2!3m1!1s0x0:0x36097b4fff1c20b9?sa=X&ved=0ahUKEwj3l5m93pTXAhXCKWMKHcV9ATYQ_BIIejAN
-excerpt: "We invite you to join us for our 6th annual A Night of REST gala and auction.
-  Prepare for an unforgettable evening as we celebrate lives changed and raise support
-  for the hundreds of victims and survivors that still need to be reached with the
-  message “You deserve to be loved.” \n"
+excerpt: 'A Night of REST 2018 was a huge success, thanks to the generous supporters
+  who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation
+  in our community. Over 600 guests raised over $514,338 to provide pathways of freedom,
+  safety, and hope. '
 event_date: 2018-11-10 00:00:00 Z
 post_date: 2018-04-17 00:00:00 Z
 exp_date: 2018-11-11 20:17:00 Z
 is_featured: false
 og_title: A Night of REST 2018
-og_desc: 'We invite you to join us for our 6th annual A Night of REST gala and auction.
-  Prepare for an unforgettable evening as we celebrate lives changed and raise support
-  for the hundreds of victims and survivors that still need to be reached with the
-  message “You deserve to be loved.” '
+og_desc: 'A Night of REST 2018 was a huge success, thanks to the generous supporters
+  who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation
+  in our community. Over 600 guests raised over $514,338 to provide pathways of freedom,
+  safety, and hope. '
 og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
