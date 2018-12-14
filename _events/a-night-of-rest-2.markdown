@@ -1,7 +1,6 @@
 ---
 title: A Night of REST 2018
 date: 2018-04-17 01:57:00 Z
-published: false
 tags:
 - Seattle
 - Events
