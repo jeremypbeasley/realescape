@@ -1,7 +1,7 @@
 ---
 title: REST Training Day
 date: 2018-01-21 17:40:00 Z
-position: 3
+position: 4
 image: "/uploads/RTD-1-26-14.jpg"
 location: Bellevue Presbyterian Church
 location_maplink: https://goo.gl/maps/tyqvfWgZJmr

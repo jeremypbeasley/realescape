@@ -2,7 +2,7 @@
 title: Eat, Drink, REST
 date: 2017-12-08 00:00:00 Z
 published: false
-position: 11
+position: 13
 image: "/uploads/MexicanMochaTrio_Square.jpg"
 location: Maritime's Jolly Roger Taproom
 location_maplink: https://www.google.com/maps/place/Jolly+Roger+Taproom/@47.6627175,-122.3738766,17z/data=!3m1!4b1!4m5!3m4!1s0x549015b73c24b95f:0xc244856261202cac!8m2!3d47.6627139!4d-122.3716879
