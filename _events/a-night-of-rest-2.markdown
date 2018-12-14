@@ -35,8 +35,6 @@ It’s not too late to make a gift! If you’d like to donate for A Night of RES
 
 <div align="center"><a href="https://app.etapestry.com/onlineforms/REST/donateform.html" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">GIVE NOW</a></div><br>
 
-            
-Stay tuned on our [Facebook page](https://www.facebook.com/RESTSeattle/) for photos from the night!
 
 Want to get updates about future REST events, and A Night of REST 2019? [Subscribe to our Events email list!](https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=21fd9123-2729-4235-a30b-557dd4356d02)
 
