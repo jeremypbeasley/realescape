@@ -8,6 +8,7 @@ tags:
 - ANOR
 - ANOR18
 - A Night of REST
+position: 2
 author: kim
 og_title: From Unloved to Loved / A Night of REST 2018
 og_desc: "“I deserve to be loved. You deserve to be loved.” - Jacquelynn Loos, Survivor,

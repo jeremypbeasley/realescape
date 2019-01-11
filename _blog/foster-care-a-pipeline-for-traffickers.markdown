@@ -1,7 +1,7 @@
 ---
 title: Foster Care&#x3a; A Pipeline for Traffickers
 date: 2014-03-07 00:00:00 Z
-position: 13
+position: 16
 author: bridget
 layout: blog
 ---

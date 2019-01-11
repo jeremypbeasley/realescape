@@ -1,7 +1,7 @@
 ---
 title: When they go back to the streets, so do we.
 date: 2018-10-23 22:18:00 Z
-position: 0
+position: 3
 author: kim
 og_title: When they go back to the streets, so do we.
 og_desc: Since the Backpage.com shutdown, the number of people reaching out to REST

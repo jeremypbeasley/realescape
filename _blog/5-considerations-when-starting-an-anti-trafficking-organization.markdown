@@ -1,7 +1,7 @@
 ---
 title: 5 Considerations When Starting an Anti-trafficking Organization
 date: 2014-06-03 00:00:00 Z
-position: 16
+position: 19
 author: bridget
 layout: blog
 ---

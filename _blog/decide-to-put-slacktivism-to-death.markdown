@@ -1,7 +1,7 @@
 ---
 title: Decide to Put Slacktivism to Death
 date: 2017-07-06 00:00:00 Z
-position: 10
+position: 13
 author: kim
 layout: blog
 ---

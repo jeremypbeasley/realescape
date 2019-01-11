@@ -7,7 +7,7 @@ tags:
 - Sex Trafficking
 - Homelessness
 - SeaHomeless
-position: 2
+position: 5
 author: kim
 og:url: https://iwantrest.com/blog/homelessness-and-sex-trafficking/
 og:type: article

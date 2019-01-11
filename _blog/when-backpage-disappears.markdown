@@ -1,7 +1,7 @@
 ---
 title: When Backpage Disappears
 date: 2018-05-23 23:05:00 Z
-position: 4
+position: 7
 author: amanda
 og:title: When Backpage Disappears
 og_desc: Since the Backpage.com shutdown, the number of people reaching out to REST

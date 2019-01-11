@@ -1,7 +1,7 @@
 ---
 title: What Happens When 500 People Come Together and
 date: 2014-11-09 00:00:00 Z
-position: 22
+position: 25
 author: bridget
 layout: blog
 ---

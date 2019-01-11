@@ -1,7 +1,7 @@
 ---
 title: Be More Kind Day
 date: 2018-09-06 19:42:00 Z
-position: 1
+position: 4
 author: kim
 og_title: Be More Kind Day
 og_desc: 'Today, by mayoral proclamation, is Be More Kind Day in Seattle—and we are

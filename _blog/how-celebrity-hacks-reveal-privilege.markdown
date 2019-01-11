@@ -1,7 +1,7 @@
 ---
 title: How Celebrity Hacks Reveal Privilege
 date: 2014-09-07 00:00:00 Z
-position: 20
+position: 23
 author: bridget
 layout: blog
 ---
