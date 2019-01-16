@@ -22,4 +22,4 @@ og_photo: "/uploads/REST_Reubens-Brews_800.jpg"
 
 Grab a beer and join us at Reuben's Brews for "Thank you Thursday" to bring freedom, safety and hope to those in our community who are exploited by the sex trade. Reuben’s Brews will donate $1 from each pint to REST from 3:00–9:00 p.m. Come hang!
 
-[RSVP on our Facebook event so we know you're coming!](https://www.facebook.com/events/357955285001303/)
+[RSVP on our Facebook event!](https://www.facebook.com/events/357955285001303/)
