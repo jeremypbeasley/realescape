@@ -13,4 +13,4 @@ The Director of Finance & Administration (DFA) provides leadership, direction, a
 
 [Click here for the job description.](/uploads/REST_Director-of-Finance-Administration.pdf)
 
-To apply, email your resume and cover letter to [apply@iwantrest.com](mailto:apply@iwantrest.com)
+To apply, email your resume and cover letter to [amanda@iwantrest.com](mailto:amanda@iwantrest.com)
