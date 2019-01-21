@@ -2,7 +2,7 @@
 title: Accounts Receivable / Office Manager
 date: 2018-08-24 16:42:00 Z
 published: false
-position: 9
+position: 12
 jobdesc_file: "/uploads/REST_Accounts-Receivable-Office-Manager.pdf"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Accounts Receivable/Database Administrator (eTapestry)
 date: 2018-11-28 17:07:00 Z
+position: 1
 jobdesc_file: "/uploads/REST_Accounts-Receivable-Database-Administrator.pdf"
 ---
 
