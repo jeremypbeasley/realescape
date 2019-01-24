@@ -8,6 +8,7 @@ og_desc: 'We believe everyone is worthy of love. That belief is at the core of e
   want to share what love looks like at REST and how it helps the process of healing
   from the trauma and wounds left by sexual exploitation. '
 og_img: "/uploads/REST_NHTAM_blog-header_honor-survivors.jpg"
+layout: blog
 ---
 
 ![Five Ways to Honor Survivors](/uploads/NHTAM_blog-header_honor-survivors_800.jpg)
