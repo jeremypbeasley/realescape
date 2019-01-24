@@ -2,12 +2,12 @@
 title: Five Ways to Honor Survivors
 date: 2019-01-24 20:08:00 Z
 author: kim
-og_title: Five Ways to Honor Survivors
-og_desc: 'We believe everyone is worthy of love. That belief is at the core of every
+og:title: Five Ways to Honor Survivors
+og:desc: 'We believe everyone is worthy of love. That belief is at the core of every
   service and program we offer. For National Human Trafficking Awareness Month, we
   want to share what love looks like at REST and how it helps the process of healing
   from the trauma and wounds left by sexual exploitation. '
-og_img: "/uploads/REST_NHTAM_blog-header_honor-survivors.jpg"
+og:img: "/uploads/REST_NHTAM_blog-header_honor-survivors.jpg"
 layout: blog
 ---
 
