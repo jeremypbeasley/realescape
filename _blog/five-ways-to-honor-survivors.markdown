@@ -3,10 +3,13 @@ title: Five Ways to Honor Survivors
 date: 2019-01-24 20:08:00 Z
 author: kim
 og:title: Five Ways to Honor Survivors
-og:desc: 'We believe everyone is worthy of love. That belief is at the core of every
-  service and program we offer. For National Human Trafficking Awareness Month, we
-  want to share what love looks like at REST and how it helps the process of healing
-  from the trauma and wounds left by sexual exploitation. '
+og:desc: 'Victims and survivors of the sex trade face astonishing levels of disrespect
+  and dishonor in every aspect of their life, from the degradation of sex buyers,
+  traffickers, and abusers, to the shame and stigma they experience in their day-to-day
+  lives from people who look down on them and treat them with little compassion and
+  humanity. During this National Human Trafficking Awareness Month, help us change
+  that experience for survivors. Here are five ways you can honor survivors in your
+  advocacy for them. '
 og:img: "/uploads/REST_NHTAM_blog-header_honor-survivors.jpg"
 layout: blog
 ---
