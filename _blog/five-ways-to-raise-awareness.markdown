@@ -8,6 +8,7 @@ og:desc: Human trafficking occurs 365 days a year, so, as January comes to a clo
   we want to invite you to continue to participate in raising awareness of this problem
   in our region and society.
 og:img: "/uploads/NHTAM_blog-header_raise-awareness.jpg"
+layout: blog
 ---
 
 ![5 Ways to Raise Awareness](/uploads/NHTAM_blog-header_raise-awareness_800.jpg)
