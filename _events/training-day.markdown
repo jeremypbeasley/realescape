@@ -20,6 +20,8 @@ og_photo: "/uploads/REST_Training-Day.jpg"
 layout: events
 ---
 
+![REST Training Day](/uploads/REST_Training-Day_0419_800.jpg)
+
 REST Training Day is designed for community members who seek to understand the basic dynamics of commercial sexual exploitation and sex trafficking and explore opportunities to volunteer with REST. The first half of the training consists of REST Training Day 101, and covers topics such as terms and definitions, risk factors, typical experiences in "the life," recruitment tactics, pornography and REST's response to the dynamics of sex trafficking. We'll take an hour break for lunch, then jump into REST Training Day 102, covering trauma and its effect on the brain, boundaries, and the principles and practice of Direct Service.
 
 For those interested in volunteering in direct service roles (Prevention, Restorative Housing, upLift Volunteer Drivers, Emergency Receiving Center, REST House, etc), the full REST Training Day (9:00 AM - 4:00 PM) is required. For those interested in non-direct service roles (admin, etc), only RTD 101 (9:00 AM - 12:00 PM) is required. If you're not interested in volunteering with REST, but would just like to learn more about the dynamics of sex trafficking and REST's response, you are welcome to attend either 101 only or both sessions.
