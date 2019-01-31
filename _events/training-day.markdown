@@ -18,6 +18,7 @@ og_desc: REST Training Day is designed for community members who seek to underst
   the basic dynamics of commercial sexual exploitation and sex trafficking and explore
   opportunities to volunteer with REST.
 og_photo: "/uploads/REST_Training-Day.jpg"
+layout: events
 ---
 
 REST Training Day is designed for community members who seek to understand the basic dynamics of commercial sexual exploitation and sex trafficking and explore opportunities to volunteer with REST. The first half of the training consists of REST Training Day 101, and covers topics such as terms and definitions, risk factors, typical experiences in "the life," recruitment tactics, pornography and REST's response to the dynamics of sex trafficking. We'll take an hour break for lunch, then jump into REST Training Day 102, covering trauma and its effect on the brain, boundaries, and the principles and practice of Direct Service.
