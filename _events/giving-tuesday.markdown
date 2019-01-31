@@ -2,7 +2,7 @@
 title: Giving Tuesday
 date: 2018-10-23 22:30:00 Z
 published: false
-position: 5
+position: 6
 image: "/uploads/REST_Giving-Tuesday-18_500.jpg"
 location: Donate Online
 location_maplink: https://donorbox.org/givelove

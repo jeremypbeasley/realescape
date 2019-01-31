@@ -2,7 +2,7 @@
 title: Pray for REST, South Seattle
 date: 2017-12-08 00:00:00 Z
 published: false
-position: 11
+position: 12
 image: "/uploads/REST_prayer-meeting_South-Seattle.jpg"
 location: REST Offices
 location_maplink: 'https://www.google.com/maps/place/REST:+Real+Escape+from+the+Sex+Trade/@47.5651503,-122.2911049,17z/data=!3m1!4b1!4m5!3m4!1s0x54906a7279baa43d:0x127be80f909d13c5!8m2!3d47.5651467!4d-122.2889162 '

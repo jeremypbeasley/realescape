@@ -2,7 +2,7 @@
 title: Hope for Christmas - Citizens, Ghost Ship, Handsome & Gretyl
 date: 2018-09-25 21:08:00 Z
 published: false
-position: 4
+position: 5
 image: "/uploads/REST_Hope-For-Christmas_400_sq.jpg"
 location: Chop Suey
 location_maplink: https://goo.gl/maps/2SUJKWmZrjH2
