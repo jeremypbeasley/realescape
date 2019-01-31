@@ -1,7 +1,6 @@
 ---
 title: REST Training Day
 date: 2019-04-27 17:40:00 Z
-published: false
 position: 2
 image: "/uploads/RTD-1-26-14.jpg"
 location: Rainier Avenue Church
