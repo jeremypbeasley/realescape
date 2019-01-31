@@ -2,7 +2,7 @@
 title: Drop-In Coordinator
 date: 2019-01-11 19:16:00 Z
 published: false
-position: 0
+position: 6
 jobdesc_file: "/uploads/REST_Drop-In-Coordinator.pdf"
 ---
 
