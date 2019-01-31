@@ -3,8 +3,8 @@ title: REST Training Day
 date: 2019-04-27 17:40:00 Z
 position: 2
 image: "/uploads/RTD-1-26-14.jpg"
-location: Bellevue Presbyterian Church
-location_maplink: https://goo.gl/maps/tyqvfWgZJmr
+location: Rainier Avenue Church
+location_maplink: https://goo.gl/maps/hKkaJ3sLJZ12
 excerpt: REST Training Day is designed for community members who seek to understand
   the basic dynamics of commercial sexual exploitation and sex trafficking and explore
   opportunities to volunteer with REST.
