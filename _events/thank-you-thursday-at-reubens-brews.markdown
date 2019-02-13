@@ -2,7 +2,7 @@
 title: Thank You Thursday at Reuben's Brews
 date: 2019-01-16 19:02:00 Z
 published: false
-position: 4
+position: 5
 image: "/uploads/REST_Reubens-Brews_sq_sm_bw.jpg"
 location: Reuben's Brews
 location_maplink: https://www.google.com/maps/place/Reuben's+Brews/@47.6654015,-122.3752873,17z/data=!3m1!4b1!4m5!3m4!1s0x549015c9c502593f:0x90d7c5a5e5dcf1ab!8m2!3d47.6653979!4d-122.3730986

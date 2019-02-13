@@ -11,7 +11,7 @@ tags:
 - Fundraiser
 - Wine
 - Federal Way
-position: 7
+position: 8
 image: "/uploads/REST_Abbe-Winery_Fundraiser_tn.jpg"
 location: Abbe Winery
 location_maplink: https://goo.gl/maps/pVy21dLdHzC2
