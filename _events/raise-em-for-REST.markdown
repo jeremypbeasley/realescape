@@ -2,7 +2,7 @@
 title: Raise 'em for REST
 date: 2019-02-13 12:01:00 Z
 position: 4
-image: "/uploads/REFR19_web-tn.jpg"
+image: "/uploads/REFR19_web_tn-300.jpg"
 location: Tune Kitchen
 location_maplink: https://www.google.com/maps/place/Tune+Kitchen/@47.612279,-122.3478418,17z/data=!4m12!1m6!3m5!1s0x5490154d0a55d08d:0x3ddaaf616aa2b4d6!2sTune+Kitchen!8m2!3d47.6122754!4d-122.3456532!3m4!1s0x5490154d0a55d08d:0x3ddaaf616aa2b4d6!8m2!3d47.6122754!4d-122.3456532
 excerpt: Don’t miss our annual poker tournament and happy hour! Go “all-in” for REST,
