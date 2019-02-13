@@ -31,8 +31,6 @@ Must be 21 to attend.
 
 <!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="https://iwantrest.ejoinme.org/MyEvents/RaiseEmforREST2019/tabid/1037273/Default.aspx" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Get Tickets</a><!-- BEGIN: Email Marketing you can trust --><div id="ctct_button_footer" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;margin-top: 10px;">For Email Marketing you can trust.</div></div>
 
-<div align="center"><https://iwantrest.ejoinme.org/MyEvents/RaiseEmforREST2019/tabid/1037273/Default.aspx" class="button" style="background-color: rgb(0, 0, 0); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px;">Get Tickets</a></div>
-
 RSVP to our [Facebook event](http://bit.ly/RaiseEmForREST19) for event updates and info.
 
 Street parking is available on all blocks near the venue. There are also six paid parking lots on Western Ave within two blocks of Tune Kitchen.  
