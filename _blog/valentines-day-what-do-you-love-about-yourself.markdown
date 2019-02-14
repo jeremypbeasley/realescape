@@ -11,6 +11,9 @@ og:img:
 layout: blog
 ---
 
+![What do you love about yourself?](/uploads/REST_Blog_Valentines-Day_800.jpg)
+
+
 At REST, everything we do is because we wholeheartedly believe that every single person is worthy of love—you, me, and every victim and survivor of sexual exploitation. We are all worthy of love. 
 
 The women and men we meet at REST have often been treated horrifically—by family, friends, abusers, and sex buyers. With that often comes a deep feeling of being unworthy of love—and that easily translates into a lack of love for oneself. 
