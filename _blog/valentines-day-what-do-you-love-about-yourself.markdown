@@ -2,6 +2,12 @@
 title: Valentine's Day—what do you love about yourself?
 date: 2019-02-14 17:42:00 Z
 published: false
+author: kim
+og:title: Valentine's Day—what do you love about yourself?
+og:desc: 'This year for Valentine’s Day, we invited the survivors who visited our
+  Drop-In Center over the last week to answer this question: What do you love about
+  yourself?'
+og:img: 
 layout: blog
 ---
 
