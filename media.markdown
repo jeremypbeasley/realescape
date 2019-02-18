@@ -11,8 +11,6 @@ We will provide information about the sex trade, what we’re doing to help expl
 
 You can submit your media request to [communication@iwantrest.com](mailto:communication@iwantrest.com).
 
-If you’d like to download our Media Kit, please fill out [this form](http://bit.ly/2jUmXEF). 
-
 ***
 ### REST in the News
 
