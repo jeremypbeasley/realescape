@@ -28,7 +28,7 @@ og_photo: "/uploads/ANOR18_Female_sq.jpg"
 
 Save the date! A Night of REST 2019 will take place on Saturday, October 5, 2019 at Meydenbauer Center. Stay tuned for more details!
 
-Want to get updates about future REST events, and A Night of REST 2019? [Subscribe to our Events email list!](https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=21fd9123-2729-4235-a30b-557dd4356d02)
+Want to get updates about future REST events and A Night of REST 2019? [Subscribe to our Events email list!](https://visitor.r20.constantcontact.com/d.jsp?llr=et4yig8ab&p=oi&m=1128713191012&sit=8rzcsxylb&f=21fd9123-2729-4235-a30b-557dd4356d02)
 
 ***
 
