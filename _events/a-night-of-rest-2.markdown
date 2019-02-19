@@ -24,7 +24,7 @@ og_desc: Save the date! A Night of REST 2019 will take place on Saturday, Octobe
 og_photo: "/uploads/ANOR18_Female_sq.jpg"
 ---
 
-![A Night of REST](/uploads/ANOR18_save-the-date_placeholder-800.jpg))
+![A Night of REST](/uploads/ANOR18_save-the-date_placeholder-800.jpg)
 
 Save the date! A Night of REST 2019 will take place on Saturday, October 5, 2019 at Meydenbauer Center! Stay tuned for more details!
 
