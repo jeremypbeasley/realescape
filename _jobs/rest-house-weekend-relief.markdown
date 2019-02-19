@@ -8,4 +8,4 @@ Weekend Relief workers at the REST House provide coverage over weekend shifts in
 
 [Click here for the job description.](/uploads/REST_Residential-Weekend-Staff.pdf)
 
-To apply, email your resume and cover letter to [apply@iwantrest.com](mailto:apply@iwantrest.c
+To apply, email your resume and cover letter to [apply@iwantrest.com](mailto:apply@iwantrest.com).
