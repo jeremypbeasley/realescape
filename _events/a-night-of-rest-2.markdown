@@ -12,10 +12,8 @@ position: 3
 image: "/uploads/ANOR18_Female_sq.jpg"
 location: Meydenbauer Center, Bellevue, WA
 location_maplink: https://www.google.com/maps/place/Meydenbauer+Center/@47.615916,-122.191856,15z/data=!4m2!3m1!1s0x0:0x36097b4fff1c20b9?sa=X&ved=0ahUKEwj3l5m93pTXAhXCKWMKHcV9ATYQ_BIIejAN
-excerpt: 'A Night of REST 2018 was a huge success, thanks to the generous supporters
-  who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation
-  in our community. Over 600 guests raised over $514,338 to provide pathways of freedom,
-  safety, and hope. '
+excerpt: Save the date! A Night of REST 2019 will take place on Saturday, October
+  5, 2019 at Meydenbauer Center! Stay tuned for more details!
 event_date: 2019-10-05 18:00:00 Z
 post_date: 2019-02-19 00:00:00 Z
 exp_date: 2019-10-05 20:17:00 Z
