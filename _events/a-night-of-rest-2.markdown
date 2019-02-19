@@ -1,6 +1,6 @@
 ---
 title: A Night of REST 2019
-date: 2018-04-17 01:57:00 Z
+date: 2019-02-19 01:57:00 Z
 tags:
 - Seattle
 - Events
@@ -16,7 +16,7 @@ excerpt: 'A Night of REST 2018 was a huge success, thanks to the generous suppor
   who joined us in declaring, “You deserve to be loved.” to victims of sexual exploitation
   in our community. Over 600 guests raised over $514,338 to provide pathways of freedom,
   safety, and hope. '
-event_date: 0005-10-01 00:00:00 Z
+event_date: 2019-10-05 18:00:00 Z
 post_date: 2019-02-19 00:00:00 Z
 exp_date: 2019-10-05 20:17:00 Z
 is_featured: false
