@@ -25,7 +25,5 @@ Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Sea
 
 When: 2nd Wednesday of each month, 8:00-9:00 a.m.
 Next meeting: March 13, 2019.
- 
-
 
 Questions? Email [prayer@iwantrest.com](mailto:prayer@iwantrest.com)
