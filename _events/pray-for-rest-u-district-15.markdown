@@ -23,8 +23,6 @@ Join us the 2nd Wednesday of each month as we pray for those experiencing the de
 
 Where: Calvary Christian Assembly (Conference Room) - 6801 Roosevelt Way NE, Seattle, WA 98115
 
-## Due to inclement weather, this gathering is canceled for February. 
-
 When: 2nd Wednesday of each month, 8:00-9:00 a.m.
 Next meeting: March 13, 2019.
  
