@@ -6,7 +6,7 @@ categories:
 - jobs
 tags:
 - jobs
-position: 1
+position: 3
 jobdesc_file: "/uploads/REST_Director-of-Finance-Administration.pdf"
 ---
 

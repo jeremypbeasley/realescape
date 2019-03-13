@@ -2,7 +2,7 @@
 title: Community Advocate for Male Survivors
 date: 2018-08-29 21:17:00 Z
 published: false
-position: 14
+position: 17
 jobdesc_file: "/uploads/REST_Community-Advocate-Male%20Survivors.pdf"
 ---
 

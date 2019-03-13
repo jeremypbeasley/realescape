@@ -1,6 +1,7 @@
 ---
 title: 'REST House: Weekend Relief'
 date: 2019-02-13 22:48:00 Z
+position: 0
 jobdesc_file: "/uploads/REST_Residential-Weekend-Staff.pdf"
 ---
 
