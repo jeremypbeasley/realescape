@@ -2,7 +2,7 @@
 title: Accounts Payable
 date: 2018-10-22 15:47:00 Z
 published: false
-position: 2
+position: 4
 jobdesc_file: "/uploads/REST_Accounts-Payable.pdf"
 ---
 
