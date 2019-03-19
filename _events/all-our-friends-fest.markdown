@@ -19,6 +19,8 @@ og_desc: 'All Our Friends Fest 2019 features some rad, up-and-coming artists fro
 ---
 
 All Our Friends Fest 2019 features some rad, up-and-coming artists from the Seattle area to kick off summer. Proceeds from ticket sales will benefit REST, a local non-profit dedicated to combating human trafficking. Local art will be auctioned off in the lobby prior to the show as well. 
+
+### [RSVP & Get Tickets Here](https://www.facebook.com/events/399967797232027/)
 -
 PERFORMERS
 -
