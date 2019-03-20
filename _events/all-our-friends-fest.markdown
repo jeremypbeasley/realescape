@@ -22,7 +22,6 @@ og_photo: "/uploads/allourf.jpg"
 All Our Friends Fest 2019 features some rad, up-and-coming artists from the Seattle area to kick off summer. Proceeds from ticket sales will benefit REST, creating pathways of freedom, safety, and hope for victims and survivors of sex trafficking. Local art will be auctioned off in the lobby prior to the show as well. 
 
 Doors: 6:00 p.m. / Start Time: 7:00 p.m.
-
 ### [RSVP & Get Tickets Here](https://www.facebook.com/events/399967797232027/)
 ***
 ### PERFORMERS
