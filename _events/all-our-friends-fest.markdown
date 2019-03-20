@@ -24,16 +24,11 @@ All Our Friends Fest 2019 features some rad, up-and-coming artists from the Seat
 ### [RSVP & Get Tickets Here](https://www.facebook.com/events/399967797232027/)
 ***
 ### PERFORMERS
-***
-2EZ 
-
-Ethan DuFault
-
-Sajan Nauriyal
-
-Van Andrew
-
-Convent Bonfires
+* 2EZ 
+* Ethan DuFault
+* Sajan Nauriyal
+* Van Andrew
+* Convent Bonfires
 
 ***
 Doors: 6:00 p.m.
