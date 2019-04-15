@@ -38,4 +38,9 @@ RSVP to our [Facebook event](http://bit.ly/RaiseEmForREST19) for event updates a
 Street parking is available on all blocks near the venue. There are also six paid parking lots on Western Ave within two blocks of Tune Kitchen.  
 
 Don't want to park? Grab a Lyft and use code [RAISEEM2019](https://www.lyft.com/invite/raiseem2019)— it's good for 15% off two rides to/from TUNE Kitchen!
+***
+
+Thank you to our beer partner for Raise 'em for REST 2019!
+
+[![Lagunitas Logo](/uploads/Low%20Res%20JPG-Logo_WithDog_Stacked_OneColor_2016.jpg)](/uploads/Low%20Res%20JPG-Logo_WithDog_Stacked_OneColor_2016.jpg)
 
